@@ -1,0 +1,65 @@
+# CONFIG FILE FOR AN EXPERIMENT
+
+data_dir: '/data/GP_FBANK_ALL_39/'
+speech_metadata: '/acoustic_word_embeddings/metadata/gp_spoken_words_metadata.tsv'
+model_save_dir: '/acoustic_word_embeddings/inprogress_models/'
+seed: 1248 #1358
+language_set: 'CZE' # CZE DEU
+eval_split: 'EVA' #DEV' #EVA
+#pretrained_model: '16032021_20_57_24_AWEs_2BiGRU_CZE_1024d_sia_02drop_FBANK_95.pth'
+pretrained_model: '13032021_00_29_35_AWEs_2BiGRU_DEU_1024d_sia_02drop_FBANK_98.pth'
+#
+word_dist_dic: '/acoustic_word_embeddings/metadata/cze_eval_word2dist.pkl'
+save_fig: '/acoustic_word_embeddings/figures/cze_sia_rand_hist_'
+#save_dict: '/acoustic_word_embeddings/cls_deu_vec'
+#
+input_signal_params:
+    acoustic_features: 'FBANK'
+    max_num_frames: 120
+    sampling_rate: 16000
+
+#
+acoustic_encoder:
+    encoder_arch: 'BiGRU'
+    spectral_dim: 39
+    max_num_frames: 120
+    hidden_state_dim: 512
+    output_dim: 1024
+    n_layers: 2
+    unit_dropout_prob: 0.2
+    frame_dropout: False # either frame_dropout or feature_dropout can be True
+    feature_dropout: False
+    signal_dropout_prob: 0.0
+#
+batch_size: 256 
+cuda: True
+catch_keyboard_interrupt: True
+reload_from_files: False
+expand_filepaths_to_save_dir: True
+
+# w/ RAND NEG
+# CZE model on DEU data
+# L: 8787    acoustic mAP: 0.411    median AP: 0.350    std AP: 0.331    min AP: 0.000    max AP: 1.000
+# L: 9964    mean tau: 0.138    median tau: 0.136    std tau: 0.096    min tau: -0.328    max tau: 0.392    
+# L: 9964    mean spr: 0.204    median spr: 0.203    std spr: 0.142    min spr: -0.479    max spr: 0.560 
+# DEU model on CZE data
+# L: 10726    acoustic mAP: 0.395    median AP: 0.330    std AP: 0.335    min AP: 0.000    max AP: 1.000
+# L: 11626    mean tau: 0.143    median tau: 0.147    std tau: 0.073    min tau: -0.201    max tau: 0.383    
+# L: 11626    mean spr: 0.213    median spr: 0.219    std spr: 0.108    min spr: -0.300    max spr: 0.552  
+
+# w/ HARD NEG
+# CZE model on DUE data
+# L: 8787    acoustic mAP: 0.399    median AP: 0.335    std AP: 0.331    min AP: 0.000    max AP: 1.000 
+# L: 9964    mean tau: 0.071    median tau: 0.071    std tau: 0.058    min tau: -0.201    max tau: 0.261    
+# L: 9964    mean spr: 0.106    median spr: 0.107    std spr: 0.086    min spr: -0.299    max spr: 0.382
+# DUE model CZE data  
+# L: 10726    acoustic mAP: 0.403    median AP: 0.335    std AP: 0.337    min AP: 0.000    max AP: 1.000 
+# L: 11626    mean tau: 0.075    median tau: 0.076    std tau: 0.050    min tau: -0.107    max tau: 0.239    
+# L: 11626    mean spr: 0.112    median spr: 0.114    std spr: 0.074    min spr: -0.157    max spr: 0.349 
+
+# word2phones 
+# CZE model on DEU data
+# L: 8787    acoustic mAP: 0.467    median AP: 0.458    std AP: 0.327    min AP: 0.000    max AP: 1.000 
+
+# DEU model on CZE data
+# L: 10726   acoustic mAP: 0.466    median AP: 0.447    std AP: 0.330    min AP: 0.000    max AP: 1.000 

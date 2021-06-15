@@ -1,0 +1,37 @@
+# CONFIG FILE FOR AN EXPERIMENT
+
+data_dir: '/data/GP_FBANK_ALL_39/'
+speech_metadata: '/acoustic_word_embeddings/metadata/gp_spoken_words_metadata.tsv'
+model_save_dir: '/acoustic_word_embeddings/inprogress_models/'
+seed: 1248 #1358
+language_set: 'CZE' # CZE DEU
+eval_split: 'EVA' #DEV' #EVA
+#pretrained_model: '12032021_23_04_44_AWEs_2BiGRU_CZE_1024d_sia_02drop_FBANK_98.pth'
+pretrained_model: '12032021_23_27_42_AWEs_2BiGRU_DEU_1024d_sia_02drop_FBANK_90.pth'
+word_dist_dic: '/acoustic_word_embeddings/metadata/cze_eval_word2dist.pkl'
+save_fig: '/acoustic_word_embeddings/figures/cze_sia_hard_hist_'
+#save_dict: '/acoustic_word_embeddings/cls_deu_vec'
+#
+input_signal_params:
+    acoustic_features: 'FBANK'
+    max_num_frames: 120
+    sampling_rate: 16000
+
+#
+acoustic_encoder:
+    encoder_arch: 'BiGRU'
+    spectral_dim: 39
+    max_num_frames: 120
+    hidden_state_dim: 512
+    output_dim: 1024
+    n_layers: 2
+    unit_dropout_prob: 0.2
+    frame_dropout: False # either frame_dropout or feature_dropout can be True
+    feature_dropout: False
+    signal_dropout_prob: 0.0
+#
+batch_size: 256 
+cuda: True
+catch_keyboard_interrupt: True
+reload_from_files: False
+expand_filepaths_to_save_dir: True

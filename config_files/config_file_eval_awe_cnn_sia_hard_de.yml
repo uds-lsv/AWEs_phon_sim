@@ -1,0 +1,47 @@
+# CONFIG FILE FOR AN EXPERIMENT
+
+data_dir: '/data/GP_FBANK_ALL_39/'
+speech_metadata: '/acoustic_word_embeddings/metadata/gp_spoken_words_metadata.tsv'
+model_save_dir: '/acoustic_word_embeddings/inprogress_models/'
+seed: 1248 #1358
+language_set: 'DEU' # CZE DEU
+eval_split: 'DEV' #DEV' #EVA
+pretrained_model: '14032021_01_43_52_AWEs_3CNNx1fc_DEU_1024d_sia_02drop_FBANK_90.pth'
+word_dist_dic: '/acoustic_word_embeddings/metadata/deu_eval_word2dist.pkl'
+save_fig: '/acoustic_word_embeddings/figures/deu_sia_hard_hist_'
+#save_dict: '/acoustic_word_embeddings/cls_deu_vec'
+#
+input_signal_params:
+    acoustic_features: 'FBANK'
+    max_num_frames: 120
+    sampling_rate: 16000
+
+#
+acoustic_encoder:
+    encoder_arch: 'CNN'
+    spectral_dim: 39
+    max_num_frames: 120
+    output_dim: 1024
+    pooling_type: 'avg'
+    frame_dropout: False # either frame_dropout or feature_dropout can be True
+    feature_dropout: False
+    signal_dropout_prob: 0.0
+    unit_dropout_prob: 0.2
+    num_channels:
+       - 256
+       - 512
+       - 1024
+    filter_sizes:
+       - 4
+       - 8
+       - 16
+    stride_steps:
+       - 1
+       - 1
+       - 1
+#
+batch_size: 256 
+cuda: True
+catch_keyboard_interrupt: True
+reload_from_files: False
+expand_filepaths_to_save_dir: True

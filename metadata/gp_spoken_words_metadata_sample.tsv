@@ -1,0 +1,1000 @@
+word_id	seg_id	spkr_id	language	spkr_gender	spkr_age	split	start	end	duration	num_ph	orth	phon	IPA	correct_IPA	frequency	file
+DEU063_70_3	DEU063_70	DEU063	DEU	male		TRA	2.06	2.71	0.65	4	autos	aU t ol s	aʊ t oː s	a ʊ t oː s	20	German/wav/063/GE063_70.wav
+CZE099_70_5	CZE099_70	CZE099	CZE	male	21.0	DEV	1.5	1.84	0.34	4	této	t ee t o	t ɛː t o	t ɛː t o	15	Czech/wav/099/CZ099_70.wav
+DEU063_82_20	DEU063_82	DEU063	DEU	male		TRA	10.96	11.34	0.38	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	618	German/wav/063/GE063_82.wav
+DEU063_33_6	DEU063_33	DEU063	DEU	male		TRA	2.74	3.21	0.47	6	wahrheit	v al r h a i t	v aː ʀ h aɪ t	v aː ʀ h a ɪ t	13	German/wav/063/GE063_33.wav
+DEU067_55_7	DEU067_55	DEU067	DEU	male		TRA	2.72	3.01	0.29	4	viele	f il l etu	f iː l ə	f iː l ə	81	German/wav/067/GE067_55.wav
+DEU047_25_15	DEU047_25	DEU047	DEU	male		TRA	9.07	9.72	0.65	7	aufgaben	aU f g al b etu n	aʊ f ɡ aː b ə n	a ʊ f ɡ aː b ə n	18	German/wav/047/GE047_25.wav
+DEU057_32_2	DEU057_32	DEU057	DEU	male		TRA	0.75	1.4	0.65	11	abgeordnete	a p g etu o r d n etu t etu	a p ɡ ə ɔ ʀ d n ə t ə	a p ɡ ə ɔ ʀ d n ə t ə	10	German/wav/057/GE057_32.wav
+CZE070_84_18	CZE070_84	CZE070	CZE	female	23.0	TRA	7.41	7.82	0.41	5	zájmů	z aa j m uu	z aː j m uː	z aː j m uː	12	Czech/wav/070/CZ070_84.wav
+CZE008_137_2	CZE008_137	CZE008	CZE	male	27.0	TRA	0.73	0.98	0.25	4	když	g d i sh	k d i ʃ	k d i ʃ	294	Czech/wav/008/CZ008_137.wav
+CZE101_48_4	CZE101_48	CZE101	CZE	female	18.0	DEV	1.72	1.99	0.27	4	tato	t a t o	t a t o	t a t o	5	Czech/wav/101/CZ101_48.wav
+CZE089_90_2	CZE089_90	CZE089	CZE	female	18.0	DEV	1.04	1.55	0.51	9	listopadu	l i s t o p a d u	l i s t o p a d u	l i s t o p a d u	10	Czech/wav/089/CZ089_90.wav
+DEU055_32_8	DEU055_32	DEU055	DEU	male		TRA	3.22	3.56	0.34	5	nichts	n i C ts	n ɪ ç t s	n ɪ ç t s	68	German/wav/055/GE055_32.wav
+DEU014_175_5	DEU014_175	DEU014	DEU	male		DEV	1.88	2.11	0.23	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/014/GE014_175.wav
+CZE014_76_9	CZE014_76	CZE014	CZE	female	21.0	TRA	3.31	3.5	0.19	4	nebo	n e b o	n ɛ b o	n ɛ b o	738	Czech/wav/014/CZ014_76.wav
+CZE021_109_21	CZE021_109	CZE021	CZE	female	19.0	TRA	7.79	8.49	0.7	10	eliminoval	e l i m i n o v a l	ɛ l i m i n o v a l	ɛ l i m i n o v a l	52	Czech/wav/021/CZ021_109.wav
+CZE022_140_17	CZE022_140	CZE022	CZE	male	47.0	TRA	7.93	8.44	0.51	7	zákonem	z aa k o n e m	z aː k o n ɛ m	z aː k o n ɛ m	113	Czech/wav/022/CZ022_140.wav
+CZE029_54_24	CZE029_54	CZE029	CZE	female	19.0	TRA	6.68	6.93	0.25	5	pěti	p j e tj i	p j ɛ c i	p j ɛ c i	61	Czech/wav/029/CZ029_54.wav
+DEU006_148_21	DEU006_148	DEU006	DEU	male		TRA	10.75	11.1	0.35	4	sind	z i n t	z ɪ n t	z ɪ n t	377	German/wav/006/GE006_148.wav
+CZE038_48_6	CZE038_48	CZE038	CZE	male	21.0	TRA	3.81	4.26	0.45	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/038/CZ038_48.wav
+DEU004_137_3	DEU004_137	DEU004	DEU	male		DEV	1.05	1.7	0.65	12	rettungskräfte	r e t u ng s k r f t etu	r ɛ t ʊ ŋ s k r ɛ f t ə	r ɛ t ʊ ŋ s k r ɛ f t ə	2	German/wav/004/GE004_137.wav
+DEU059_71_16	DEU059_71	DEU059	DEU	male		TRA	5.61	6.63	1.02	8	begegnen	b etu g el g n etu n	b ə ɡ eː ɡ n ə n	b ə ɡ eː ɡ n ə n	4	German/wav/059/GE059_71.wav
+CZE041_107_7	CZE041_107	CZE041	CZE	female	18.0	TRA	3.56	4.45	0.89	9	účastníků	uu ch a s t nj ii k uu	uː t̠ʃ a s t ɲ iː k uː	uː t̠ʃ a s t ɲ iː k uː	58	Czech/wav/041/CZ041_107.wav
+CZE034_65_11	CZE034_65	CZE034	CZE	female	21.0	TRA	5.49	5.96	0.47	7	rozjezd	r o z j e s t	r o z j ɛ s t	r o z j ɛ s t	2	Czech/wav/034/CZ034_65.wav
+CZE056_18_14	CZE056_18	CZE056	CZE	male	22.0	DEV	7.68	8.27	0.59	9	notářství	n o t aa rsh s t v ii	n o t aː r̝ s t v iː	n o t aː r̝ s t v iː	13	Czech/wav/056/CZ056_18.wav
+CZE051_58_3	CZE051_58	CZE051	CZE	male	25.0	TRA	1.38	1.65	0.27	4	nyní	n i nj ii	n i ɲ iː	n i ɲ iː	126	Czech/wav/051/CZ051_58.wav
+CZE091_63_11	CZE091_63	CZE091	CZE	female	20.0	DEV	5.52	6.4	0.88	8	desátého	d e s aa t ee h o	d ɛ s aː t ɛː ɦ o	d ɛ s aː t ɛː ɦ o	3	Czech/wav/091/CZ091_63.wav
+DEU069_61_26	DEU069_61	DEU069	DEU	male		TRA	11.24	11.31	0.07	6	ddr	t t	d eː d eː ɛ ʀ	d eː d eː ɛ ʀ	40	German/wav/069/GE069_61.wav
+DEU012_42_10	DEU012_42	DEU012	DEU	male		TRA	4.52	4.9	0.38	5	vielen	f il l etu n	f iː l ə n	f iː l ə n	24	German/wav/012/GE012_42.wav
+DEU014_55_2	DEU014_55	DEU014	DEU	male		DEV	0.39	0.66	0.27	5	sollte	z o l t etu	z ɔ l t ə	z ɔ l t ə	69	German/wav/014/GE014_55.wav
+CZE008_90_36	CZE008_90	CZE008	CZE	male	27.0	TRA	15.35	15.86	0.51	6	úvěrů	uu v j e r uu	uː v j ɛ r uː	uː v j ɛ r uː	10	Czech/wav/008/CZ008_90.wav
+CZE031_122_1	CZE031_122	CZE031	CZE	male	21.0	TRA	0.59	1.11	0.52	5	soudní	s ow d nj ii	s ou̯ d ɲ iː	s o u ̯ d ɲ iː	73	Czech/wav/031/CZ031_122.wav
+CZE044_19_19	CZE044_19	CZE044	CZE	male	20.0	TRA	8.5	9.13	0.63	8	součástky	s ow ch aa s t k i	s ou̯ t̠ʃ aː s t k i	s o u ̯ t̠ʃ aː s t k i	3	Czech/wav/044/CZ044_19.wav
+DEU005_182_3	DEU005_182	DEU005	DEU	male		TRA	1.14	1.55	0.41	6	gelten	g e l t etu n	ɡ ɛ l t ə n	ɡ ɛ l t ə n	19	German/wav/005/GE005_182.wav
+CZE026_130_1	CZE026_130	CZE026	CZE	male	25.0	EVA	0.74	1.04	0.3	4	její	j e j ii	j ɛ j iː	j ɛ j iː	191	Czech/wav/026/CZ026_130.wav
+CZE092_13_45	CZE092_13	CZE092	CZE	female	19.0	EVA	18.16	18.59	0.43	7	prvního	p r v nj ii h o	p r̩ v ɲ iː ɦ o	p r̩ v ɲ iː ɦ o	13	Czech/wav/092/CZ092_13.wav
+DEU038_63_6	DEU038_63	DEU038	DEU	male		TRA	2.04	2.45	0.41	6	freitag	f r aI t al k	f r aɪ t aː k	f r a ɪ t aː k	52	German/wav/038/GE038_63.wav
+CZE017_131_3	CZE017_131	CZE017	CZE	female	46.0	EVA	0.97	1.22	0.25	4	nyní	n i nj ii	n i ɲ iː	n i ɲ iː	126	Czech/wav/017/CZ017_131.wav
+CZE033_72_1	CZE033_72	CZE033	CZE	male	18.0	DEV	0.18	0.58	0.4	5	české	ch e s k ee	t̠ʃ ɛ s k ɛː	t̠ʃ ɛ s k ɛː	310	Czech/wav/033/CZ033_72.wav
+CZE058_95_4	CZE058_95	CZE058	CZE	male	21.0	TRA	2.75	3.44	0.69	8	právního	p r aa v nj ii h o	p r aː v ɲ iː ɦ o	p r aː v ɲ iː ɦ o	11	Czech/wav/058/CZ058_95.wav
+DEU007_51_2	DEU007_51	DEU007	DEU	male		TRA	0.62	1.09	0.47	6	haltung	h a l t u ng	h a l t ʊ ŋ	h a l t ʊ ŋ	13	German/wav/007/GE007_51.wav
+DEU033_56_3	DEU033_56	DEU033	DEU	male		TRA	0.78	1.02	0.24	7	nächsten	n k s t etu n	n ɛ ç s t ə n	n ɛ ç s t ə n	20	German/wav/033/GE033_56.wav
+DEU023_71_1	DEU023_71	DEU023	DEU	male		TRA	0.25	0.71	0.46	6	gemeint	g etu m a i n t	ɡ ə m aɪ n t	ɡ ə m a ɪ n t	4	German/wav/023/GE023_71.wav
+DEU007_162_13	DEU007_162	DEU007	DEU	male		TRA	5.37	6.16	0.79	8	geradezu	g etu r al d etu ts ul	ɡ ə r a d eː ts uː	ɡ ə r a d eː ts uː	7	German/wav/007/GE007_162.wav
+CZE006_96_3	CZE006_96	CZE006	CZE	female	26.0	TRA	1.48	1.88	0.4	7	lidských	l i t s k ii x	l i t s k iː x	l i t s k iː x	23	Czech/wav/006/CZ006_96.wav
+CZE073_17_9	CZE073_17	CZE073	CZE	female	21.0	TRA	3.93	4.5	0.57	5	millsu	m i l s u	m i l s u	m i l s u	2	Czech/wav/073/CZ073_17.wav
+DEU033_35_8	DEU033_35	DEU033	DEU	male		TRA	2.4	2.82	0.42	7	gelingen	g etu l i ng etu n	ɡ ə l ɪ ŋ ə n	ɡ ə l ɪ ŋ ə n	8	German/wav/033/GE033_35.wav
+DEU052_47_6	DEU052_47	DEU052	DEU	male		DEV	0.94	1.21	0.27	4	leute	l eU t etu	l ɔɪ t ə	l ɔ ɪ t ə	11	German/wav/052/GE052_47.wav
+DEU005_29_18	DEU005_29	DEU005	DEU	male		TRA	7.11	7.49	0.38	7	entführt	e n t f r t	ɛ n t f yː ʀ t	ɛ n t f yː ʀ t	4	German/wav/005/GE005_29.wav
+DEU041_38_21	DEU041_38	DEU041	DEU	male		TRA	7.52	7.89	0.37	6	monate	m ol n a t etu	m oː n aː t ə	m oː n aː t ə	23	German/wav/041/GE041_38.wav
+DEU071_95_13	DEU071_95	DEU071	DEU	male		TRA	5.33	5.86	0.53	6	kritik	k r il t il k	k r iː t iː k	k r iː t iː k	30	German/wav/071/GE071_95.wav
+CZE087_4_5	CZE087_4	CZE087	CZE	female	44.0	DEV	2.42	2.69	0.27	4	leží	l e zh ii	l ɛ ʒ iː	l ɛ ʒ iː	2	Czech/wav/087/CZ087_4.wav
+CZE076_103_21	CZE076_103	CZE076	CZE	male	25.0	TRA	8.85	9.14	0.29	5	těchto	tj e x t o	c ɛ x t o	c ɛ x t o	55	Czech/wav/076/CZ076_103.wav
+CZE020_114_7	CZE020_114	CZE020	CZE	female	25.0	TRA	3.01	3.54	0.53	6	zdroji	z d r o j i	z d r o j i	z d r o j i	52	Czech/wav/020/CZ020_114.wav
+DEU072_43_3	DEU072_43	DEU072	DEU	male		TRA	1.61	2.06	0.45	5	haben	h al b etu n	h aː b ə n	h aː b ə n	290	German/wav/072/GE072_43.wav
+DEU012_109_16	DEU012_109	DEU012	DEU	male		TRA	6.46	6.95	0.49	6	eigenen	a i g etu n etu n	aɪ ɡ ə n ə n	a ɪ ɡ ə n ə n	43	German/wav/012/GE012_109.wav
+CZE074_75_6	CZE074_75	CZE074	CZE	male	23.0	TRA	3.53	4.06	0.53	7	nábytku	n aa b i t k u	n aː b i t k u	n aː b i t k u	11	Czech/wav/074/CZ074_75.wav
+DEU024_80_16	DEU024_80	DEU024	DEU	male		TRA	5.37	5.57	0.2	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/024/GE024_80.wav
+CZE090_62_30	CZE090_62	CZE090	CZE	female	21.0	EVA	18.49	19.22	0.73	8	sedmnáct	s e d m n aa c t	s ɛ d m n aː ts t	s ɛ d m n aː ts t	4	Czech/wav/090/CZ090_62.wav
+DEU012_184_5	DEU012_184	DEU012	DEU	male		TRA	2.83	3.2	0.37	6	drittel	d r i t etu l	d r ɪ t ə l	d r ɪ t ə l	9	German/wav/012/GE012_184.wav
+CZE037_117_2	CZE037_117	CZE037	CZE	male	25.0	TRA	0.81	1.23	0.42	7	student	s t u d e n t	s t u d ɛ n t	s t u d ɛ n t	55	Czech/wav/037/CZ037_117.wav
+DEU060_92_4	DEU060_92	DEU060	DEU	male		TRA	1.01	1.68	0.67	10	volkspartei	f o l k s p a r t aI	f ɔ l k s p a ʀ t aɪ	f ɔ l k s p a ʀ t a ɪ	2	German/wav/060/GE060_92.wav
+CZE094_76_12	CZE094_76	CZE094	CZE	male	47.0	EVA	5.82	6.2	0.38	5	první	p r v nj ii	p r̩ v ɲ iː	p r̩ v ɲ iː	22	Czech/wav/094/CZ094_76.wav
+CZE083_77_16	CZE083_77	CZE083	CZE	male	19.0	DEV	7.01	7.25	0.24	5	rychle	r i x l e	r i x l ɛ	r i x l ɛ	2	Czech/wav/083/CZ083_77.wav
+CZE047_136_3	CZE047_136	CZE047	CZE	male	21.0	TRA	1.52	1.9	0.38	5	totiž	t o tj i sh	t o c i ʃ	t o c i ʃ	235	Czech/wav/047/CZ047_136.wav
+CZE026_26_12	CZE026_26	CZE026	CZE	male	25.0	EVA	3.45	3.86	0.41	6	částku	ch aa s t k u	t̠ʃ aː s t k u	t̠ʃ aː s t k u	18	Czech/wav/026/CZ026_26.wav
+DEU061_113_12	DEU061_113	DEU061	DEU	male		TRA	4.29	5.05	0.76	10	einzustellen	a i n ts ul S t e l etu n	aɪ n ts uː ʃ t ɛ l ə n	a ɪ n ts uː ʃ t ɛ l ə n	4	German/wav/061/GE061_113.wav
+DEU005_84_2	DEU005_84	DEU005	DEU	male		TRA	1.13	1.34	0.21	4	hatte	h a t etu	h a t ə	h a t ə	208	German/wav/005/GE005_84.wav
+DEU052_6_6	DEU052_6	DEU052	DEU	male		DEV	2.19	2.91	0.72	10	ausgebrochen	a u s g etu b r o x etu n	aʊ s ɡ ə b r ɔ x ə n	a ʊ s ɡ ə b r ɔ x ə n	13	German/wav/052/GE052_6.wav
+DEU042_39_16	DEU042_39	DEU042	DEU	male		TRA	6.69	7.39	0.7	8	leisteten	l a i s t etu t etu n	l aɪ s t ə t ə n	l a ɪ s t ə t ə n	4	German/wav/042/GE042_39.wav
+CZE080_68_5	CZE080_68	CZE080	CZE	male	18.0	TRA	2.31	2.9	0.59	9	přirozeně	p rsh i r o z e nj e	p r̝ i r o z ɛ ɲ ɛ	p r̝ i r o z ɛ ɲ ɛ	2	Czech/wav/080/CZ080_68.wav
+CZE072_17_29	CZE072_17	CZE072	CZE	female	21.0	TRA	16.27	16.63	0.36	5	proti	p r o tj i	p r o c i	p r o c i	192	Czech/wav/072/CZ072_17.wav
+CZE005_109_6	CZE005_109	CZE005	CZE	male	28.0	TRA	2.13	2.82	0.69	7	studii	s t u d i j i	s t u d i j i	s t u d i j i	52	Czech/wav/005/CZ005_109.wav
+DEU008_152_1	DEU008_152	DEU008	DEU	female		DEV	0.34	0.75	0.41	6	wenige	v el n i g etu	v eː n ɪ ɡ ə	v eː n ɪ ɡ ə	2	German/wav/008/GE008_152.wav
+CZE059_57_41	CZE059_57	CZE059	CZE	female	46.0	TRA	21.4	21.95	0.55	8	západním	z aa p a d nj ii m	z aː p a d ɲ iː m	z aː p a d ɲ iː m	2	Czech/wav/059/CZ059_57.wav
+CZE006_114_4	CZE006_114	CZE006	CZE	female	26.0	TRA	1.78	2.41	0.63	9	provádějí	p r o v aa dj e j ii	p r o v aː ɟ ɛ j iː	p r o v aː ɟ ɛ j iː	54	Czech/wav/006/CZ006_114.wav
+CZE054_68_2	CZE054_68	CZE054	CZE	male	23.0	EVA	1.15	1.65	0.5	8	používají	p ow zh ii v a j ii	p ou̯ ʒ iː v a j iː	p o u ̯ ʒ iː v a j iː	12	Czech/wav/054/CZ054_68.wav
+DEU017_60_3	DEU017_60	DEU017	DEU	male		TRA	3.36	3.68	0.32	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	618	German/wav/017/GE017_60.wav
+CZE066_61_4	CZE066_61	CZE066	CZE	female	20.0	TRA	2.33	2.72	0.39	4	zemí	z e m ii	z ɛ m iː	z ɛ m iː	37	Czech/wav/066/CZ066_61.wav
+CZE092_10_11	CZE092_10	CZE092	CZE	female	19.0	EVA	4.54	4.99	0.45	5	text	t e k s t	t ɛ k s t	t ɛ k s t	6	Czech/wav/092/CZ092_10.wav
+DEU039_16_4	DEU039_16	DEU039	DEU	male		TRA	1.63	1.96	0.33	4	wird	v i atu t	v ɪ ʀ t	v ɪ ʀ t	392	German/wav/039/GE039_16.wav
+DEU003_33_9	DEU003_33	DEU003	DEU	male		DEV	3.03	3.47	0.44	8	amtlichen	a m t l i C etu n	a m t l ɪ ç ə n	a m t l ɪ ç ə n	2	German/wav/003/GE003_33.wav
+CZE029_81_1	CZE029_81	CZE029	CZE	female	19.0	TRA	0.0	0.26	0.26	5	firma	f i r m a	f i r m a	f i r m a	134	Czech/wav/029/CZ029_81.wav
+DEU016_56_9	DEU016_56	DEU016	DEU	male		EVA	4.64	5.01	0.37	4	eines	a i n etu s	aɪ n ə s	a ɪ n ə s	155	German/wav/016/GE016_56.wav
+CZE029_83_11	CZE029_83	CZE029	CZE	female	19.0	TRA	3.49	4.01	0.52	8	manažera	m a n a zh e r a	m a n a ʒ ɛ r a	m a n a ʒ ɛ r a	17	Czech/wav/029/CZ029_83.wav
+CZE058_98_12	CZE058_98	CZE058	CZE	male	21.0	TRA	4.92	5.46	0.54	4	úctě	uu c tj e	uː ts c ɛ	uː ts c ɛ	2	Czech/wav/058/CZ058_98.wav
+CZE001_13_1	CZE001_13	CZE001	CZE	female	51.0	TRA	0.5	1.07	0.57	6	přesto	p rsh e s t o	p r̝ ɛ s t o	p r̝ ɛ s t o	152	Czech/wav/001/CZ001_13.wav
+CZE002_35_23	CZE002_35	CZE002	CZE	female	20.0	EVA	11.62	11.88	0.26	4	stal	s t a l	s t a l	s t a l	16	Czech/wav/002/CZ002_35.wav
+DEU024_119_30	DEU024_119	DEU024	DEU	male		TRA	10.14	10.65	0.51	7	beraten	b etu r al t etu n	b ə r aː t ə n	b ə r aː t ə n	12	German/wav/024/GE024_119.wav
+DEU043_85_10	DEU043_85	DEU043	DEU	male		TRA	3.27	4.03	0.76	10	ermöglichen	e r m g l i x etu n	ɛ ʀ m øː k l ɪ ç ə n	ɛ ʀ m øː k l ɪ ç ə n	4	German/wav/043/GE043_85.wav
+CZE097_97_6	CZE097_97	CZE097	CZE	female	16.0	DEV	2.28	2.78	0.5	7	životech	zh i v o t e x	ʒ i v o t ɛ x	ʒ i v o t ɛ x	2	Czech/wav/097/CZ097_97.wav
+DEU048_70_4	DEU048_70	DEU048	DEU	male		TRA	1.93	2.38	0.45	8	befanden	b etu f a n d etu n	b ə f a n d ə n	b ə f a n d ə n	7	German/wav/048/GE048_70.wav
+CZE039_87_15	CZE039_87	CZE039	CZE	male	20.0	TRA	6.99	7.4	0.41	5	české	ch e s k ee	t̠ʃ ɛ s k ɛː	t̠ʃ ɛ s k ɛː	310	Czech/wav/039/CZ039_87.wav
+CZE007_6_2	CZE007_6	CZE007	CZE	male	33.0	TRA	0.7	1.43	0.73	9	kooperace	k o o p e r a c e	k o o p ɛ r a ts ɛ	k o o p ɛ r a ts ɛ	5	Czech/wav/007/CZ007_6.wav
+DEU072_55_5	DEU072_55	DEU072	DEU	male		TRA	3.41	4.17	0.76	10	eroberungen	e r ol b etu r u ng etu n	ɛ r oː b ə r ʊ ŋ ə n	ɛ r oː b ə r ʊ ŋ ə n	2	German/wav/072/GE072_55.wav
+DEU015_135_2	DEU015_135	DEU015	DEU	male		TRA	0.99	1.17	0.18	5	länder	l n d atu	l ɛ n d ɛ	l ɛ n d ɛ	45	German/wav/015/GE015_135.wav
+DEU045_76_14	DEU045_76	DEU045	DEU	male		TRA	6.24	6.74	0.5	6	rechnen	r e C n etu n	r ɛ ç n ə n	r ɛ ç n ə n	11	German/wav/045/GE045_76.wav
+CZE053_28_10	CZE053_28	CZE053	CZE	male	20.0	TRA	4.05	4.55	0.5	7	sobotní	s o b o t nj ii	s o b o t ɲ iː	s o b o t ɲ iː	2	Czech/wav/053/CZ053_28.wav
+DEU015_88_12	DEU015_88	DEU015	DEU	male		TRA	3.87	4.54	0.67	11	unterschiedliche	u n t etu r S il t l i C etu	ʊ n t ɛ ʃ iː t l ɪ ç ə	ʊ n t ɛ ʃ iː t l ɪ ç ə	5	German/wav/015/GE015_88.wav
+DEU004_194_13	DEU004_194	DEU004	DEU	male		DEV	4.83	5.26	0.43	10	mindestens	m i n d etu s t etu n s	m ɪ n d ə s t ə n s	m ɪ n d ə s t ə n s	3	German/wav/004/GE004_194.wav
+DEU002_62_10	DEU002_62	DEU002	DEU	male		DEV	4.77	5.69	0.92	11	ostdeutschland	o s t d eU t S l a n t	ɔ s t d ɔɪ t ʃ l a n t	ɔ s t d ɔ ɪ t ʃ l a n t	4	German/wav/002/GE002_62.wav
+DEU006_9_19	DEU006_9	DEU006	DEU	male		TRA	7.77	8.66	0.89	12	konsequenzen	k o n z el k v e n ts etu n	k ɔ n z eː k v ɛ n ts ə n	k ɔ n z eː k v ɛ n ts ə n	11	German/wav/006/GE006_9.wav
+DEU074_94_4	DEU074_94	DEU074	DEU	male		TRA	1.72	2.01	0.29	4	alte	a l t etu	a l t ə	a l t ə	54	German/wav/074/GE074_94.wav
+DEU024_153_3	DEU024_153	DEU024	DEU	male		TRA	1.03	1.67	0.64	9	nuklearen	n u k l el al r etu n	n ʊ k l eː aː r ə n	n ʊ k l eː aː r ə n	2	German/wav/024/GE024_153.wav
+CZE044_48_4	CZE044_48	CZE044	CZE	male	20.0	TRA	2.54	3.06	0.52	7	přináší	p rsh i n aa sh ii	p r̝ i n aː ʃ iː	p r̝ i n aː ʃ iː	5	Czech/wav/044/CZ044_48.wav
+CZE067_99_4	CZE067_99	CZE067	CZE	male	21.0	TRA	2.06	2.42	0.36	6	začali	z a ch a l i	z a t̠ʃ a l i	z a t̠ʃ a l i	13	Czech/wav/067/CZ067_99.wav
+CZE031_123_29	CZE031_123	CZE031	CZE	male	21.0	TRA	13.42	13.94	0.52	8	obchodních	o p x o d nj ii x	o p x o d ɲ iː x	o p x o d ɲ iː x	69	Czech/wav/031/CZ031_123.wav
+CZE005_126_14	CZE005_126	CZE005	CZE	male	28.0	TRA	7.02	7.26	0.24	4	doby	d o b i	d o b i	d o b i	131	Czech/wav/005/CZ005_126.wav
+CZE003_129_5	CZE003_129	CZE003	CZE	female	26.0	TRA	1.93	2.39	0.46	8	světový	s v j e t o v ii	s v j ɛ t o v iː	s v j ɛ t o v iː	53	Czech/wav/003/CZ003_129.wav
+CZE011_26_7	CZE011_26	CZE011	CZE	female	47.0	TRA	2.45	3.11	0.66	7	prodejů	p r o d e j uu	p r o d ɛ j uː	p r o d ɛ j uː	3	Czech/wav/011/CZ011_26.wav
+DEU053_47_14	DEU053_47	DEU053	DEU	male		TRA	5.1	5.56	0.46	7	drastisch	d r a s t i S	d r a s t ɪ ʃ	d r a s t ɪ ʃ	5	German/wav/053/GE053_47.wav
+DEU012_174_4	DEU012_174	DEU012	DEU	male		TRA	1.24	1.55	0.31	4	erst	el r s t	eː ʀ s t	eː ʀ s t	98	German/wav/012/GE012_174.wav
+CZE025_107_7	CZE025_107	CZE025	CZE	male	74.0	TRA	2.68	3.6	0.92	9	účastníků	uu ch a s t nj ii k uu	uː t̠ʃ a s t ɲ iː k uː	uː t̠ʃ a s t ɲ iː k uː	58	Czech/wav/025/CZ025_107.wav
+CZE017_39_11	CZE017_39	CZE017	CZE	female	46.0	EVA	3.35	4.13	0.78	11	zákazníkovi	z aa k a z nj ii k o v i	z aː k a z ɲ iː k o v i	z aː k a z ɲ iː k o v i	5	Czech/wav/017/CZ017_39.wav
+CZE076_36_26	CZE076_36	CZE076	CZE	male	25.0	TRA	10.88	11.39	0.51	7	hodnotu	h o d n o t u	ɦ o d n o t u	ɦ o d n o t u	26	Czech/wav/076/CZ076_36.wav
+DEU057_71_14	DEU057_71	DEU057	DEU	male		TRA	4.85	5.16	0.31	6	wurden	v u atu d etu n	v ʊ ɐ d ə n	v ʊ ɐ d ə n	137	German/wav/057/GE057_71.wav
+DEU006_123_24	DEU006_123	DEU006	DEU	male		TRA	10.59	10.95	0.36	5	führen	f r etu n	f yː r ə n	f yː r ə n	27	German/wav/006/GE006_123.wav
+DEU006_29_9	DEU006_29	DEU006	DEU	male		TRA	4.29	4.89	0.6	4	unter	u n t atu	ʊ n t ɛ	ʊ n t ɛ	130	German/wav/006/GE006_29.wav
+CZE004_57_16	CZE004_57	CZE004	CZE	female	58.0	TRA	9.56	10.03	0.47	5	tisíc	tj i s ii c	c i s iː ts	c i s iː ts	378	Czech/wav/004/CZ004_57.wav
+DEU044_63_14	DEU044_63	DEU044	DEU	male		TRA	5.28	5.86	0.58	8	erklären	e r k l r etu n	ɛ ʀ k l ɛː r ə n	ɛ ʀ k l ɛː r ə n	11	German/wav/044/GE044_63.wav
+DEU003_43_17	DEU003_43	DEU003	DEU	male		DEV	6.14	6.57	0.43	6	gewählt	g etu v l t	ɡ ə v ɛː l t	ɡ ə v ɛː l t	4	German/wav/003/GE003_43.wav
+CZE023_28_3	CZE023_28	CZE023	CZE	female	25.0	TRA	1.28	1.58	0.3	4	mohl	m o h l	m o ɦ l̩	m o ɦ l̩	40	Czech/wav/023/CZ023_28.wav
+CZE080_84_5	CZE080_84	CZE080	CZE	male	18.0	TRA	2.87	3.33	0.46	6	jediná	j e dj i n aa	j ɛ ɟ i n aː	j ɛ ɟ i n aː	9	Czech/wav/080/CZ080_84.wav
+CZE008_134_18	CZE008_134	CZE008	CZE	male	27.0	TRA	9.38	9.98	0.6	7	padesát	p a d e s aa t	p a d ɛ s aː t	p a d ɛ s aː t	257	Czech/wav/008/CZ008_134.wav
+CZE023_124_7	CZE023_124	CZE023	CZE	female	25.0	TRA	3.72	4.58	0.86	11	skutečnosti	s k u t e ch n o s tj i	s k u t ɛ t̠ʃ n o s c i	s k u t ɛ t̠ʃ n o s c i	120	Czech/wav/023/CZ023_124.wav
+DEU033_28_9	DEU033_28	DEU033	DEU	male		TRA	3.27	3.57	0.3	4	schule	S ul l etu	ʃ uː l ə	ʃ uː l ə	9	German/wav/033/GE033_28.wav
+CZE094_12_4	CZE094_12	CZE094	CZE	male	47.0	EVA	2.23	2.83	0.6	5	básně	b aa s nj e	b aː s ɲ ɛ	b aː s ɲ ɛ	2	Czech/wav/094/CZ094_12.wav
+CZE007_132_33	CZE007_132	CZE007	CZE	male	33.0	TRA	9.96	10.56	0.6	8	výsledků	v ii s l e t k uu	v iː s l ɛ t k uː	v iː s l ɛ t k uː	65	Czech/wav/007/CZ007_132.wav
+DEU038_71_3	DEU038_71	DEU038	DEU	male		TRA	0.88	1.71	0.83	10	enteignungen	e n t a i g n u ng etu n	ɛ n t aɪ ɡ n ʊ ŋ ə n	ɛ n t a ɪ ɡ n ʊ ŋ ə n	3	German/wav/038/GE038_71.wav
+DEU025_10_4	DEU025_10	DEU025	DEU	male		TRA	1.47	1.96	0.49	7	anschläge	a n S l g etu	a n ʃ l ɛː ɡ ə	a n ʃ l ɛː ɡ ə	10	German/wav/025/GE025_10.wav
+DEU038_98_2	DEU038_98	DEU038	DEU	male		TRA	1.26	1.64	0.38	6	kinkel	k i n k etu l	k ɪ n k ə l	k ɪ n k ə l	32	German/wav/038/GE038_98.wav
+DEU004_161_5	DEU004_161	DEU004	DEU	male		DEV	1.45	1.83	0.38	4	kuba	k ul b al	k uː b aː	k uː b aː	2	German/wav/004/GE004_161.wav
+CZE023_122_8	CZE023_122	CZE023	CZE	female	25.0	TRA	4.36	4.9	0.54	7	protože	p r o t o zh e	p r o t o ʒ ɛ	p r o t o ʒ ɛ	296	Czech/wav/023/CZ023_122.wav
+CZE022_127_30	CZE022_127	CZE022	CZE	male	47.0	TRA	13.65	14.26	0.61	7	zpětně	s p j e t nj e	s p j ɛ t ɲ ɛ	s p j ɛ t ɲ ɛ	52	Czech/wav/022/CZ022_127.wav
+DEU023_77_13	DEU023_77	DEU023	DEU	male		TRA	7.36	7.74	0.38	5	anfang	a n f a ng	a n f a ŋ	a n f a ŋ	28	German/wav/023/GE023_77.wav
+CZE085_18_15	CZE085_18	CZE085	CZE	male	22.0	DEV	6.43	7.0	0.57	7	zůstává	z uu s t aa v aa	z uː s t aː v aː	z uː s t aː v aː	5	Czech/wav/085/CZ085_18.wav
+CZE029_125_22	CZE029_125	CZE029	CZE	female	19.0	TRA	7.89	8.18	0.29	5	proti	p r o tj i	p r o c i	p r o c i	192	Czech/wav/029/CZ029_125.wav
+CZE038_46_10	CZE038_46	CZE038	CZE	male	21.0	TRA	4.92	5.57	0.65	10	ustanovení	u s t a n o v e nj ii	u s t a n o v ɛ ɲ iː	u s t a n o v ɛ ɲ iː	17	Czech/wav/038/CZ038_46.wav
+DEU004_44_4	DEU004_44	DEU004	DEU	male		DEV	1.32	2.08	0.76	10	abzuwarten	a p ts ul v a r t etu n	a p ts uː v a ʀ t ə n	a p ts uː v a ʀ t ə n	3	German/wav/004/GE004_44.wav
+DEU069_5_12	DEU069_5	DEU069	DEU	male		TRA	5.72	6.14	0.42	5	ketten	k e t etu n	k ɛ t ə n	k ɛ t ə n	2	German/wav/069/GE069_5.wav
+CZE083_43_9	CZE083_43	CZE083	CZE	male	19.0	DEV	4.07	4.44	0.37	5	akcií	a k c i j ii	a k ts i iː	a k ts i iː	8	Czech/wav/083/CZ083_43.wav
+CZE003_130_7	CZE003_130	CZE003	CZE	female	26.0	TRA	3.48	3.86	0.38	5	české	ch e s k ee	t̠ʃ ɛ s k ɛː	t̠ʃ ɛ s k ɛː	310	Czech/wav/003/CZ003_130.wav
+CZE047_93_7	CZE047_93	CZE047	CZE	male	21.0	TRA	3.13	3.5	0.37	5	krize	k r i z e	k r i z ɛ	k r i z ɛ	9	Czech/wav/047/CZ047_93.wav
+CZE031_85_10	CZE031_85	CZE031	CZE	male	21.0	TRA	5.97	6.29	0.32	5	stále	s t aa l e	s t aː l ɛ	s t aː l ɛ	121	Czech/wav/031/CZ031_85.wav
+DEU061_76_1	DEU061_76	DEU061	DEU	male		TRA	0.2	1.05	0.85	6	fakten	f a k t etu n	f a k t ə n	f a k t ə n	4	German/wav/061/GE061_76.wav
+CZE069_44_4	CZE069_44	CZE069	CZE	female	20.0	TRA	1.99	2.56	0.57	9	pracovník	p r a c o v nj ii k	p r a ts o v ɲ iː k	p r a ts o v ɲ iː k	8	Czech/wav/069/CZ069_44.wav
+CZE053_86_22	CZE053_86	CZE053	CZE	male	20.0	TRA	12.38	13.14	0.76	9	postavení	p o s t a v e nj ii	p o s t a v ɛ ɲ iː	p o s t a v ɛ ɲ iː	20	Czech/wav/053/CZ053_86.wav
+DEU032_33_9	DEU032_33	DEU032	DEU	male		TRA	3.16	3.71	0.55	8	einstimmig	a i n S t i m i x	aɪ n ʃ t ɪ m ɪ ç	a ɪ n ʃ t ɪ m ɪ ç	2	German/wav/032/GE032_33.wav
+DEU004_174_23	DEU004_174	DEU004	DEU	male		DEV	9.27	9.63	0.36	4	allem	a l etu m	a l ə m	a l ə m	12	German/wav/004/GE004_174.wav
+CZE022_1_19	CZE022_1	CZE022	CZE	male	47.0	TRA	7.73	8.17	0.44	7	náklady	n aa k l a d i	n aː k l a d i	n aː k l a d i	115	Czech/wav/022/CZ022_1.wav
+DEU013_2_4	DEU013_2	DEU013	DEU	male		TRA	0.81	1.17	0.36	7	vielleicht	f i l aI C t	f iː l l aɪ ç t	f iː l l a ɪ ç t	37	German/wav/013/GE013_2.wav
+CZE099_92_1	CZE099_92	CZE099	CZE	male	21.0	DEV	0.84	1.24	0.4	4	ln	e l e n	ɛ l ɛ n	ɛ l ɛ n	13	Czech/wav/099/CZ099_92.wav
+CZE039_119_6	CZE039_119	CZE039	CZE	male	20.0	TRA	3.42	3.82	0.4	7	program	p r o g r a m	p r o ɡ r a m	p r o ɡ r a m	75	Czech/wav/039/CZ039_119.wav
+CZE026_75_10	CZE026_75	CZE026	CZE	male	25.0	EVA	3.99	4.43	0.44	4	část	ch aa s t	t̠ʃ aː s t	t̠ʃ aː s t	46	Czech/wav/026/CZ026_75.wav
+CZE008_124_10	CZE008_124	CZE008	CZE	male	27.0	TRA	5.55	5.78	0.23	4	jako	j a k o	j a k o	j a k o	485	Czech/wav/008/CZ008_124.wav
+DEU028_77_9	DEU028_77	DEU028	DEU	male		TRA	2.88	3.47	0.59	7	prozent	p r ol ts e n t	p r oː ts ɛ n t	p r oː ts ɛ n t	116	German/wav/028/GE028_77.wav
+CZE083_9_10	CZE083_9	CZE083	CZE	male	19.0	DEV	3.86	4.18	0.32	5	proti	p r o tj i	p r o c i	p r o c i	15	Czech/wav/083/CZ083_9.wav
+CZE007_106_12	CZE007_106	CZE007	CZE	male	33.0	TRA	5.18	5.55	0.37	6	rozpad	r o z p a t	r o s p a t	r o s p a t	52	Czech/wav/007/CZ007_106.wav
+CZE021_81_5	CZE021_81	CZE021	CZE	female	19.0	TRA	3.22	3.78	0.56	6	státní	s t aa t nj ii	s t aː t ɲ iː	s t aː t ɲ iː	66	Czech/wav/021/CZ021_81.wav
+CZE048_55_14	CZE048_55	CZE048	CZE	male	21.0	TRA	4.81	5.2	0.39	7	skupiny	s k u p i n i	s k u p i n i	s k u p i n i	19	Czech/wav/048/CZ048_55.wav
+DEU046_5_4	DEU046_5	DEU046	DEU	female		TRA	2.22	2.47	0.25	4	einen	aI n etu n	aɪ n ə n	a ɪ n ə n	298	German/wav/046/GE046_5.wav
+CZE046_43_3	CZE046_43	CZE046	CZE	female	25.0	TRA	1.68	2.01	0.33	6	budete	b u d e t e	b u d ɛ t ɛ	b u d ɛ t ɛ	9	Czech/wav/046/CZ046_43.wav
+CZE068_77_15	CZE068_77	CZE068	CZE	female	21.0	DEV	6.09	6.33	0.24	5	jeden	j e d e n	j ɛ d ɛ n	j ɛ d ɛ n	111	Czech/wav/068/CZ068_77.wav
+CZE102_72_4	CZE102_72	CZE102	CZE	male	22.0	EVA	2.02	2.36	0.34	5	kdyby	g d i b i	k d i b i	k d i b i	10	Czech/wav/102/CZ102_72.wav
+DEU029_83_8	DEU029_83	DEU029	DEU	male		EVA	2.79	3.18	0.39	8	öffentlich	f etu n t l i C	œ f ə n t l ɪ ç	œ f ə n t l ɪ ç	3	German/wav/029/GE029_83.wav
+CZE052_68_15	CZE052_68	CZE052	CZE	male	22.0	TRA	6.28	6.72	0.44	8	velikost	v e l i k o s t	v ɛ l i k o s t	v ɛ l i k o s t	7	Czech/wav/052/CZ052_68.wav
+DEU028_35_16	DEU028_35	DEU028	DEU	male		TRA	7.37	7.6	0.23	4	unter	u n t atu	ʊ n t ɛ	ʊ n t ɛ	130	German/wav/028/GE028_35.wav
+DEU059_29_9	DEU059_29	DEU059	DEU	male		TRA	2.48	2.7	0.22	4	einen	aI n etu n	aɪ n ə n	a ɪ n ə n	298	German/wav/059/GE059_29.wav
+CZE033_54_23	CZE033_54	CZE033	CZE	male	18.0	DEV	8.71	9.38	0.67	10	neodstraní	n e o t s t r a nj ii	n ɛ o t s t r a ɲ iː	n ɛ o t s t r a ɲ iː	4	Czech/wav/033/CZ033_54.wav
+DEU035_8_18	DEU035_8	DEU035	DEU	male		TRA	6.86	7.23	0.37	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	618	German/wav/035/GE035_8.wav
+CZE044_58_6	CZE044_58	CZE044	CZE	male	20.0	TRA	3.15	3.47	0.32	5	přímo	p rsh ii m o	p r̝ iː m o	p r̝ iː m o	32	Czech/wav/044/CZ044_58.wav
+CZE001_127_26	CZE001_127	CZE001	CZE	female	51.0	TRA	13.48	14.27	0.79	10	uplatňovat	u p l a t nj o v a t	u p l a t ɲ o v a t	u p l a t ɲ o v a t	111	Czech/wav/001/CZ001_127.wav
+DEU065_49_9	DEU065_49	DEU065	DEU	male		TRA	3.38	4.3	0.92	12	abgeschlossenen	a p g etu S l o s etu n etu n	a p ɡ ə ʃ l ɔ s ə n ə n	a p ɡ ə ʃ l ɔ s ə n ə n	2	German/wav/065/GE065_49.wav
+CZE094_49_68	CZE094_49	CZE094	CZE	male	47.0	EVA	37.65	38.07	0.42	4	jsme	j s m e	j s m ɛ	j s m ɛ	16	Czech/wav/094/CZ094_49.wav
+DEU052_153_5	DEU052_153	DEU052	DEU	male		DEV	1.23	1.53	0.3	4	allein	a l a i n	a l aɪ n	a l a ɪ n	32	German/wav/052/GE052_153.wav
+CZE051_109_17	CZE051_109	CZE051	CZE	male	25.0	TRA	6.36	6.97	0.61	8	prostoru	p r o s t o r u	p r o s t o r u	p r o s t o r u	58	Czech/wav/051/CZ051_109.wav
+CZE022_7_8	CZE022_7	CZE022	CZE	male	47.0	TRA	3.78	4.22	0.44	7	miliard	m i l i j a r t	m i l i a r t	m i l i a r t	31	Czech/wav/022/CZ022_7.wav
+CZE003_19_6	CZE003_19	CZE003	CZE	female	26.0	TRA	1.7	2.07	0.37	7	vozidla	v o z i d l a	v o z i d l a	v o z i d l a	18	Czech/wav/003/CZ003_19.wav
+DEU043_173_13	DEU043_173	DEU043	DEU	male		TRA	4.64	5.22	0.58	7	eisenbahn	aI z etu n b al n	aɪ z ə n b aː n	a ɪ z ə n b aː n	2	German/wav/043/GE043_173.wav
+CZE084_11_17	CZE084_11	CZE084	CZE	male	20.0	EVA	7.19	7.54	0.35	6	vazbě	v a z b j e	v a z b j ɛ	v a z b j ɛ	2	Czech/wav/084/CZ084_11.wav
+CZE096_38_5	CZE096_38	CZE096	CZE	male	18.0	EVA	2.51	2.94	0.43	5	která	k t e r aa	k t ɛ r aː	k t ɛ r aː	27	Czech/wav/096/CZ096_38.wav
+CZE013_73_12	CZE013_73	CZE013	CZE	male	21.0	TRA	6.93	7.24	0.31	4	bude	b u d e	b u d ɛ	b u d ɛ	354	Czech/wav/013/CZ013_73.wav
+CZE009_35_25	CZE009_35	CZE009	CZE	male	22.0	TRA	8.59	8.98	0.39	8	některých	nj e k t e r ii x	ɲ ɛ k t ɛ r iː x	ɲ ɛ k t ɛ r iː x	47	Czech/wav/009/CZ009_35.wav
+CZE004_97_4	CZE004_97	CZE004	CZE	female	58.0	TRA	2.4	2.93	0.53	7	vlastně	v l a s t nj e	v l a s t ɲ ɛ	v l a s t ɲ ɛ	38	Czech/wav/004/CZ004_97.wav
+DEU014_123_8	DEU014_123	DEU014	DEU	male		DEV	2.71	2.97	0.26	4	heiner	h a i n atu	h aɪ n ɛ	h a ɪ n ɛ	2	German/wav/014/GE014_123.wav
+CZE002_17_18	CZE002_17	CZE002	CZE	female	20.0	EVA	7.18	7.78	0.6	8	skutečně	s k u t e ch nj e	s k u t ɛ t̠ʃ ɲ ɛ	s k u t ɛ t̠ʃ ɲ ɛ	21	Czech/wav/002/CZ002_17.wav
+CZE015_122_34	CZE015_122	CZE015	CZE	male	17.0	TRA	15.4	15.92	0.52	9	vylepšené	v i l e p sh e n ee	v i l ɛ p ʃ ɛ n ɛː	v i l ɛ p ʃ ɛ n ɛː	52	Czech/wav/015/CZ015_122.wav
+CZE028_115_27	CZE028_115	CZE028	CZE	female	24.0	TRA	8.53	9.08	0.55	7	výhodný	v ii h o d n ii	v iː ɦ o d n iː	v iː ɦ o d n iː	52	Czech/wav/028/CZ028_115.wav
+CZE023_15_8	CZE023_15	CZE023	CZE	female	25.0	TRA	4.13	4.8	0.67	6	tisíce	tj i s ii c e	c i s iː ts ɛ	c i s iː ts ɛ	129	Czech/wav/023/CZ023_15.wav
+CZE091_47_9	CZE091_47	CZE091	CZE	female	20.0	DEV	5.92	6.67	0.75	6	domácí	d o m aa c ii	d o m aː ts iː	d o m aː ts iː	2	Czech/wav/091/CZ091_47.wav
+CZE021_111_9	CZE021_111	CZE021	CZE	female	19.0	TRA	2.1	3.08	0.98	11	uspořádáním	u s p o rzh aa d aa nj ii m	u s p o r̝ aː d aː ɲ iː m	u s p o r̝ aː d aː ɲ iː m	52	Czech/wav/021/CZ021_111.wav
+CZE027_81_18	CZE027_81	CZE027	CZE	male	22.0	TRA	8.85	9.36	0.51	8	miliardy	m i l i j a r d i	m i l i a r d i	m i l i a r d i	34	Czech/wav/027/CZ027_81.wav
+CZE011_73_8	CZE011_73	CZE011	CZE	female	47.0	TRA	3.7	4.23	0.53	7	milionů	m i l i j o n uu	m i l i o n uː	m i l i o n uː	47	Czech/wav/011/CZ011_73.wav
+CZE028_126_14	CZE028_126	CZE028	CZE	female	24.0	TRA	6.56	6.79	0.23	4	doby	d o b i	d o b i	d o b i	131	Czech/wav/028/CZ028_126.wav
+CZE033_128_34	CZE033_128	CZE033	CZE	male	18.0	DEV	13.22	13.77	0.55	8	katastru	k a t a s t r u	k a t a s t r u	k a t a s t r u	55	Czech/wav/033/CZ033_128.wav
+DEU065_100_5	DEU065_100	DEU065	DEU	male		TRA	1.38	1.95	0.57	10	krankenhaus	k r a ng k etu n h a u s	k r a n k ə n h aʊ s	k r a n k ə n h a ʊ s	15	German/wav/065/GE065_100.wav
+CZE022_73_14	CZE022_73	CZE022	CZE	male	47.0	TRA	5.1	5.85	0.75	7	gigajoul	g i g a d zh aw l	ɡ i ɡ a j ou̯ l	ɡ i ɡ a j o u ̯ l	5	Czech/wav/022/CZ022_73.wav
+DEU005_108_5	DEU005_108	DEU005	DEU	male		TRA	1.61	2.22	0.61	9	bekämpfung	b etu k m p f u ng	b ə k ɛ m p f ʊ ŋ	b ə k ɛ m p f ʊ ŋ	8	German/wav/005/GE005_108.wav
+DEU068_6_2	DEU068_6	DEU068	DEU	male		TRA	0.66	1.15	0.49	6	schicksal	S i k z al l	ʃ ɪ k z aː l	ʃ ɪ k z aː l	5	German/wav/068/GE068_6.wav
+DEU013_111_16	DEU013_111	DEU013	DEU	male		TRA	5.1	5.83	0.73	9	umzusetzen	u m ts ul z e ts etu n	ʊ m ts uː z ɛ ts ə n	ʊ m ts uː z ɛ ts ə n	5	German/wav/013/GE013_111.wav
+CZE015_103_20	CZE015_103	CZE015	CZE	male	17.0	TRA	6.98	7.22	0.24	5	době	d o b j e	d o b j ɛ	d o b j ɛ	121	Czech/wav/015/CZ015_103.wav
+DEU002_55_3	DEU002_55	DEU002	DEU	male		DEV	0.72	0.98	0.26	4	seien	z aI etu n	z aɪ ə n	z a ɪ ə n	18	German/wav/002/GE002_55.wav
+CZE030_134_3	CZE030_134	CZE030	CZE	male	21.0	TRA	1.72	2.42	0.7	10	automobilky	aw t o m o b i l k i	au t o m o b i l k i	a u t o m o b i l k i	60	Czech/wav/030/CZ030_134.wav
+CZE025_115_24	CZE025_115	CZE025	CZE	male	74.0	TRA	8.99	9.3	0.31	4	vůči	v uu ch i	v uː t̠ʃ i	v uː t̠ʃ i	186	Czech/wav/025/CZ025_115.wav
+DEU029_26_3	DEU029_26	DEU029	DEU	male		EVA	0.75	0.92	0.17	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	101	German/wav/029/GE029_26.wav
+DEU051_60_21	DEU051_60	DEU051	DEU	male		EVA	6.58	6.96	0.38	7	operiert	ol p etu r il r t	oː p eː r iː ʀ t	oː p eː r iː ʀ t	3	German/wav/051/GE051_60.wav
+CZE045_127_11	CZE045_127	CZE045	CZE	male	23.0	TRA	3.82	4.41	0.59	7	nájemné	n aa j e m n ee	n aː j ɛ m n ɛː	n aː j ɛ m n ɛː	68	Czech/wav/045/CZ045_127.wav
+CZE095_7_5	CZE095_7	CZE095	CZE	male	18.0	DEV	2.0	2.52	0.52	5	prahy	p r a h i	p r a ɦ i	p r a ɦ i	6	Czech/wav/095/CZ095_7.wav
+DEU022_98_11	DEU022_98	DEU022	DEU	male		TRA	3.5	4.35	0.85	14	sympathisanten	z ue m p a t i s a n t etu n	z ʏ m p a t h iː z a n t ə n	z ʏ m p a t h iː z a n t ə n	3	German/wav/022/GE022_98.wav
+DEU054_42_18	DEU054_42	DEU054	DEU	male		TRA	5.62	6.06	0.44	5	länder	l n d atu	l ɛ n d ɛ	l ɛ n d ɛ	45	German/wav/054/GE054_42.wav
+DEU043_190_9	DEU043_190	DEU043	DEU	male		TRA	3.23	4.04	0.81	10	unterrichtet	u n t etu r r i C t etu t	ʊ n t ɛ r ɪ ç t ə t	ʊ n t ɛ r ɪ ç t ə t	3	German/wav/043/GE043_190.wav
+CZE060_24_27	CZE060_24	CZE060	CZE	male	21.0	TRA	12.27	13.12	0.85	10	čtrnáctého	ch t r n aa c t ee h o	t̠ʃ t r̩ n aː ts t ɛː ɦ o	t̠ʃ t r̩ n aː ts t ɛː ɦ o	4	Czech/wav/060/CZ060_24.wav
+DEU051_122_5	DEU051_122	DEU051	DEU	male		EVA	1.57	1.84	0.27	4	ihrem	il r etu m	iː r ə m	iː r ə m	41	German/wav/051/GE051_122.wav
+CZE020_84_10	CZE020_84	CZE020	CZE	female	25.0	TRA	4.41	4.89	0.48	9	návštěvě	n aa f sh tj e v j e	n aː f ʃ c ɛ v j ɛ	n aː f ʃ c ɛ v j ɛ	7	Czech/wav/020/CZ020_84.wav
+DEU040_85_7	DEU040_85	DEU040	DEU	male		TRA	1.98	2.42	0.44	7	kämpfen	k m p f etu n	k ɛ m p f ə n	k ɛ m p f ə n	9	German/wav/040/GE040_85.wav
+DEU041_56_11	DEU041_56	DEU041	DEU	male		TRA	4.58	5.36	0.78	11	vorkommnissen	f ol r k o m n i s etu n	f oː ʀ k ɔ m n ɪ s ə n	f oː ʀ k ɔ m n ɪ s ə n	2	German/wav/041/GE041_56.wav
+CZE079_34_6	CZE079_34	CZE079	CZE	female	20.0	TRA	3.17	3.52	0.35	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/079/CZ079_34.wav
+CZE078_10_22	CZE078_10	CZE078	CZE	male	20.0	TRA	6.33	6.74	0.41	6	kameny	k a m e n i	k a m ɛ n i	k a m ɛ n i	14	Czech/wav/078/CZ078_10.wav
+DEU007_146_12	DEU007_146	DEU007	DEU	male		TRA	4.34	5.19	0.85	11	weiterzukommen	v a i t etu r ts ul k o m etu n	v aɪ t ɛ ts uː k ɔ m ə n	v a ɪ t ɛ ts uː k ɔ m ə n	2	German/wav/007/GE007_146.wav
+DEU008_6_19	DEU008_6	DEU008	DEU	female		DEV	5.74	6.04	0.3	4	sind	z i n t	z ɪ n t	z ɪ n t	56	German/wav/008/GE008_6.wav
+CZE069_18_6	CZE069_18	CZE069	CZE	female	20.0	TRA	1.79	2.05	0.26	4	více	v ii c e	v iː ts ɛ	v iː ts ɛ	146	Czech/wav/069/CZ069_18.wav
+CZE015_81_4	CZE015_81	CZE015	CZE	male	17.0	TRA	1.85	2.15	0.3	4	léta	l ee t a	l ɛː t a	l ɛː t a	12	Czech/wav/015/CZ015_81.wav
+DEU003_169_6	DEU003_169	DEU003	DEU	male		DEV	2.78	3.84	1.06	13	informationen	i n f o r m a ts il ol n etu n	ɪ n f ɔ ʀ m a ts ɪ oː n ə n	ɪ n f ɔ ʀ m a ts ɪ oː n ə n	6	German/wav/003/GE003_169.wav
+CZE091_39_5	CZE091_39	CZE091	CZE	female	20.0	DEV	16.41	17.24	0.83	9	tolerance	t o l e r a n c e	t o l ɛ r a n ts ɛ	t o l ɛ r a n ts ɛ	2	Czech/wav/091/CZ091_39.wav
+CZE031_47_6	CZE031_47	CZE031	CZE	male	21.0	TRA	3.26	3.66	0.4	5	ruská	r u s k aa	r u s k aː	r u s k aː	8	Czech/wav/031/CZ031_47.wav
+DEU034_193_9	DEU034_193	DEU034	DEU	male		TRA	2.35	2.77	0.42	5	frage	f r al g etu	f r aː ɡ ə	f r aː ɡ ə	76	German/wav/034/GE034_193.wav
+CZE051_135_37	CZE051_135	CZE051	CZE	male	25.0	TRA	16.2	16.72	0.52	10	devatenáct	d e v a t e n aa c t	d ɛ v a t ɛ n aː ts t	d ɛ v a t ɛ n aː ts t	433	Czech/wav/051/CZ051_135.wav
+CZE029_115_21	CZE029_115	CZE029	CZE	female	19.0	TRA	4.8	5.15	0.35	4	kurz	k u r s	k u r s	k u r s	56	Czech/wav/029/CZ029_115.wav
+DEU013_47_2	DEU013_47	DEU013	DEU	male		TRA	0.54	0.88	0.34	4	früher	f r h el r	f r yː ɛ	f r yː ɛ	18	German/wav/013/GE013_47.wav
+CZE008_111_15	CZE008_111	CZE008	CZE	male	27.0	TRA	7.24	7.65	0.41	5	silně	s i l nj e	s i l ɲ ɛ	s i l ɲ ɛ	56	Czech/wav/008/CZ008_111.wav
+DEU049_73_9	DEU049_73	DEU049	DEU	female		TRA	2.78	3.15	0.37	7	erfahren	e r f al r etu n	ɛ ʀ f aː r ə n	ɛ ʀ f aː r ə n	13	German/wav/049/GE049_73.wav
+DEU052_137_7	DEU052_137	DEU052	DEU	male		DEV	3.6	3.87	0.27	5	gegen	g el g etu n	ɡ eː ɡ ə n	ɡ eː ɡ ə n	221	German/wav/052/GE052_137.wav
+CZE092_36_1	CZE092_36	CZE092	CZE	female	19.0	EVA	0.64	0.92	0.28	4	přes	p rsh e s	p r̝ ɛ s	p r̝ ɛ s	6	Czech/wav/092/CZ092_36.wav
+CZE032_6_11	CZE032_6	CZE032	CZE	female	24.0	TRA	6.49	7.05	0.56	4	práv	p r aa f	p r aː v	p r aː v	72	Czech/wav/032/CZ032_6.wav
+CZE093_42_2	CZE093_42	CZE093	CZE	male	20.0	DEV	0.84	1.13	0.29	4	zemi	z e m i	z ɛ m i	z ɛ m i	3	Czech/wav/093/CZ093_42.wav
+CZE033_140_22	CZE033_140	CZE033	CZE	male	18.0	DEV	9.83	10.36	0.53	9	dokládají	d o k l aa d a j ii	d o k l aː d a j iː	d o k l aː d a j iː	52	Czech/wav/033/CZ033_140.wav
+CZE027_114_17	CZE027_114	CZE027	CZE	male	22.0	TRA	7.15	8.14	0.99	7	počítač	p o ch ii t a ch	p o t̠ʃ iː t a t̠ʃ	p o t̠ʃ iː t a t̠ʃ	57	Czech/wav/027/CZ027_114.wav
+CZE085_38_8	CZE085_38	CZE085	CZE	male	22.0	DEV	3.34	3.58	0.24	4	lidí	l i dj ii	l i ɟ iː	l i ɟ iː	9	Czech/wav/085/CZ085_38.wav
+DEU016_83_12	DEU016_83	DEU016	DEU	male		EVA	4.24	4.65	0.41	6	gehabt	g etu h al p t	ɡ ə h aː p t	ɡ ə h aː p t	11	German/wav/016/GE016_83.wav
+DEU020_47_20	DEU020_47	DEU020	DEU	male		EVA	6.7	7.33	0.63	8	entscheidung	e n t S a i d u ng	ɛ n t ʃ aɪ d ʊ ŋ	ɛ n t ʃ a ɪ d ʊ ŋ	5	German/wav/020/GE020_47.wav
+DEU074_53_9	DEU074_53	DEU074	DEU	male		TRA	3.31	3.66	0.35	4	schnell	S n e l	ʃ n ɛ l	ʃ n ɛ l	26	German/wav/074/GE074_53.wav
+DEU010_136_6	DEU010_136	DEU010	DEU	female		DEV	2.04	2.6	0.56	9	gleichzeitig	g l aI C ts a i t i C	ɡ l aɪ ç ts aɪ t ɪ ç	ɡ l a ɪ ç ts a ɪ t ɪ ç	7	German/wav/010/GE010_136.wav
+CZE045_135_38	CZE045_135	CZE045	CZE	male	23.0	TRA	18.15	18.74	0.59	9	devadesát	d e v a d e s aa t	d ɛ v a d ɛ s aː t	d ɛ v a d ɛ s aː t	417	Czech/wav/045/CZ045_135.wav
+DEU006_38_9	DEU006_38	DEU006	DEU	male		TRA	4.03	4.72	0.69	8	privaten	p r il v al t etu n	p r iː v aː t ə n	p r iː v aː t ə n	15	German/wav/006/GE006_38.wav
+DEU063_93_14	DEU063_93	DEU063	DEU	male		TRA	5.47	6.19	0.72	9	verhaftet	f e r h a f t etu t	f ɛ ʀ h a f t ə t	f ɛ ʀ h a f t ə t	11	German/wav/063/GE063_93.wav
+CZE029_122_25	CZE029_122	CZE029	CZE	female	19.0	TRA	9.05	9.58	0.53	6	kroužku	k r ow sh k u	k r ou̯ ʃ k u	k r o u ̯ ʃ k u	52	Czech/wav/029/CZ029_122.wav
+CZE002_104_28	CZE002_104	CZE002	CZE	female	20.0	EVA	10.75	11.34	0.59	6	ohledu	o h l e d u	o ɦ l ɛ d u	o ɦ l ɛ d u	60	Czech/wav/002/CZ002_104.wav
+CZE018_125_6	CZE018_125	CZE018	CZE	female	26.0	TRA	3.26	3.91	0.65	7	vloupání	v l ow p aa nj ii	v l ou̯ p aː ɲ iː	v l o u ̯ p aː ɲ iː	52	Czech/wav/018/CZ018_125.wav
+CZE003_23_14	CZE003_23	CZE003	CZE	female	26.0	TRA	3.62	4.23	0.61	9	životnost	zh i v o t n o s t	ʒ i v o t n o s t	ʒ i v o t n o s t	4	Czech/wav/003/CZ003_23.wav
+CZE021_40_4	CZE021_40	CZE021	CZE	female	19.0	TRA	1.61	2.09	0.48	5	faktu	f a k t u	f a k t u	f a k t u	4	Czech/wav/021/CZ021_40.wav
+CZE029_14_3	CZE029_14	CZE029	CZE	female	19.0	TRA	0.87	1.19	0.32	5	nejsou	n e j s ow	n ɛ ɪ s ou̯	n ɛ ɪ s o u ̯	103	Czech/wav/029/CZ029_14.wav
+CZE031_82_27	CZE031_82	CZE031	CZE	male	21.0	TRA	14.59	15.1	0.51	6	centra	c e n t r a	ts ɛ n t r a	ts ɛ n t r a	6	Czech/wav/031/CZ031_82.wav
+DEU043_51_5	DEU043_51	DEU043	DEU	male		TRA	2.01	2.23	0.22	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/043/GE043_51.wav
+CZE056_69_18	CZE056_69	CZE056	CZE	male	22.0	DEV	6.47	7.07	0.6	7	provedl	p r o v e d l	p r o v ɛ d l̩	p r o v ɛ d l̩	5	Czech/wav/056/CZ056_69.wav
+CZE044_121_25	CZE044_121	CZE044	CZE	male	20.0	TRA	11.39	12.25	0.86	11	soutěžitelem	s ow tj e zh i t e l e m	s ou̯ c ɛ ʒ i t ɛ l ɛ m	s o u ̯ c ɛ ʒ i t ɛ l ɛ m	52	Czech/wav/044/CZ044_121.wav
+CZE022_117_15	CZE022_117	CZE022	CZE	male	47.0	TRA	6.58	7.33	0.75	9	zaměření	z a m nj e rzh e nj ii	z a m ɲ ɛ r̝ ɛ ɲ iː	z a m ɲ ɛ r̝ ɛ ɲ iː	54	Czech/wav/022/CZ022_117.wav
+CZE042_128_58	CZE042_128	CZE042	CZE	female	22.0	TRA	25.74	26.16	0.42	5	vklad	f k l a t	f k l a t	f k l a t	54	Czech/wav/042/CZ042_128.wav
+DEU057_89_5	DEU057_89	DEU057	DEU	male		TRA	1.47	1.93	0.46	7	kroaten	k r ol al t etu n	k r oː aː t ə n	k r oː aː t ə n	26	German/wav/057/GE057_89.wav
+DEU009_179_6	DEU009_179	DEU009	DEU	male		EVA	2.6	3.27	0.67	12	brandenburgs	b r a n d etu n b u r k s	b r a n d ə n b ʊ ɐ k s	b r a n d ə n b ʊ ɐ k s	3	German/wav/009/GE009_179.wav
+CZE039_31_2	CZE039_31	CZE039	CZE	male	20.0	TRA	1.55	2.23	0.68	8	rovnosti	r o v n o s tj i	r o v n o s c i	r o v n o s c i	2	Czech/wav/039/CZ039_31.wav
+CZE015_87_15	CZE015_87	CZE015	CZE	male	17.0	TRA	5.91	6.76	0.85	10	obchodování	o p x o d o v aa nj ii	o p x o d o v aː ɲ iː	o p x o d o v aː ɲ iː	17	Czech/wav/015/CZ015_87.wav
+DEU052_36_4	DEU052_36	DEU052	DEU	male		DEV	1.56	2.05	0.49	8	programme	p r ol g r a m etu	p r oː ɡ r a m ə	p r oː ɡ r a m ə	3	German/wav/052/GE052_36.wav
+DEU006_111_8	DEU006_111	DEU006	DEU	male		TRA	3.93	4.44	0.51	6	eheleute	el h e l eU t etu	eː ə l ɔɪ t ə	eː ə l ɔ ɪ t ə	3	German/wav/006/GE006_111.wav
+DEU050_127_2	DEU050_127	DEU050	DEU	male		TRA	0.39	0.97	0.58	10	motivation	m ol t il v a ts il ol n	m oː t iː v a ts ɪ oː n	m oː t iː v a ts ɪ oː n	2	German/wav/050/GE050_127.wav
+DEU058_73_8	DEU058_73	DEU058	DEU	male		TRA	3.15	3.46	0.31	4	liegt	l il k t	l iː k t	l iː k t	43	German/wav/058/GE058_73.wav
+DEU069_51_10	DEU069_51	DEU069	DEU	male		TRA	4.41	4.7	0.29	5	gegen	g el g etu n	ɡ eː ɡ ə n	ɡ eː ɡ ə n	221	German/wav/069/GE069_51.wav
+DEU054_13_1	DEU054_13	DEU054	DEU	male		TRA	0.28	0.78	0.5	8	inzwischen	i n ts v i S etu n	ɪ n ts v ɪ ʃ ə n	ɪ n ts v ɪ ʃ ə n	42	German/wav/054/GE054_13.wav
+CZE041_129_11	CZE041_129	CZE041	CZE	female	18.0	TRA	5.83	6.41	0.58	7	tradice	t r a d i c e	t r a d i ts ɛ	t r a d i ts ɛ	56	Czech/wav/041/CZ041_129.wav
+DEU057_22_15	DEU057_22	DEU057	DEU	male		TRA	4.76	5.28	0.52	8	jemanden	j el m a n d etu n	j eː m a n d ə n	j eː m a n d ə n	6	German/wav/057/GE057_22.wav
+CZE067_83_2	CZE067_83	CZE067	CZE	male	21.0	TRA	0.76	1.34	0.58	7	znamená	z n a m e n aa	z n a m ɛ n aː	z n a m ɛ n aː	99	Czech/wav/067/CZ067_83.wav
+DEU064_80_6	DEU064_80	DEU064	DEU	male		TRA	2.64	3.1	0.46	7	zunächst	ts ul n k s t	ts uː n ɛ ç s t	ts uː n ɛ ç s t	67	German/wav/064/GE064_80.wav
+CZE014_139_2	CZE014_139	CZE014	CZE	female	21.0	TRA	0.82	1.37	0.55	9	produktem	p r o d u k t e m	p r o d u k t ɛ m	p r o d u k t ɛ m	55	Czech/wav/014/CZ014_139.wav
+DEU071_66_3	DEU071_66	DEU071	DEU	male		TRA	1.4	1.62	0.22	4	heißt	h a i t	h aɪ s t	h a ɪ s t	26	German/wav/071/GE071_66.wav
+DEU057_13_5	DEU057_13	DEU057	DEU	male		TRA	2.06	2.27	0.21	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/057/GE057_13.wav
+CZE011_116_9	CZE011_116	CZE011	CZE	female	47.0	TRA	2.96	3.45	0.49	8	nejlepší	n e j l e p sh ii	n ɛ ɪ l ɛ p ʃ iː	n ɛ ɪ l ɛ p ʃ iː	74	Czech/wav/011/CZ011_116.wav
+CZE098_18_8	CZE098_18	CZE098	CZE	female	16.0	EVA	5.04	5.67	0.63	9	ředitelem	rzh e dj i t e l e m	r̝ ɛ ɟ i t ɛ l ɛ m	r̝ ɛ ɟ i t ɛ l ɛ m	2	Czech/wav/098/CZ098_18.wav
+CZE067_70_1	CZE067_70	CZE067	CZE	male	21.0	TRA	0.56	1.03	0.47	5	počet	p o ch e t	p o t̠ʃ ɛ t	p o t̠ʃ ɛ t	106	Czech/wav/067/CZ067_70.wav
+DEU056_8_7	DEU056_8	DEU056	DEU	male		DEV	2.5	2.91	0.41	7	offenbar	o f etu n b al r	ɔ f ə n b aː ʀ	ɔ f ə n b aː ʀ	51	German/wav/056/GE056_8.wav
+DEU006_38_4	DEU006_38	DEU006	DEU	male		TRA	0.95	2.01	1.06	17	regierungsmitgliedern	r e g il r u ng s m i t g l il d atu n	r eː ɡ iː r ʊ ŋ s m ɪ t ɡ l iː d ɛ n	r eː ɡ iː r ʊ ŋ s m ɪ t ɡ l iː d ɛ n	2	German/wav/006/GE006_38.wav
+DEU031_50_21	DEU031_50	DEU031	DEU	male		TRA	7.81	8.23	0.42	7	botschaft	b ol t S a f t	b oː t ʃ a f t	b oː t ʃ a f t	9	German/wav/031/GE031_50.wav
+DEU013_106_11	DEU013_106	DEU013	DEU	male		TRA	4.58	5.05	0.47	8	standort	S t a n t o r t	ʃ t a n d ɔ ʀ t	ʃ t a n d ɔ ʀ t	5	German/wav/013/GE013_106.wav
+DEU003_118_2	DEU003_118	DEU003	DEU	male		DEV	0.84	1.35	0.51	7	einzelne	a i n ts etu l n etu	aɪ n ts ɛ l n ə	a ɪ n ts ɛ l n ə	2	German/wav/003/GE003_118.wav
+CZE003_113_4	CZE003_113	CZE003	CZE	female	26.0	TRA	1.35	1.87	0.52	6	zaujmout	z aw j m ow t	z au j m ou̯ t	z a u j m o u ̯ t	55	Czech/wav/003/CZ003_113.wav
+CZE040_128_12	CZE040_128	CZE040	CZE	female	21.0	TRA	4.71	5.05	0.34	6	devět	d e v j e t	d ɛ v j ɛ t	d ɛ v j ɛ t	117	Czech/wav/040/CZ040_128.wav
+CZE041_104_35	CZE041_104	CZE041	CZE	female	18.0	TRA	10.82	11.31	0.49	8	nebytový	n e b i t o v ii	n ɛ b i t o v iː	n ɛ b i t o v iː	52	Czech/wav/041/CZ041_104.wav
+CZE100_100_25	CZE100_100	CZE100	CZE	female	25.0	EVA	8.92	9.37	0.45	5	svět	s v j e t	s v j ɛ t	s v j ɛ t	3	Czech/wav/100/CZ100_100.wav
+CZE050_1_9	CZE050_1	CZE050	CZE	female	21.0	TRA	3.29	3.53	0.24	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/050/CZ050_1.wav
+CZE003_134_16	CZE003_134	CZE003	CZE	female	26.0	TRA	6.66	7.22	0.56	9	přibližně	p rsh i b l i zh nj e	p r̝ i b l i ʒ ɲ ɛ	p r̝ i b l i ʒ ɲ ɛ	176	Czech/wav/003/CZ003_134.wav
+CZE021_80_17	CZE021_80	CZE021	CZE	female	19.0	TRA	7.79	8.49	0.7	8	federace	f e d e r a c e	f ɛ d ɛ r a ts ɛ	f ɛ d ɛ r a ts ɛ	11	Czech/wav/021/CZ021_80.wav
+DEU003_39_10	DEU003_39	DEU003	DEU	male		DEV	3.91	4.53	0.62	10	bürgermeister	b r g etu r m aI s t atu	b ʏ ʀ ɡ ɛ m aɪ s t ɛ	b ʏ ʀ ɡ ɛ m a ɪ s t ɛ	3	German/wav/003/GE003_39.wav
+DEU039_21_6	DEU039_21	DEU039	DEU	male		TRA	1.8	2.26	0.46	10	bürgerlichen	b r g atu l i C etu n	b ʏ ʀ ɡ ɛ l ɪ ç ə n	b ʏ ʀ ɡ ɛ l ɪ ç ə n	6	German/wav/039/GE039_21.wav
+CZE008_135_22	CZE008_135	CZE008	CZE	male	27.0	TRA	13.14	13.57	0.43	5	jinak	j i n a k	j i n a k	j i n a k	84	Czech/wav/008/CZ008_135.wav
+DEU013_183_10	DEU013_183	DEU013	DEU	male		TRA	3.19	3.64	0.45	4	nassau	n a s aU	n a s aʊ	n a s a ʊ	2	German/wav/013/GE013_183.wav
+DEU061_65_17	DEU061_65	DEU061	DEU	male		TRA	6.08	7.08	1.0	12	verbundenheit	f atu b u n d etu n h a i t	f ɛ ʀ b ʊ n d ə n h aɪ t	f ɛ ʀ b ʊ n d ə n h a ɪ t	2	German/wav/061/GE061_65.wav
+DEU012_57_11	DEU012_57	DEU012	DEU	male		TRA	3.25	3.62	0.37	4	häuser	h u s atu	h ɔɪ z ɛ	h ɔ ɪ z ɛ	16	German/wav/012/GE012_57.wav
+CZE043_121_16	CZE043_121	CZE043	CZE	male	22.0	TRA	6.23	6.94	0.71	10	naplňující	n a p l nj u j ii c ii	n a p l̩ ɲ u j iː ts iː	n a p l̩ ɲ u j iː ts iː	52	Czech/wav/043/CZ043_121.wav
+CZE024_124_16	CZE024_124	CZE024	CZE	female	20.0	TRA	5.86	6.44	0.58	7	chráněny	x r aa nj e n i	x r aː ɲ ɛ n i	x r aː ɲ ɛ n i	53	Czech/wav/024/CZ024_124.wav
+CZE013_27_18	CZE013_27	CZE013	CZE	male	21.0	TRA	8.21	8.68	0.47	5	české	ch e s k ee	t̠ʃ ɛ s k ɛː	t̠ʃ ɛ s k ɛː	310	Czech/wav/013/CZ013_27.wav
+CZE016_20_3	CZE016_20	CZE016	CZE	male	48.0	TRA	0.93	1.33	0.4	6	vzniká	v z nj i k aa	v z ɲ i k aː	v z ɲ i k aː	13	Czech/wav/016/CZ016_20.wav
+CZE072_18_2	CZE072_18	CZE072	CZE	female	21.0	TRA	1.93	2.29	0.36	6	tohoto	t o h o t o	t o ɦ o t o	t o ɦ o t o	176	Czech/wav/072/CZ072_18.wav
+CZE026_132_4	CZE026_132	CZE026	CZE	male	25.0	EVA	1.44	1.74	0.3	5	tolik	t o l i k	t o l i k	t o l i k	70	Czech/wav/026/CZ026_132.wav
+CZE071_102_1	CZE071_102	CZE071	CZE	female	20.0	TRA	0.72	1.2	0.48	6	objeví	o b j e v ii	o b j ɛ v iː	o b j ɛ v iː	57	Czech/wav/071/CZ071_102.wav
+DEU011_22_3	DEU011_22	DEU011	DEU	female		TRA	1.51	1.77	0.26	4	steht	S t el t	ʃ t eː t	ʃ t eː t	45	German/wav/011/GE011_22.wav
+CZE073_50_12	CZE073_50	CZE073	CZE	female	21.0	TRA	5.6	6.09	0.49	7	dvakrát	d v a k r aa t	d v a k r aː t	d v a k r aː t	16	Czech/wav/073/CZ073_50.wav
+CZE075_24_15	CZE075_24	CZE075	CZE	male	22.0	TRA	7.84	8.6	0.76	9	prostředí	p r o s t rsh e dj ii	p r o s t r̝ ɛ ɟ iː	p r o s t r̝ ɛ ɟ iː	38	Czech/wav/075/CZ075_24.wav
+DEU064_39_2	DEU064_39	DEU064	DEU	male		TRA	0.69	0.87	0.18	4	sind	z i n t	z ɪ n t	z ɪ n t	377	German/wav/064/GE064_39.wav
+CZE082_44_4	CZE082_44	CZE082	CZE	female	20.0	TRA	2.4	2.77	0.37	7	dostali	d o s t a l i	d o s t a l i	d o s t a l i	8	Czech/wav/082/CZ082_44.wav
+DEU032_38_11	DEU032_38	DEU032	DEU	male		TRA	3.12	3.63	0.51	7	risiken	r i s i k etu n	r iː z iː k ə n	r iː z iː k ə n	3	German/wav/032/GE032_38.wav
+DEU016_80_13	DEU016_80	DEU016	DEU	male		EVA	4.83	5.03	0.2	4	unter	u n t atu	ʊ n t ɛ	ʊ n t ɛ	130	German/wav/016/GE016_80.wav
+CZE018_24_5	CZE018_24	CZE018	CZE	female	26.0	TRA	2.22	2.68	0.46	4	ceně	c e nj e	ts ɛ ɲ ɛ	ts ɛ ɲ ɛ	74	Czech/wav/018/CZ018_24.wav
+CZE087_22_10	CZE087_22	CZE087	CZE	female	44.0	DEV	4.21	4.78	0.57	7	května	k v j e t n a	k v j ɛ t n a	k v j ɛ t n a	4	Czech/wav/087/CZ087_22.wav
+DEU005_176_8	DEU005_176	DEU005	DEU	male		TRA	4.13	4.66	0.53	9	glitschigen	g l i t S i g etu n	ɡ l ɪ t ʃ ɪ ɡ ə n	ɡ l ɪ t ʃ ɪ ɡ ə n	3	German/wav/005/GE005_176.wav
+CZE013_117_29	CZE013_117	CZE013	CZE	male	21.0	TRA	14.78	15.72	0.94	12	odpovědnost	o d p o v j e d n o s t	o t p o v j ɛ d n o s t	o t p o v j ɛ d n o s t	62	Czech/wav/013/CZ013_117.wav
+CZE024_78_25	CZE024_78	CZE024	CZE	female	20.0	TRA	8.63	9.15	0.52	8	poznatky	p o z n a t k i	p o z n a t k i	p o z n a t k i	8	Czech/wav/024/CZ024_78.wav
+DEU026_40_4	DEU026_40	DEU026	DEU	female		EVA	0.89	1.32	0.43	6	einigen	a i n i g etu n	aɪ n ɪ ɡ ə n	a ɪ n ɪ ɡ ə n	2	German/wav/026/GE026_40.wav
+CZE009_123_40	CZE009_123	CZE009	CZE	male	22.0	TRA	17.7	18.21	0.51	7	podobně	p o d o b nj e	p o d o b ɲ ɛ	p o d o b ɲ ɛ	98	Czech/wav/009/CZ009_123.wav
+CZE025_49_10	CZE025_49	CZE025	CZE	male	74.0	TRA	5.3	5.93	0.63	8	průmyslu	p r uu m i s l u	p r uː m i s l u	p r uː m i s l u	80	Czech/wav/025/CZ025_49.wav
+CZE024_101_2	CZE024_101	CZE024	CZE	female	20.0	TRA	0.84	1.32	0.48	9	přístroje	p rsh ii s t r o j e	p r̝ iː s t r o j ɛ	p r̝ iː s t r o j ɛ	70	Czech/wav/024/CZ024_101.wav
+CZE041_130_4	CZE041_130	CZE041	CZE	female	18.0	TRA	2.24	2.61	0.37	7	předali	p rsh e d a l i	p r̝ ɛ d a l i	p r̝ ɛ d a l i	53	Czech/wav/041/CZ041_130.wav
+CZE049_140_11	CZE049_140	CZE049	CZE	male	22.0	TRA	4.94	5.76	0.82	13	živnostenském	zh i v n o s t e n s k ee m	ʒ i v n o s t ɛ n s k ɛː m	ʒ i v n o s t ɛ n s k ɛː m	55	Czech/wav/049/CZ049_140.wav
+CZE011_128_19	CZE011_128	CZE011	CZE	female	47.0	TRA	6.17	6.81	0.64	7	zápisech	z aa p i s e x	z aː p i s ɛ x	z aː p i s ɛ x	52	Czech/wav/011/CZ011_128.wav
+DEU053_73_8	DEU053_73	DEU053	DEU	male		TRA	3.28	3.81	0.53	7	geplant	g etu p l al n t	ɡ ə p l a n t	ɡ ə p l a n t	13	German/wav/053/GE053_73.wav
+CZE012_78_43	CZE012_78	CZE012	CZE	male	17.0	TRA	19.33	19.86	0.53	9	slovenská	s l o v e n s k aa	s l o v ɛ n s k aː	s l o v ɛ n s k aː	10	Czech/wav/012/CZ012_78.wav
+DEU036_7_10	DEU036_7	DEU036	DEU	male		TRA	3.91	4.19	0.28	6	wurden	v u atu d etu n	v ʊ ɐ d ə n	v ʊ ɐ d ə n	137	German/wav/036/GE036_7.wav
+DEU005_34_7	DEU005_34	DEU005	DEU	male		TRA	2.43	3.05	0.62	9	vereinbart	f atu aI n b al r t	f ɛ ʀ aɪ n b a ʀ t	f ɛ ʀ a ɪ n b a ʀ t	6	German/wav/005/GE005_34.wav
+DEU006_79_21	DEU006_79	DEU006	DEU	male		TRA	8.98	9.33	0.35	5	waren	v al r etu n	v aː r ə n	v aː r ə n	134	German/wav/006/GE006_79.wav
+CZE040_17_24	CZE040_17	CZE040	CZE	female	21.0	TRA	10.22	10.72	0.5	6	tisíce	tj i s ii c e	c i s iː ts ɛ	c i s iː ts ɛ	129	Czech/wav/040/CZ040_17.wav
+DEU054_67_2	DEU054_67	DEU054	DEU	male		TRA	1.19	1.52	0.33	6	sollten	z o l t etu n	z ɔ l t ə n	z ɔ l t ə n	55	German/wav/054/GE054_67.wav
+CZE015_122_36	CZE015_122	CZE015	CZE	male	17.0	TRA	16.45	17.2	0.75	11	konkurenční	k o ng k u r e n ch nj ii	k o ŋ k u r ɛ n t̠ʃ ɲ iː	k o ŋ k u r ɛ n t̠ʃ ɲ iː	61	Czech/wav/015/CZ015_122.wav
+CZE046_95_5	CZE046_95	CZE046	CZE	female	25.0	TRA	2.54	3.1	0.56	6	domácí	d o m aa c ii	d o m aː ts iː	d o m aː ts iː	90	Czech/wav/046/CZ046_95.wav
+CZE032_5_16	CZE032_5	CZE032	CZE	female	24.0	TRA	7.75	8.13	0.38	5	nejsou	n e j s ow	n ɛ ɪ s ou̯	n ɛ ɪ s o u ̯	103	Czech/wav/032/CZ032_5.wav
+CZE048_29_1	CZE048_29	CZE048	CZE	male	21.0	TRA	0.55	1.19	0.64	11	vysvětlení	v i s v j e t l e nj ii	v i s v j ɛ t l ɛ ɲ iː	v i s v j ɛ t l ɛ ɲ iː	7	Czech/wav/048/CZ048_29.wav
+CZE049_139_26	CZE049_139	CZE049	CZE	male	22.0	TRA	10.45	11.01	0.56	7	zkrátka	s k r aa t k a	s k r aː t k a	s k r aː t k a	54	Czech/wav/049/CZ049_139.wav
+CZE052_94_26	CZE052_94	CZE052	CZE	male	22.0	TRA	10.25	10.44	0.19	5	mělo	m nj e l o	m ɲ ɛ l o	m ɲ ɛ l o	34	Czech/wav/052/CZ052_94.wav
+CZE096_98_2	CZE096_98	CZE096	CZE	male	18.0	EVA	1.26	1.68	0.42	6	záznam	z aa z n a m	z aː z n a m	z aː z n a m	2	Czech/wav/096/CZ096_98.wav
+CZE010_8_2	CZE010_8	CZE010	CZE	male	51.0	TRA	0.89	1.23	0.34	6	věcech	v j e c e x	v j ɛ ts ɛ x	v j ɛ ts ɛ x	4	Czech/wav/010/CZ010_8.wav
+CZE024_10_8	CZE024_10	CZE024	CZE	female	20.0	TRA	3.44	3.73	0.29	4	plně	p l nj e	p l̩ ɲ ɛ	p l̩ ɲ ɛ	66	Czech/wav/024/CZ024_10.wav
+CZE094_83_2	CZE094_83	CZE094	CZE	male	47.0	EVA	2.05	2.56	0.51	10	devatenáct	d e v a t e n aa c t	d ɛ v a t ɛ n aː ts t	d ɛ v a t ɛ n aː ts t	58	Czech/wav/094/CZ094_83.wav
+CZE098_96_1	CZE098_96	CZE098	CZE	female	16.0	EVA	1.16	1.5	0.34	5	viděl	v i dj e l	v i ɟ ɛ l	v i ɟ ɛ l	3	Czech/wav/098/CZ098_96.wav
+CZE027_43_6	CZE027_43	CZE027	CZE	male	22.0	TRA	3.13	4.06	0.93	10	prostředků	p r o s t rsh e t k uu	p r o s t r̝ ɛ t k uː	p r o s t r̝ ɛ t k uː	26	Czech/wav/027/CZ027_43.wav
+DEU040_49_4	DEU040_49	DEU040	DEU	male		TRA	1.18	1.44	0.26	4	neuen	n eU etu n	n ɔɪ ə n	n ɔ ɪ ə n	101	German/wav/040/GE040_49.wav
+CZE079_69_9	CZE079_69	CZE079	CZE	female	20.0	TRA	4.36	5.13	0.77	11	vyšetřování	v i sh e t rsh o v aa nj ii	v i ʃ ɛ t r̝ o v aː ɲ iː	v i ʃ ɛ t r̝ o v aː ɲ iː	7	Czech/wav/079/CZ079_69.wav
+CZE078_19_4	CZE078_19	CZE078	CZE	male	20.0	TRA	1.37	1.66	0.29	4	vším	f sh ii m	f ʃ iː m	f ʃ iː m	54	Czech/wav/078/CZ078_19.wav
+DEU062_32_1	DEU062_32	DEU062	DEU	male		TRA	0.16	0.8	0.64	7	indessen	i n d e s etu n	ɪ n d ɛ s ə n	ɪ n d ɛ s ə n	9	German/wav/062/GE062_32.wav
+DEU006_91_2	DEU006_91	DEU006	DEU	male		TRA	0.73	1.3	0.57	8	künftige	k n f t i g etu	k ʏ n f t ɪ ɡ ə	k ʏ n f t ɪ ɡ ə	13	German/wav/006/GE006_91.wav
+CZE014_79_4	CZE014_79	CZE014	CZE	female	21.0	TRA	1.3	1.79	0.49	5	šanci	sh a n c i	ʃ a n ts i	ʃ a n ts i	15	Czech/wav/014/CZ014_79.wav
+DEU050_78_1	DEU050_78	DEU050	DEU	male		TRA	0.16	0.4	0.24	6	darüber	d al r b etu r	d aː r yː b ɛ	d aː r yː b ɛ	39	German/wav/050/GE050_78.wav
+DEU050_60_5	DEU050_60	DEU050	DEU	male		TRA	1.71	2.06	0.35	5	zeugen	ts eU g etu n	ts ɔɪ ɡ ə n	ts ɔ ɪ ɡ ə n	13	German/wav/050/GE050_60.wav
+DEU030_25_27	DEU030_25	DEU030	DEU	male		TRA	11.66	12.17	0.51	4	grad	g r al t	ɡ r aː t	ɡ r aː t	9	German/wav/030/GE030_25.wav
+CZE096_53_13	CZE096_53	CZE096	CZE	male	18.0	EVA	5.94	6.41	0.47	5	menší	m e n sh ii	m ɛ n ʃ iː	m ɛ n ʃ iː	2	Czech/wav/096/CZ096_53.wav
+CZE009_129_18	CZE009_129	CZE009	CZE	male	22.0	TRA	9.24	9.89	0.65	7	regionu	r e g i j o n u	r ɛ ɡ i o n u	r ɛ ɡ i o n u	58	Czech/wav/009/CZ009_129.wav
+DEU069_63_3	DEU069_63	DEU069	DEU	male		TRA	0.78	0.94	0.16	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/069/GE069_63.wav
+CZE025_80_1	CZE025_80	CZE025	CZE	male	74.0	TRA	0.64	1.05	0.41	6	kromě	k r o m nj e	k r o m ɲ ɛ	k r o m ɲ ɛ	50	Czech/wav/025/CZ025_80.wav
+CZE020_124_8	CZE020_124	CZE020	CZE	female	25.0	TRA	3.71	4.0	0.29	4	mají	m a j ii	m a j iː	m a j iː	211	Czech/wav/020/CZ020_124.wav
+DEU001_48_12	DEU001_48	DEU001	DEU	male		DEV	4.55	5.05	0.5	4	bauern	g etu b r a u x t	b aʊ ɛ n	b a ʊ ɛ n	2	German/wav/001/GE001_48.wav
+DEU049_70_7	DEU049_70	DEU049	DEU	female		TRA	2.51	3.14	0.63	10	erforderlich	e r f o r d etu r l i C	ɛ ʀ f ɔ ʀ d ɛ l ɪ ç	ɛ ʀ f ɔ ʀ d ɛ l ɪ ç	10	German/wav/049/GE049_70.wav
+DEU028_115_8	DEU028_115	DEU028	DEU	male		TRA	3.38	3.88	0.5	4	wolle	v o l etu	v ɔ l ə	v ɔ l ə	34	German/wav/028/GE028_115.wav
+DEU024_94_12	DEU024_94	DEU024	DEU	male		TRA	5.57	5.94	0.37	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	618	German/wav/024/GE024_94.wav
+CZE018_129_27	CZE018_129	CZE018	CZE	female	26.0	TRA	14.2	14.9	0.7	7	podpoře	p o d p o rzh e	p o t p o r̝ ɛ	p o t p o r̝ ɛ	54	Czech/wav/018/CZ018_129.wav
+CZE041_27_31	CZE041_27	CZE041	CZE	female	18.0	TRA	13.84	14.21	0.37	5	deset	d e s e t	d ɛ s ɛ t	d ɛ s ɛ t	115	Czech/wav/041/CZ041_27.wav
+CZE099_89_14	CZE099_89	CZE099	CZE	male	21.0	DEV	6.3	6.7	0.4	4	obcí	o p c ii	o p ts iː	o p ts iː	4	Czech/wav/099/CZ099_89.wav
+CZE018_60_21	CZE018_60	CZE018	CZE	female	26.0	TRA	11.1	11.72	0.62	5	tisíc	tj i s ii c	c i s iː ts	c i s iː ts	378	Czech/wav/018/CZ018_60.wav
+DEU051_101_3	DEU051_101	DEU051	DEU	male		EVA	0.82	1.21	0.39	6	selbst	z e l p s t	z ɛ l p s t	z ɛ l p s t	91	German/wav/051/GE051_101.wav
+CZE082_43_17	CZE082_43	CZE082	CZE	female	20.0	TRA	9.2	9.53	0.33	5	čelit	ch e l i t	t̠ʃ ɛ l i t	t̠ʃ ɛ l i t	3	Czech/wav/082/CZ082_43.wav
+DEU009_168_2	DEU009_168	DEU009	DEU	male		EVA	0.55	0.86	0.31	5	diesem	d il z etu m	d iː z ə m	d iː z ə m	94	German/wav/009/GE009_168.wav
+CZE051_58_4	CZE051_58	CZE051	CZE	male	25.0	TRA	1.65	2.19	0.54	9	podstatně	p o d s t a t nj e	p o t s t a t ɲ ɛ	p o t s t a t ɲ ɛ	25	Czech/wav/051/CZ051_58.wav
+DEU015_85_14	DEU015_85	DEU015	DEU	male		TRA	4.79	5.47	0.68	8	gefährdet	g etu f r d etu t	ɡ ə f ɛː ʀ d ə t	ɡ ə f ɛː ʀ d ə t	8	German/wav/015/GE015_85.wav
+CZE029_50_1	CZE029_50	CZE029	CZE	female	19.0	TRA	0.19	0.48	0.29	5	nižší	nj i sh ii	ɲ i ʃ ʃ iː	ɲ i ʃ ʃ iː	33	Czech/wav/029/CZ029_50.wav
+CZE012_109_11	CZE012_109	CZE012	CZE	male	17.0	TRA	3.58	3.92	0.34	5	určit	u r ch i t	u r t̠ʃ i t	u r t̠ʃ i t	107	Czech/wav/012/CZ012_109.wav
+CZE018_123_37	CZE018_123	CZE018	CZE	female	26.0	TRA	18.47	18.96	0.49	6	tvorba	t v o r b a	t v o r b a	t v o r b a	53	Czech/wav/018/CZ018_123.wav
+CZE101_70_4	CZE101_70	CZE101	CZE	female	18.0	DEV	3.11	3.42	0.31	5	totiž	t o tj i sh	t o c i ʃ	t o c i ʃ	9	Czech/wav/101/CZ101_70.wav
+CZE088_3_7	CZE088_3	CZE088	CZE	female	69.0	EVA	3.83	4.28	0.45	5	deset	d e s e t	d ɛ s ɛ t	d ɛ s ɛ t	12	Czech/wav/088/CZ088_3.wav
+DEU005_72_5	DEU005_72	DEU005	DEU	male		TRA	2.24	2.9	0.66	11	verurteilten	f e r u r t a i l t etu n	f ɛ ʀ ʊ ɐ t aɪ l t ə n	f ɛ ʀ ʊ ɐ t a ɪ l t ə n	2	German/wav/005/GE005_72.wav
+CZE003_110_22	CZE003_110	CZE003	CZE	female	26.0	TRA	8.39	8.97	0.58	6	nároky	n aa r o k i	n aː r o k i	n aː r o k i	68	Czech/wav/003/CZ003_110.wav
+CZE065_13_7	CZE065_13	CZE065	CZE	male	20.0	TRA	5.12	5.6	0.48	7	přelomu	p rsh e l o m u	p r̝ ɛ l o m u	p r̝ ɛ l o m u	2	Czech/wav/065/CZ065_13.wav
+CZE035_116_15	CZE035_116	CZE035	CZE	female	21.0	TRA	5.21	5.62	0.41	5	účinně	uu ch i nj e	uː t̠ʃ i ɲ ɛ	uː t̠ʃ i ɲ ɛ	53	Czech/wav/035/CZ035_116.wav
+DEU049_45_4	DEU049_45	DEU049	DEU	female		TRA	1.08	1.17	0.09	6	spd	S p t	ɛ s p eː d eː	ɛ s p eː d eː	100	German/wav/049/GE049_45.wav
+DEU010_17_8	DEU010_17	DEU010	DEU	female		DEV	3.94	4.31	0.37	7	doppelter	d o p etu l t etu r	d ɔ p ə l t ɛ	d ɔ p ə l t ɛ	2	German/wav/010/GE010_17.wav
+DEU046_100_9	DEU046_100	DEU046	DEU	female		TRA	2.93	3.57	0.64	8	wirtschaft	v i r t S a f t	v ɪ ʀ t ʃ a f t	v ɪ ʀ t ʃ a f t	17	German/wav/046/GE046_100.wav
+CZE011_29_21	CZE011_29	CZE011	CZE	female	47.0	TRA	7.01	7.5	0.49	8	padesáti	p a d e s aa tj i	p a d ɛ s aː c i	p a d ɛ s aː c i	28	Czech/wav/011/CZ011_29.wav
+DEU024_186_7	DEU024_186	DEU024	DEU	male		TRA	3.54	3.84	0.3	4	einem	aI n etu m	aɪ n ə m	a ɪ n ə m	336	German/wav/024/GE024_186.wav
+CZE017_92_3	CZE017_92	CZE017	CZE	female	46.0	EVA	1.51	2.05	0.54	7	obrázek	o b r aa z e k	o b r aː z ɛ k	o b r aː z ɛ k	7	Czech/wav/017/CZ017_92.wav
+CZE041_66_7	CZE041_66	CZE041	CZE	female	18.0	TRA	2.9	3.52	0.62	9	likvidaci	l i k v i d a c i	l i k v i d a ts i	l i k v i d a ts i	9	Czech/wav/041/CZ041_66.wav
+DEU051_127_8	DEU051_127	DEU051	DEU	male		EVA	2.16	2.47	0.31	4	neuen	n eU etu n	n ɔɪ ə n	n ɔ ɪ ə n	101	German/wav/051/GE051_127.wav
+CZE017_136_35	CZE017_136	CZE017	CZE	female	46.0	EVA	14.96	15.57	0.61	9	naléhavým	n a l ee h a v ii m	n a l ɛː ɦ a v iː m	n a l ɛː ɦ a v iː m	52	Czech/wav/017/CZ017_136.wav
+CZE032_110_2	CZE032_110	CZE032	CZE	female	24.0	TRA	1.52	2.46	0.94	11	prodávající	p r o d aa v a j ii c ii	p r o d aː v a j iː ts iː	p r o d aː v a j iː ts iː	115	Czech/wav/032/CZ032_110.wav
+DEU012_197_1	DEU012_197	DEU012	DEU	male		TRA	0.54	0.89	0.35	4	trotz	t r o ts	t ʀ ɔ ts	t ʀ ɔ ts	30	German/wav/012/GE012_197.wav
+DEU004_189_7	DEU004_189	DEU004	DEU	male		DEV	2.94	3.54	0.6	8	erleichtern	e r l aI C t etu r n	ɛ ʀ l aɪ ç t ɛ n	ɛ ʀ l a ɪ ç t ɛ n	2	German/wav/004/GE004_189.wav
+CZE001_118_7	CZE001_118	CZE001	CZE	female	51.0	TRA	2.56	3.02	0.46	5	úvahu	uu v a h u	uː v a ɦ u	uː v a ɦ u	63	Czech/wav/001/CZ001_118.wav
+DEU071_3_3	DEU071_3	DEU071	DEU	male		TRA	0.61	1.13	0.52	5	glaubt	g l a u p t	ɡ l aʊ p t	ɡ l a ʊ p t	8	German/wav/071/GE071_3.wav
+CZE016_73_19	CZE016_73	CZE016	CZE	male	48.0	TRA	7.54	8.08	0.54	9	překladem	p rsh e k l a d e m	p r̝ ɛ k l a d ɛ m	p r̝ ɛ k l a d ɛ m	2	Czech/wav/016/CZ016_73.wav
+CZE018_140_23	CZE018_140	CZE018	CZE	female	26.0	TRA	12.09	12.86	0.77	9	dokumenty	d o k u m e n t i	d o k u m ɛ n t i	d o k u m ɛ n t i	55	Czech/wav/018/CZ018_140.wav
+CZE032_122_28	CZE032_122	CZE032	CZE	female	24.0	TRA	13.22	13.67	0.45	5	autora	aw t o r a	au t o r a	a u t o r a	58	Czech/wav/032/CZ032_122.wav
+CZE063_30_4	CZE063_30	CZE063	CZE	male	20.0	TRA	1.48	1.81	0.33	7	vydržel	v i d r zh e l	v i d r̩ ʒ ɛ l	v i d r̩ ʒ ɛ l	2	Czech/wav/063/CZ063_30.wav
+DEU052_132_7	DEU052_132	DEU052	DEU	male		DEV	1.86	2.71	0.85	14	bundesrepublik	b u n d etu s r el p u b l il k	b ʊ n d ə s r eː p uː b l iː k	b ʊ n d ə s r eː p uː b l iː k	20	German/wav/052/GE052_132.wav
+CZE026_122_31	CZE026_122	CZE026	CZE	male	25.0	EVA	14.45	15.06	0.61	7	použitím	p ow zh i tj ii m	p ou̯ ʒ i c iː m	p o u ̯ ʒ i c iː m	53	Czech/wav/026/CZ026_122.wav
+CZE033_47_5	CZE033_47	CZE033	CZE	male	18.0	DEV	1.99	2.29	0.3	5	listu	l i s t u	l i s t u	l i s t u	15	Czech/wav/033/CZ033_47.wav
+CZE087_30_13	CZE087_30	CZE087	CZE	female	44.0	DEV	4.56	4.87	0.31	5	jednu	j e d n u	j ɛ d n u	j ɛ d n u	7	Czech/wav/087/CZ087_30.wav
+CZE095_30_10	CZE095_30	CZE095	CZE	male	18.0	DEV	6.72	7.06	0.34	4	jsem	j s e m	j s ɛ m	j s ɛ m	35	Czech/wav/095/CZ095_30.wav
+CZE021_18_17	CZE021_18	CZE021	CZE	female	19.0	TRA	7.99	8.4	0.41	4	říká	rzh ii k aa	r̝ iː k aː	r̝ iː k aː	57	Czech/wav/021/CZ021_18.wav
+CZE015_122_29	CZE015_122	CZE015	CZE	male	17.0	TRA	12.79	13.29	0.5	8	programu	p r o g r a m u	p r o ɡ r a m u	p r o ɡ r a m u	71	Czech/wav/015/CZ015_122.wav
+DEU027_5_6	DEU027_5	DEU027	DEU	male		TRA	2.02	2.8	0.78	10	finanzierung	f il n a n ts il r u ng	f iː n a n ts iː r ʊ ŋ	f iː n a n ts iː r ʊ ŋ	7	German/wav/027/GE027_5.wav
+DEU065_48_12	DEU065_48	DEU065	DEU	male		TRA	4.2	4.52	0.32	6	deutschen	d eU t S etu n	d ɔɪ t ʃ ə n	d ɔ ɪ t ʃ ə n	105	German/wav/065/GE065_48.wav
+CZE004_107_22	CZE004_107	CZE004	CZE	female	58.0	TRA	11.03	11.83	0.8	8	katalogu	k a t a l o g u	k a t a l o ɡ u	k a t a l o ɡ u	57	Czech/wav/004/CZ004_107.wav
+DEU022_39_4	DEU022_39	DEU022	DEU	male		TRA	1.73	2.45	0.72	10	polizisten	p ol l il ts i s t etu n	p oː l iː ts ɪ s t ə n	p oː l iː ts ɪ s t ə n	18	German/wav/022/GE022_39.wav
+CZE101_39_2	CZE101_39	CZE101	CZE	female	18.0	DEV	1.45	1.97	0.52	7	program	p r o g r a m	p r o ɡ r a m	p r o ɡ r a m	8	Czech/wav/101/CZ101_39.wav
+DEU015_151_13	DEU015_151	DEU015	DEU	male		TRA	4.01	4.42	0.41	9	grundsätze	g r u n t z ts etu	ɡ r ʊ n d z ɛ ts ə	ɡ r ʊ n d z ɛ ts ə	3	German/wav/015/GE015_151.wav
+DEU063_68_11	DEU063_68	DEU063	DEU	male		TRA	3.89	4.41	0.52	6	siebzehn	z il p ts el n	z iː p ts eː n	z iː p ts eː n	10	German/wav/063/GE063_68.wav
+DEU022_54_12	DEU022_54	DEU022	DEU	male		TRA	4.43	5.24	0.81	13	internationale	i n t etu r n a ts il ol n al l etu	ɪ n t ɛ n a ts ɪ oː n aː l ə	ɪ n t ɛ n a ts ɪ oː n aː l ə	9	German/wav/022/GE022_54.wav
+CZE034_102_12	CZE034_102	CZE034	CZE	female	21.0	TRA	6.25	6.7	0.45	7	předala	p rsh e d a l a	p r̝ ɛ d a l a	p r̝ ɛ d a l a	52	Czech/wav/034/CZ034_102.wav
+CZE090_70_6	CZE090_70	CZE090	CZE	female	21.0	EVA	5.16	6.05	0.89	6	služby	s l u zh b i	s l u ʒ b i	s l u ʒ b i	4	Czech/wav/090/CZ090_70.wav
+CZE023_123_37	CZE023_123	CZE023	CZE	female	25.0	TRA	20.55	21.06	0.51	6	tvorba	t v o r b a	t v o r b a	t v o r b a	53	Czech/wav/023/CZ023_123.wav
+DEU043_193_6	DEU043_193	DEU043	DEU	male		TRA	1.57	1.89	0.32	4	hunger	h u ng etu r	h ʊ ŋ ɛ	h ʊ ŋ ɛ	2	German/wav/043/GE043_193.wav
+CZE005_129_34	CZE005_129	CZE005	CZE	male	28.0	TRA	16.17	16.47	0.3	5	který	k t e r ii	k t ɛ r iː	k t ɛ r iː	485	Czech/wav/005/CZ005_129.wav
+CZE001_43_12	CZE001_43	CZE001	CZE	female	51.0	TRA	6.38	7.22	0.84	9	přístrojů	p rsh ii s t r o j uu	p r̝ iː s t r o j uː	p r̝ iː s t r o j uː	9	Czech/wav/001/CZ001_43.wav
+CZE042_76_6	CZE042_76	CZE042	CZE	female	22.0	TRA	1.6	2.23	0.63	10	komunikaci	k o m u n i k a c i	k o m u n i k a ts i	k o m u n i k a ts i	3	Czech/wav/042/CZ042_76.wav
+CZE019_14_9	CZE019_14	CZE019	CZE	male	33.0	TRA	2.83	3.16	0.33	5	tepla	t e p l a	t ɛ p l a	t ɛ p l a	52	Czech/wav/019/CZ019_14.wav
+CZE030_121_19	CZE030_121	CZE030	CZE	male	21.0	TRA	8.0	8.76	0.76	7	uvádění	u v aa dj e nj ii	u v aː ɟ ɛ ɲ iː	u v aː ɟ ɛ ɲ iː	53	Czech/wav/030/CZ030_121.wav
+CZE042_59_10	CZE042_59	CZE042	CZE	female	22.0	TRA	4.55	4.87	0.32	5	dobré	d o b r ee	d o b r ɛː	d o b r ɛː	34	Czech/wav/042/CZ042_59.wav
+CZE087_26_43	CZE087_26	CZE087	CZE	female	44.0	DEV	22.11	22.5	0.39	5	korun	k o r u n	k o r u n	k o r u n	41	Czech/wav/087/CZ087_26.wav
+CZE075_89_1	CZE075_89	CZE075	CZE	male	22.0	TRA	1.13	1.5	0.37	4	není	n e nj ii	n ɛ ɲ iː	n ɛ ɲ iː	309	Czech/wav/075/CZ075_89.wav
+CZE033_122_30	CZE033_122	CZE033	CZE	male	18.0	DEV	12.08	12.26	0.18	4	před	p rsh e d	p r̝ ɛ t	p r̝ ɛ t	208	Czech/wav/033/CZ033_122.wav
+CZE089_78_9	CZE089_78	CZE089	CZE	female	18.0	DEV	5.09	5.36	0.27	5	čtyři	ch t i rzh i	t̠ʃ t i r̝ i	t̠ʃ t i r̝ i	35	Czech/wav/089/CZ089_78.wav
+DEU058_35_8	DEU058_35	DEU058	DEU	male		TRA	3.49	4.15	0.66	7	karriere	k a r il el r etu	k a r ɪ eː r ə	k a r ɪ eː r ə	3	German/wav/058/GE058_35.wav
+CZE016_107_27	CZE016_107	CZE016	CZE	male	48.0	TRA	10.3	10.96	0.66	8	sympozií	s i m p o z i j ii	s i m p o z i iː	s i m p o z i iː	52	Czech/wav/016/CZ016_107.wav
+DEU059_68_11	DEU059_68	DEU059	DEU	male		TRA	2.14	2.53	0.39	5	leichte	l aI C t etu	l aɪ ç t ə	l a ɪ ç t ə	5	German/wav/059/GE059_68.wav
+DEU015_164_2	DEU015_164	DEU015	DEU	male		TRA	1.0	1.57	0.57	8	untertöne	u n t etu r t n etu	ʊ n t ɛ t øː n ə	ʊ n t ɛ t øː n ə	2	German/wav/015/GE015_164.wav
+CZE014_25_10	CZE014_25	CZE014	CZE	female	21.0	TRA	3.74	4.45	0.71	12	marketingový	m a r k e t i ng g o v ii	m a r k ɛ t i ŋ ɡ o v iː	m a r k ɛ t i ŋ ɡ o v iː	2	Czech/wav/014/CZ014_25.wav
+CZE094_29_12	CZE094_29	CZE094	CZE	male	47.0	EVA	7.2	7.4	0.2	4	jeho	j e h o	j ɛ ɦ o	j ɛ ɦ o	50	Czech/wav/094/CZ094_29.wav
+CZE041_20_20	CZE041_20	CZE041	CZE	female	18.0	TRA	8.41	9.1	0.69	9	devadesát	d e v a d e s aa t	d ɛ v a d ɛ s aː t	d ɛ v a d ɛ s aː t	417	Czech/wav/041/CZ041_20.wav
+CZE016_9_12	CZE016_9	CZE016	CZE	male	48.0	TRA	3.53	3.88	0.35	5	plynu	p l i n u	p l i n u	p l i n u	6	Czech/wav/016/CZ016_9.wav
+DEU030_56_9	DEU030_56	DEU030	DEU	male		TRA	3.25	3.56	0.31	4	wieder	v il d atu	v iː d ɛ	v iː d ɛ	146	German/wav/030/GE030_56.wav
+DEU044_62_1	DEU044_62	DEU044	DEU	male		TRA	1.01	1.65	0.64	8	steuerliche	S t eU etu r l i C etu	ʃ t ɔɪ ɛ l ɪ ç ə	ʃ t ɔ ɪ ɛ l ɪ ç ə	2	German/wav/044/GE044_62.wav
+DEU029_76_13	DEU029_76	DEU029	DEU	male		EVA	6.36	6.77	0.41	5	zeitung	ts a i t u ng	ts aɪ t ʊ ŋ	ts a ɪ t ʊ ŋ	2	German/wav/029/GE029_76.wav
+CZE042_63_7	CZE042_63	CZE042	CZE	female	22.0	TRA	2.91	3.45	0.54	9	zdravotní	z d r a v o t nj ii	z d r a v o t ɲ iː	z d r a v o t ɲ iː	14	Czech/wav/042/CZ042_63.wav
+DEU049_52_12	DEU049_52	DEU049	DEU	female		TRA	3.27	3.52	0.25	5	bürger	b r g atu	b ʏ ʀ ɡ ɛ	b ʏ ʀ ɡ ɛ	30	German/wav/049/GE049_52.wav
+DEU012_183_8	DEU012_183	DEU012	DEU	male		TRA	1.8	2.2	0.4	5	hafen	h al f etu n	h aː f ə n	h aː f ə n	4	German/wav/012/GE012_183.wav
+DEU041_74_12	DEU041_74	DEU041	DEU	male		TRA	4.64	5.3	0.66	9	vereinigung	f atu aI n i g u ng	f ɛ ʀ aɪ n ɪ ɡ ʊ ŋ	f ɛ ʀ a ɪ n ɪ ɡ ʊ ŋ	8	German/wav/041/GE041_74.wav
+CZE019_88_12	CZE019_88	CZE019	CZE	male	33.0	TRA	5.13	5.68	0.55	7	skupině	s k u p i nj e	s k u p i ɲ ɛ	s k u p i ɲ ɛ	7	Czech/wav/019/CZ019_88.wav
+CZE055_98_20	CZE055_98	CZE055	CZE	male	23.0	TRA	10.85	11.24	0.39	5	korun	k o r u n	k o r u n	k o r u n	379	Czech/wav/055/CZ055_98.wav
+CZE008_12_45	CZE008_12	CZE008	CZE	male	27.0	TRA	20.02	20.57	0.55	5	patří	p a t rsh ii	p a t r̝ iː	p a t r̝ iː	120	Czech/wav/008/CZ008_12.wav
+CZE056_34_8	CZE056_34	CZE056	CZE	male	22.0	DEV	4.17	4.61	0.44	7	neplatí	n e p l a tj ii	n ɛ p l a c iː	n ɛ p l a c iː	11	Czech/wav/056/CZ056_34.wav
+CZE061_65_11	CZE061_65	CZE061	CZE	female	21.0	TRA	7.55	7.96	0.41	5	včera	f ch e r a	f t̠ʃ ɛ r a	f t̠ʃ ɛ r a	54	Czech/wav/061/CZ061_65.wav
+CZE031_59_12	CZE031_59	CZE031	CZE	male	21.0	TRA	4.41	4.96	0.55	9	podepsána	p o d e p s aa n a	p o d ɛ p s aː n a	p o d ɛ p s aː n a	3	Czech/wav/031/CZ031_59.wav
+DEU046_26_14	DEU046_26	DEU046	DEU	female		TRA	5.48	6.2	0.72	10	strukturen	S t r u k t ul r etu n	ʃ t ʀ ʊ k t uː r ə n	ʃ t ʀ ʊ k t uː r ə n	6	German/wav/046/GE046_26.wav
+DEU069_66_9	DEU069_66	DEU069	DEU	male		TRA	2.99	3.58	0.59	8	politische	p ol l il t i S etu	p oː l iː t ɪ ʃ ə	p oː l iː t ɪ ʃ ə	47	German/wav/069/GE069_66.wav
+DEU053_89_1	DEU053_89	DEU053	DEU	male		TRA	0.12	0.49	0.37	4	heute	h eU t etu	h ɔɪ t ə	h ɔ ɪ t ə	68	German/wav/053/GE053_89.wav
+DEU026_99_10	DEU026_99	DEU026	DEU	female		EVA	3.99	4.62	0.63	10	terrorismus	t e r o r i s m u s	t ɛ r oː r ɪ s m ʊ s	t ɛ r oː r ɪ s m ʊ s	2	German/wav/026/GE026_99.wav
+CZE076_50_10	CZE076_50	CZE076	CZE	male	25.0	TRA	3.78	4.42	0.64	9	expertní	e k s p e r t nj ii	ɛ k s p ɛ r t ɲ iː	ɛ k s p ɛ r t ɲ iː	2	Czech/wav/076/CZ076_50.wav
+CZE016_140_12	CZE016_140	CZE016	CZE	male	48.0	TRA	4.99	5.68	0.69	9	podnikání	p o d nj i k aa nj ii	p o d ɲ i k aː ɲ iː	p o d ɲ i k aː ɲ iː	276	Czech/wav/016/CZ016_140.wav
+CZE082_100_16	CZE082_100	CZE082	CZE	female	20.0	TRA	8.57	8.89	0.32	5	stane	s t a n e	s t a n ɛ	s t a n ɛ	14	Czech/wav/082/CZ082_100.wav
+DEU063_72_6	DEU063_72	DEU063	DEU	male		TRA	2.61	2.98	0.37	4	eines	a i n etu s	aɪ n ə s	a ɪ n ə s	155	German/wav/063/GE063_72.wav
+DEU062_25_2	DEU062_25	DEU062	DEU	male		TRA	0.87	1.23	0.36	7	enthält	e n t l t	ɛ n t h ɛ l t	ɛ n t h ɛ l t	6	German/wav/062/GE062_25.wav
+DEU013_166_7	DEU013_166	DEU013	DEU	male		TRA	2.12	2.34	0.22	5	seinem	z a i n etu m	z aɪ n ə m	z a ɪ n ə m	60	German/wav/013/GE013_166.wav
+CZE088_68_14	CZE088_68	CZE088	CZE	female	69.0	EVA	8.44	9.15	0.71	7	techniku	t e x n i k u	t ɛ x ɲ i k u	t ɛ x ɲ i k u	2	Czech/wav/088/CZ088_68.wav
+CZE102_65_3	CZE102_65	CZE102	CZE	male	22.0	EVA	3.91	4.47	0.56	5	zatím	z a tj ii m	z a c iː m	z a c iː m	13	Czech/wav/102/CZ102_65.wav
+DEU012_72_1	DEU012_72	DEU012	DEU	male		TRA	0.24	0.59	0.35	4	dieser	d il z etu r	d iː z ɛ	d iː z ɛ	150	German/wav/012/GE012_72.wav
+DEU065_78_12	DEU065_78	DEU065	DEU	male		TRA	3.57	4.03	0.46	8	gefordert	g etu f o r d etu r t	ɡ ə f ɔ ʀ d ɛ t	ɡ ə f ɔ ʀ d ɛ t	16	German/wav/065/GE065_78.wav
+CZE033_137_21	CZE033_137	CZE033	CZE	male	18.0	DEV	6.98	7.46	0.48	5	kroků	k r o k uu	k r o k uː	k r o k uː	55	Czech/wav/033/CZ033_137.wav
+CZE070_102_20	CZE070_102	CZE070	CZE	female	23.0	TRA	10.16	10.59	0.43	6	sfk	e s e f k aa	ɛ s ɛ f k aː	ɛ s ɛ f k aː	5	Czech/wav/070/CZ070_102.wav
+CZE033_110_33	CZE033_110	CZE033	CZE	male	18.0	DEV	12.03	12.44	0.41	5	zboží	z b o zh ii	z b o ʒ iː	z b o ʒ iː	156	Czech/wav/033/CZ033_110.wav
+CZE067_27_12	CZE067_27	CZE067	CZE	male	21.0	TRA	5.88	6.42	0.54	9	uplatňuje	u p l a t nj u j e	u p l a t ɲ u j ɛ	u p l a t ɲ u j ɛ	3	Czech/wav/067/CZ067_27.wav
+DEU052_69_14	DEU052_69	DEU052	DEU	male		DEV	5.38	5.87	0.49	8	verstehen	f atu S t el etu n	f ɛ ʀ ʃ t eː ə n	f ɛ ʀ ʃ t eː ə n	7	German/wav/052/GE052_69.wav
+DEU075_63_4	DEU075_63	DEU075	DEU	male		DEV	1.4	1.81	0.41	5	gewehr	g etu v el r	ɡ ə v eː ʀ	ɡ ə v eː ʀ	2	German/wav/075/GE075_63.wav
+CZE090_61_11	CZE090_61	CZE090	CZE	female	21.0	EVA	6.92	7.53	0.61	4	méně	m ee nj e	m ɛː ɲ ɛ	m ɛː ɲ ɛ	6	Czech/wav/090/CZ090_61.wav
+DEU036_40_3	DEU036_40	DEU036	DEU	male		TRA	1.78	2.63	0.85	10	ausschreitungen	a u s S r a i t u ng etu n	aʊ s ʃ r aɪ t ʊ ŋ ə n	a ʊ s ʃ r a ɪ t ʊ ŋ ə n	5	German/wav/036/GE036_40.wav
+DEU053_40_3	DEU053_40	DEU053	DEU	male		TRA	1.26	1.73	0.47	4	lager	l al g etu r	l aː ɡ ɛ	l aː ɡ ɛ	9	German/wav/053/GE053_40.wav
+CZE007_97_1	CZE007_97	CZE007	CZE	male	33.0	TRA	0.33	0.78	0.45	5	jednou	j e d n ow	j ɛ d n ou̯	j ɛ d n o u ̯	34	Czech/wav/007/CZ007_97.wav
+CZE013_85_16	CZE013_85	CZE013	CZE	male	21.0	TRA	7.6	8.52	0.92	11	prodloužením	p r o d l ow zh e nj ii m	p r o d l ou̯ ʒ ɛ ɲ iː m	p r o d l o u ̯ ʒ ɛ ɲ iː m	2	Czech/wav/013/CZ013_85.wav
+DEU050_117_2	DEU050_117	DEU050	DEU	male		TRA	0.81	1.04	0.23	5	haben	h al b etu n	h aː b ə n	h aː b ə n	290	German/wav/050/GE050_117.wav
+CZE047_125_32	CZE047_125	CZE047	CZE	male	21.0	TRA	17.71	18.04	0.33	4	nebo	n e b o	n ɛ b o	n ɛ b o	738	Czech/wav/047/CZ047_125.wav
+CZE034_115_23	CZE034_115	CZE034	CZE	female	21.0	TRA	8.47	8.77	0.3	5	měny	m nj e n i	m ɲ ɛ n i	m ɲ ɛ n i	60	Czech/wav/034/CZ034_115.wav
+DEU016_171_7	DEU016_171	DEU016	DEU	male		EVA	2.37	2.88	0.51	10	verabschiedet	f e r a p S il d etu t	f ɛ ʀ a p ʃ iː d ə t	f ɛ ʀ a p ʃ iː d ə t	8	German/wav/016/GE016_171.wav
+CZE015_133_9	CZE015_133	CZE015	CZE	male	17.0	TRA	2.26	2.83	0.57	6	firmě	f i r m nj e	f i r m ɲ ɛ	f i r m ɲ ɛ	134	Czech/wav/015/CZ015_133.wav
+DEU050_52_12	DEU050_52	DEU050	DEU	male		TRA	2.72	3.21	0.49	10	terroristen	t e r ol r i s t etu n	t ɛ r oː r ɪ s t ə n	t ɛ r oː r ɪ s t ə n	8	German/wav/050/GE050_52.wav
+CZE101_11_5	CZE101_11	CZE101	CZE	female	18.0	DEV	2.13	2.47	0.34	5	vláda	v l aa d a	v l aː d a	v l aː d a	3	Czech/wav/101/CZ101_11.wav
+CZE023_30_27	CZE023_30	CZE023	CZE	female	25.0	TRA	16.54	17.22	0.68	7	šedesát	sh e d e s aa t	ʃ ɛ d ɛ s aː t	ʃ ɛ d ɛ s aː t	156	Czech/wav/023/CZ023_30.wav
+CZE021_130_4	CZE021_130	CZE021	CZE	female	19.0	TRA	2.08	2.53	0.45	7	předali	p rsh e d a l i	p r̝ ɛ d a l i	p r̝ ɛ d a l i	53	Czech/wav/021/CZ021_130.wav
+DEU073_69_1	DEU073_69	DEU073	DEU	male		EVA	0.0	0.65	0.65	6	bisher	b i s h el r	b ɪ s h eː ʀ	b ɪ s h eː ʀ	13	German/wav/073/GE073_69.wav
+DEU016_45_15	DEU016_45	DEU016	DEU	male		EVA	4.55	4.87	0.32	5	beginn	b etu g i n	b ə ɡ ɪ n	b ə ɡ ɪ n	18	German/wav/016/GE016_45.wav
+DEU015_167_19	DEU015_167	DEU015	DEU	male		TRA	6.57	7.3	0.73	11	mazedoniens	m a ts etu d ol n j etu n	m a ts eː d oː n ɪ ə n s	m a ts eː d oː n ɪ ə n s	2	German/wav/015/GE015_167.wav
+DEU072_63_10	DEU072_63	DEU072	DEU	male		TRA	3.66	4.27	0.61	9	verletzten	f e r l e ts t etu n	f ɛ ʀ l ɛ ts t ə n	f ɛ ʀ l ɛ ts t ə n	10	German/wav/072/GE072_63.wav
+DEU007_11_2	DEU007_11	DEU007	DEU	male		TRA	0.92	1.58	0.66	6	kämmerer	k m etu r etu r	k ɛ m ə r ɛ	k ɛ m ə r ɛ	2	German/wav/007/GE007_11.wav
+CZE087_50_2	CZE087_50	CZE087	CZE	female	44.0	DEV	0.96	1.46	0.5	8	letošním	l e t o sh nj ii m	l ɛ t o ʃ ɲ iː m	l ɛ t o ʃ ɲ iː m	3	Czech/wav/087/CZ087_50.wav
+CZE034_124_11	CZE034_124	CZE034	CZE	female	21.0	TRA	4.74	5.32	0.58	9	tajemství	t a j e m s t v ii	t a j ɛ m s t v iː	t a j ɛ m s t v iː	120	Czech/wav/034/CZ034_124.wav
+CZE061_77_22	CZE061_77	CZE061	CZE	female	21.0	TRA	9.32	9.95	0.63	9	vytvoření	v i t v o rzh e nj ii	v i t v o r̝ ɛ ɲ iː	v i t v o r̝ ɛ ɲ iː	8	Czech/wav/061/CZ061_77.wav
+CZE004_140_26	CZE004_140	CZE004	CZE	female	58.0	TRA	17.31	17.91	0.6	6	původu	p uu v o d u	p uː v o d u	p uː v o d u	58	Czech/wav/004/CZ004_140.wav
+DEU060_55_10	DEU060_55	DEU060	DEU	male		TRA	3.75	4.18	0.43	7	versucht	f e r z ul x t	f ɛ ʀ z uː x t	f ɛ ʀ z uː x t	14	German/wav/060/GE060_55.wav
+DEU052_192_15	DEU052_192	DEU052	DEU	male		DEV	6.78	7.01	0.23	4	neuen	n eU etu n	n ɔɪ ə n	n ɔ ɪ ə n	101	German/wav/052/GE052_192.wav
+CZE065_11_6	CZE065_11	CZE065	CZE	male	20.0	TRA	4.17	4.44	0.27	4	jako	j a k o	j a k o	j a k o	485	Czech/wav/065/CZ065_11.wav
+CZE088_7_21	CZE088_7	CZE088	CZE	female	69.0	EVA	13.15	13.64	0.49	5	hodlá	h o d l aa	ɦ o d l aː	ɦ o d l aː	2	Czech/wav/088/CZ088_7.wav
+CZE046_127_9	CZE046_127	CZE046	CZE	female	25.0	TRA	4.25	4.68	0.43	6	platil	p l a tj i l	p l a c i l	p l a c i l	56	Czech/wav/046/CZ046_127.wav
+DEU006_19_15	DEU006_19	DEU006	DEU	male		TRA	7.28	7.61	0.33	5	würde	v r d etu	v ʏ ʀ d ə	v ʏ ʀ d ə	53	German/wav/006/GE006_19.wav
+CZE062_84_30	CZE062_84	CZE062	CZE	male	20.0	TRA	12.11	12.79	0.68	13	pravděpodobně	p r a v dj e p o d o b nj e	p r a v ɟ ɛ p o d o b ɲ ɛ	p r a v ɟ ɛ p o d o b ɲ ɛ	13	Czech/wav/062/CZ062_84.wav
+DEU033_19_4	DEU033_19	DEU033	DEU	male		TRA	1.24	1.6	0.36	5	frage	f r al g etu	f r aː ɡ ə	f r aː ɡ ə	76	German/wav/033/GE033_19.wav
+CZE016_116_21	CZE016_116	CZE016	CZE	male	48.0	TRA	7.3	7.8	0.5	7	správně	s p r aa v nj e	s p r aː v ɲ ɛ	s p r aː v ɲ ɛ	64	Czech/wav/016/CZ016_116.wav
+CZE001_110_16	CZE001_110	CZE001	CZE	female	51.0	TRA	7.69	8.4	0.71	7	možnost	m o zh n o s t	m o ʒ n o s t	m o ʒ n o s t	149	Czech/wav/001/CZ001_110.wav
+CZE096_52_13	CZE096_52	CZE096	CZE	male	18.0	EVA	5.82	6.15	0.33	4	naučí	n aw ch ii	n au t̠ʃ iː	n a u t̠ʃ iː	3	Czech/wav/096/CZ096_52.wav
+CZE032_15_12	CZE032_15	CZE032	CZE	female	24.0	TRA	4.25	4.79	0.54	6	směru	s m nj e r u	s m ɲ ɛ r u	s m ɲ ɛ r u	11	Czech/wav/032/CZ032_15.wav
+DEU068_86_8	DEU068_86	DEU068	DEU	male		TRA	4.14	4.39	0.25	4	sind	z i n t	z ɪ n t	z ɪ n t	377	German/wav/068/GE068_86.wav
+DEU024_60_12	DEU024_60	DEU024	DEU	male		TRA	5.29	5.98	0.69	7	gefragt	g etu f r al k t	ɡ ə f r aː k t	ɡ ə f r aː k t	8	German/wav/024/GE024_60.wav
+CZE020_29_1	CZE020_29	CZE020	CZE	female	25.0	TRA	0.74	1.31	0.57	8	umožňuje	u m o zh nj u j e	u m o ʒ ɲ u j ɛ	u m o ʒ ɲ u j ɛ	27	Czech/wav/020/CZ020_29.wav
+CZE040_125_30	CZE040_125	CZE040	CZE	female	21.0	TRA	13.9	14.54	0.64	6	roletou	r o l e t ow	r o l ɛ t ou̯	r o l ɛ t o u ̯	52	Czech/wav/040/CZ040_125.wav
+CZE086_44_1	CZE086_44	CZE086	CZE	male	19.0	EVA	0.56	0.91	0.35	5	rubáš	r u b aa sh	r u b aː ʃ	r u b aː ʃ	7	Czech/wav/086/CZ086_44.wav
+DEU032_87_12	DEU032_87	DEU032	DEU	male		TRA	3.89	4.33	0.44	6	worden	v o atu d etu n	v ɔ ʀ d ə n	v ɔ ʀ d ə n	335	German/wav/032/GE032_87.wav
+CZE096_63_11	CZE096_63	CZE096	CZE	male	18.0	EVA	4.03	4.45	0.42	8	oddělení	o d dj e l e nj ii	o d ɟ ɛ l ɛ ɲ iː	o d ɟ ɛ l ɛ ɲ iː	2	Czech/wav/096/CZ096_63.wav
+CZE093_30_19	CZE093_30	CZE093	CZE	male	20.0	DEV	8.61	9.16	0.55	6	románu	r o m aa n u	r o m aː n u	r o m aː n u	2	Czech/wav/093/CZ093_30.wav
+CZE017_91_14	CZE017_91	CZE017	CZE	female	46.0	EVA	5.59	5.94	0.35	5	ještě	j e sh tj e	j ɛ ʃ c ɛ	j ɛ ʃ c ɛ	144	Czech/wav/017/CZ017_91.wav
+CZE036_133_32	CZE036_133	CZE036	CZE	male	20.0	TRA	10.33	10.76	0.43	7	okamžik	o k a m zh i k	o k a m ʒ i k	o k a m ʒ i k	102	Czech/wav/036/CZ036_133.wav
+CZE034_128_46	CZE034_128	CZE034	CZE	female	21.0	TRA	22.27	22.86	0.59	5	úřadu	uu rzh a d u	uː r̝ a d u	uː r̝ a d u	175	Czech/wav/034/CZ034_128.wav
+CZE006_107_9	CZE006_107	CZE006	CZE	female	26.0	TRA	3.35	3.87	0.52	8	pronájem	p r o n aa j e m	p r o n aː j ɛ m	p r o n aː j ɛ m	54	Czech/wav/006/CZ006_107.wav
+DEU059_63_10	DEU059_63	DEU059	DEU	male		TRA	2.94	3.37	0.43	6	ersten	el r s t etu n	eː ʀ s t ə n	eː ʀ s t ə n	69	German/wav/059/GE059_63.wav
+CZE031_63_26	CZE031_63	CZE031	CZE	male	21.0	TRA	12.24	12.86	0.62	7	podniků	p o d nj i k uu	p o d ɲ i k uː	p o d ɲ i k uː	45	Czech/wav/031/CZ031_63.wav
+DEU007_30_20	DEU007_30	DEU007	DEU	male		TRA	8.45	8.86	0.41	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/007/GE007_30.wav
+CZE066_27_2	CZE066_27	CZE066	CZE	female	20.0	TRA	0.86	1.4	0.54	7	omezený	o m e z e n ii	o m ɛ z ɛ n iː	o m ɛ z ɛ n iː	3	Czech/wav/066/CZ066_27.wav
+CZE023_60_6	CZE023_60	CZE023	CZE	female	25.0	TRA	2.27	3.14	0.87	11	potřebujete	p o t rsh e b u j e t e	p o t r̝ ɛ b u j ɛ t ɛ	p o t r̝ ɛ b u j ɛ t ɛ	8	Czech/wav/023/CZ023_60.wav
+DEU068_37_3	DEU068_37	DEU068	DEU	male		TRA	1.48	1.67	0.19	4	sind	z i n t	z ɪ n t	z ɪ n t	377	German/wav/068/GE068_37.wav
+CZE043_121_17	CZE043_121	CZE043	CZE	male	22.0	TRA	6.94	7.51	0.57	8	zvláštní	z v l aa sh t nj ii	z v l aː ʃ t ɲ iː	z v l aː ʃ t ɲ iː	65	Czech/wav/043/CZ043_121.wav
+DEU072_57_7	DEU072_57	DEU072	DEU	male		TRA	2.34	2.98	0.64	6	hervor	h e r f ol r	h ɛ ʀ f oː ʀ	h ɛ ʀ f oː ʀ	9	German/wav/072/GE072_57.wav
+DEU075_67_16	DEU075_67	DEU075	DEU	male		DEV	6.93	7.52	0.59	5	heraus	h e r a u s	h ɛ r aʊ s	h ɛ r a ʊ s	9	German/wav/075/GE075_67.wav
+DEU034_92_19	DEU034_92	DEU034	DEU	male		TRA	6.06	6.59	0.53	6	worden	v o atu d etu n	v ɔ ʀ d ə n	v ɔ ʀ d ə n	335	German/wav/034/GE034_92.wav
+DEU038_54_24	DEU038_54	DEU038	DEU	male		TRA	10.65	11.17	0.52	5	bringt	b r i ng t	b r ɪ ŋ t	b r ɪ ŋ t	8	German/wav/038/GE038_54.wav
+CZE101_25_16	CZE101_25	CZE101	CZE	female	18.0	DEV	6.18	6.81	0.63	8	obrovský	o b r o f s k ii	o b r o f s k iː	o b r o f s k iː	2	Czech/wav/101/CZ101_25.wav
+CZE033_131_35	CZE033_131	CZE033	CZE	male	18.0	DEV	11.33	11.85	0.52	6	stupňů	s t u p nj uu	s t u p ɲ uː	s t u p ɲ uː	57	Czech/wav/033/CZ033_131.wav
+DEU006_120_14	DEU006_120	DEU006	DEU	male		TRA	5.8	6.31	0.51	7	operiert	ol p etu r il r t	oː p eː r iː ʀ t	oː p eː r iː ʀ t	3	German/wav/006/GE006_120.wav
+CZE005_25_40	CZE005_25	CZE005	CZE	male	28.0	TRA	16.89	17.12	0.23	4	domu	d o m u	d o m u	d o m u	22	Czech/wav/005/CZ005_25.wav
+DEU037_21_3	DEU037_21	DEU037	DEU	male		TRA	1.01	1.28	0.27	4	etwa	e t v a	ɛ t v aː	ɛ t v aː	58	German/wav/037/GE037_21.wav
+CZE054_26_30	CZE054_26	CZE054	CZE	male	23.0	EVA	10.61	10.87	0.26	4	roce	r o c e	r o ts ɛ	r o ts ɛ	145	Czech/wav/054/CZ054_26.wav
+CZE060_14_1	CZE060_14	CZE060	CZE	male	21.0	TRA	1.07	1.42	0.35	5	vedle	v e d l e	v ɛ d l ɛ	v ɛ d l ɛ	25	Czech/wav/060/CZ060_14.wav
+DEU030_142_4	DEU030_142	DEU030	DEU	male		TRA	1.19	1.79	0.6	9	zentralen	ts e n t r al l etu n	ts ɛ n t ʀ aː l ə n	ts ɛ n t ʀ aː l ə n	4	German/wav/030/GE030_142.wav
+DEU076_16_10	DEU076_16	DEU076	DEU	male		TRA	3.06	3.36	0.3	4	bald	b a l t	b a l t	b a l t	18	German/wav/076/GE076_16.wav
+CZE090_73_9	CZE090_73	CZE090	CZE	female	21.0	EVA	5.22	5.92	0.7	9	třicátého	t rsh i c aa t ee h o	t r̝ i ts aː t ɛː ɦ o	t r̝ i ts aː t ɛː ɦ o	5	Czech/wav/090/CZ090_73.wav
+DEU021_185_2	DEU021_185	DEU021	DEU	male		EVA	0.67	1.09	0.42	9	entwicklung	e n t v i k l u ng	ɛ n t v ɪ k l ʊ ŋ	ɛ n t v ɪ k l ʊ ŋ	6	German/wav/021/GE021_185.wav
+CZE004_139_22	CZE004_139	CZE004	CZE	female	58.0	TRA	10.34	10.86	0.52	5	řádní	rzh aa d nj ii	r̝ aː d ɲ iː	r̝ aː d ɲ iː	53	Czech/wav/004/CZ004_139.wav
+DEU021_83_10	DEU021_83	DEU021	DEU	male		EVA	3.24	3.35	0.11	5	haben	ts ul	h aː b ə n	h aː b ə n	39	German/wav/021/GE021_83.wav
+CZE047_36_11	CZE047_36	CZE047	CZE	male	21.0	TRA	4.98	5.31	0.33	4	může	m uu zh e	m uː ʒ ɛ	m uː ʒ ɛ	300	Czech/wav/047/CZ047_36.wav
+DEU016_94_16	DEU016_94	DEU016	DEU	male		EVA	4.96	5.34	0.38	6	energie	el n e r g il	eː n ɛ ʀ ɡ iː	eː n ɛ ʀ ɡ iː	4	German/wav/016/GE016_94.wav
+DEU071_87_5	DEU071_87	DEU071	DEU	male		TRA	1.94	2.57	0.63	6	sinnlos	s i n l ol s	z ɪ n l oː s	z ɪ n l oː s	2	German/wav/071/GE071_87.wav
+DEU035_64_9	DEU035_64	DEU035	DEU	male		TRA	3.75	4.22	0.47	7	gründen	g r n t etu n	ɡ r ʏ n d ə n	ɡ r ʏ n d ə n	9	German/wav/035/GE035_64.wav
+DEU052_95_21	DEU052_95	DEU052	DEU	male		DEV	8.32	8.96	0.64	14	mitgliedsländern	m i t g l il ts l n d atu n	m ɪ t ɡ l iː t s l ɛ n d ɛ n	m ɪ t ɡ l iː t s l ɛ n d ɛ n	3	German/wav/052/GE052_95.wav
+DEU037_54_6	DEU037_54	DEU037	DEU	male		TRA	1.89	2.31	0.42	5	ablauf	a p l aU f	a p l aʊ f	a p l a ʊ f	3	German/wav/037/GE037_54.wav
+CZE009_20_1	CZE009_20	CZE009	CZE	male	22.0	TRA	0.49	0.86	0.37	5	podle	p o d l e	p o d l ɛ	p o d l ɛ	414	Czech/wav/009/CZ009_20.wav
+DEU044_55_10	DEU044_55	DEU044	DEU	male		TRA	4.58	4.99	0.41	6	bergbau	b e r k b a u	b ɛ ʀ ɡ b aʊ	b ɛ ʀ ɡ b a ʊ	2	German/wav/044/GE044_55.wav
+DEU071_81_1	DEU071_81	DEU071	DEU	male		TRA	0.44	0.95	0.51	4	schulz	S u l ts	ʃ ʊ l ts	ʃ ʊ l ts	7	German/wav/071/GE071_81.wav
+DEU021_32_7	DEU021_32	DEU021	DEU	male		EVA	2.72	3.27	0.55	8	anerkannt	a n e r k a n t	a n ɛ ʀ k a n t	a n ɛ ʀ k a n t	2	German/wav/021/GE021_32.wav
+CZE047_120_16	CZE047_120	CZE047	CZE	male	21.0	TRA	8.6	9.26	0.66	8	kapitálu	k a p i t aa l u	k a p i t aː l u	k a p i t aː l u	62	Czech/wav/047/CZ047_120.wav
+CZE034_103_16	CZE034_103	CZE034	CZE	female	21.0	TRA	6.84	7.38	0.54	9	světových	s v j e t o v ii x	s v j ɛ t o v iː x	s v j ɛ t o v iː x	58	Czech/wav/034/CZ034_103.wav
+CZE082_7_5	CZE082_7	CZE082	CZE	female	20.0	TRA	3.46	4.02	0.56	7	dehaene	d e h a e n e	d ɛ ɦ a ɛ n ɛ	d ɛ ɦ a ɛ n ɛ	2	Czech/wav/082/CZ082_7.wav
+DEU048_7_5	DEU048_7	DEU048	DEU	male		TRA	1.53	1.86	0.33	4	keine	k aI n etu	k aɪ n ə	k a ɪ n ə	130	German/wav/048/GE048_7.wav
+CZE086_41_9	CZE086_41	CZE086	CZE	male	19.0	EVA	3.03	3.41	0.38	8	vzniknout	v z nj i k n ow t	v z ɲ i k n ou̯ t	v z ɲ i k n o u ̯ t	3	Czech/wav/086/CZ086_41.wav
+DEU039_19_10	DEU039_19	DEU039	DEU	male		TRA	3.45	3.72	0.27	6	genannt	g etu n a n t	ɡ ə n a n t	ɡ ə n a n t	16	German/wav/039/GE039_19.wav
+DEU016_19_6	DEU016_19	DEU016	DEU	male		EVA	1.19	1.76	0.57	8	rundreise	r u n t r aI z etu	r ʊ n d r aɪ z ə	r ʊ n d r a ɪ z ə	2	German/wav/016/GE016_19.wav
+CZE008_101_9	CZE008_101	CZE008	CZE	male	27.0	TRA	3.02	3.41	0.39	5	našem	n a sh e m	n a ʃ ɛ m	n a ʃ ɛ m	72	Czech/wav/008/CZ008_101.wav
+CZE006_136_42	CZE006_136	CZE006	CZE	female	26.0	TRA	15.34	15.84	0.5	5	ihned	i h n e t	i ɦ n ɛ t	i ɦ n ɛ t	109	Czech/wav/006/CZ006_136.wav
+DEU076_28_3	DEU076_28	DEU076	DEU	male		TRA	1.0	1.15	0.15	4	hängt	h ng t	h ɛ ŋ t	h ɛ ŋ t	5	German/wav/076/GE076_28.wav
+CZE014_107_7	CZE014_107	CZE014	CZE	female	21.0	TRA	2.21	3.0	0.79	9	účastníků	uu ch a s t nj ii k uu	uː t̠ʃ a s t ɲ iː k uː	uː t̠ʃ a s t ɲ iː k uː	58	Czech/wav/014/CZ014_107.wav
+CZE095_56_22	CZE095_56	CZE095	CZE	male	18.0	DEV	6.68	7.19	0.51	5	místo	m ii s t o	m iː s t o	m iː s t o	6	Czech/wav/095/CZ095_56.wav
+CZE102_55_3	CZE102_55	CZE102	CZE	male	22.0	EVA	1.53	1.86	0.33	6	strany	s t r a n i	s t r a n i	s t r a n i	7	Czech/wav/102/CZ102_55.wav
+DEU066_12_15	DEU066_12	DEU066	DEU	male		TRA	4.91	5.16	0.25	4	darf	d a atu f	d a ʀ f	d a ʀ f	21	German/wav/066/GE066_12.wav
+DEU062_20_6	DEU062_20	DEU062	DEU	male		TRA	1.81	2.21	0.4	6	erzielt	e r ts il l t	ɛ ʀ ts iː l t	ɛ ʀ ts iː l t	5	German/wav/062/GE062_20.wav
+CZE005_69_9	CZE005_69	CZE005	CZE	male	28.0	TRA	3.35	3.6	0.25	4	metr	m e t r	m ɛ t r̩	m ɛ t r̩	6	Czech/wav/005/CZ005_69.wav
+CZE036_46_2	CZE036_46	CZE036	CZE	male	20.0	TRA	0.61	0.76	0.15	4	tomu	t o m u	t o m u	t o m u	174	Czech/wav/036/CZ036_46.wav
+CZE058_57_4	CZE058_57	CZE058	CZE	male	21.0	TRA	2.36	2.71	0.35	4	však	f sh a k	f ʃ a k	f ʃ a k	412	Czech/wav/058/CZ058_57.wav
+DEU012_10_16	DEU012_10	DEU012	DEU	male		TRA	6.44	6.76	0.32	5	nötig	n t i k	n øː t ɪ ç	n øː t ɪ ç	13	German/wav/012/GE012_10.wav
+CZE037_1_37	CZE037_1	CZE037	CZE	male	25.0	TRA	11.39	11.81	0.42	6	spoustu	s p ow s t u	s p ou̯ s t u	s p o u ̯ s t u	5	Czech/wav/037/CZ037_1.wav
+CZE023_110_5	CZE023_110	CZE023	CZE	female	25.0	TRA	2.95	3.67	0.72	5	splní	s p l nj ii	s p l̩ ɲ iː	s p l̩ ɲ iː	54	Czech/wav/023/CZ023_110.wav
+CZE052_121_22	CZE052_121	CZE052	CZE	male	22.0	TRA	9.24	9.89	0.65	11	nepravdivých	n e p r a v dj i v ii x	n ɛ p r a v ɟ i v iː x	n ɛ p r a v ɟ i v iː x	53	Czech/wav/052/CZ052_121.wav
+DEU005_40_1	DEU005_40	DEU005	DEU	male		TRA	0.65	0.92	0.27	4	diese	d il z etu	d iː z ə	d iː z ə	162	German/wav/005/GE005_40.wav
+DEU053_48_15	DEU053_48	DEU053	DEU	male		TRA	5.9	6.68	0.78	13	sudetendeutschen	z ul d el t etu n d eU t S etu n	z uː d eː t ɛ n d ɔɪ t ʃ ə n	z uː d eː t ɛ n d ɔ ɪ t ʃ ə n	4	German/wav/053/GE053_48.wav
+CZE047_54_16	CZE047_54	CZE047	CZE	male	21.0	TRA	5.83	6.59	0.76	6	cestách	c e s t aa x	ts ɛ s t aː x	ts ɛ s t aː x	3	Czech/wav/047/CZ047_54.wav
+CZE001_23_1	CZE001_23	CZE001	CZE	female	51.0	TRA	1.21	1.66	0.45	5	jeden	j e d e n	j ɛ d ɛ n	j ɛ d ɛ n	111	Czech/wav/001/CZ001_23.wav
+DEU060_67_4	DEU060_67	DEU060	DEU	male		TRA	1.09	1.66	0.57	9	mitarbeiter	m i t a atu b aI t atu	m ɪ t a ʀ b aɪ t ɛ	m ɪ t a ʀ b a ɪ t ɛ	14	German/wav/060/GE060_67.wav
+CZE004_44_23	CZE004_44	CZE004	CZE	female	58.0	TRA	10.98	11.25	0.27	4	dvě	d v j e	d v j ɛ	d v j ɛ	245	Czech/wav/004/CZ004_44.wav
+CZE087_21_46	CZE087_21	CZE087	CZE	female	44.0	DEV	20.93	21.33	0.4	6	modrých	m o d r ii x	m o d r iː x	m o d r iː x	2	Czech/wav/087/CZ087_21.wav
+DEU011_49_13	DEU011_49	DEU011	DEU	female		TRA	5.52	6.21	0.69	10	verfehlungen	f e r f el l u ng etu n	f ɛ ʀ f eː l ʊ ŋ ə n	f ɛ ʀ f eː l ʊ ŋ ə n	2	German/wav/011/GE011_49.wav
+CZE042_124_30	CZE042_124	CZE042	CZE	female	22.0	TRA	11.31	11.9	0.59	10	přirozeným	p rsh i r o z e n ii m	p r̝ i r o z ɛ n iː m	p r̝ i r o z ɛ n iː m	53	Czech/wav/042/CZ042_124.wav
+CZE034_6_2	CZE034_6	CZE034	CZE	female	21.0	TRA	1.49	2.16	0.67	7	partner	p a r t n e r	p a r t n ɛ r	p a r t n ɛ r	11	Czech/wav/034/CZ034_6.wav
+CZE066_90_7	CZE066_90	CZE066	CZE	female	20.0	TRA	3.53	4.29	0.76	10	pojišťovny	p o j i sh tj o v n i	p o j i ʃ c o v n i	p o j i ʃ c o v n i	21	Czech/wav/066/CZ066_90.wav
+CZE044_4_9	CZE044_4	CZE044	CZE	male	20.0	TRA	3.38	3.66	0.28	4	domu	d o m u	d o m u	d o m u	22	Czech/wav/044/CZ044_4.wav
+DEU057_47_19	DEU057_47	DEU057	DEU	male		TRA	6.17	6.66	0.49	8	vorläufig	f ol r l u f i k	f oː ʀ l ɔɪ f ɪ ç	f oː ʀ l ɔ ɪ f ɪ ç	4	German/wav/057/GE057_47.wav
+CZE019_135_26	CZE019_135	CZE019	CZE	male	33.0	TRA	15.69	16.29	0.6	6	zákona	z aa k o n a	z aː k o n a	z aː k o n a	118	Czech/wav/019/CZ019_135.wav
+CZE030_47_19	CZE030_47	CZE030	CZE	male	21.0	TRA	7.19	7.73	0.54	8	nabídnout	n a b ii d n ow t	n a b iː d n ou̯ t	n a b iː d n o u ̯ t	11	Czech/wav/030/CZ030_47.wav
+CZE024_80_2	CZE024_80	CZE024	CZE	female	20.0	TRA	1.1	1.3	0.2	4	roku	r o k u	r o k u	r o k u	246	Czech/wav/024/CZ024_80.wav
+CZE095_96_1	CZE095_96	CZE095	CZE	male	18.0	DEV	0.7	1.29	0.59	9	dvacátého	d v a c aa t ee h o	d v a ts aː t ɛː ɦ o	d v a ts aː t ɛː ɦ o	7	Czech/wav/095/CZ095_96.wav
+CZE035_52_4	CZE035_52	CZE035	CZE	female	21.0	TRA	1.14	1.41	0.27	5	mělo	m nj e l o	m ɲ ɛ l o	m ɲ ɛ l o	34	Czech/wav/035/CZ035_52.wav
+DEU037_23_4	DEU037_23	DEU037	DEU	male		TRA	1.85	2.1	0.25	4	also	a l z ol	a l z oː	a l z oː	38	German/wav/037/GE037_23.wav
+CZE046_44_1	CZE046_44	CZE046	CZE	female	25.0	TRA	1.01	1.49	0.48	5	ruční	r u ch nj ii	r u t̠ʃ ɲ iː	r u t̠ʃ ɲ iː	54	Czech/wav/046/CZ046_44.wav
+DEU062_77_12	DEU062_77	DEU062	DEU	male		TRA	3.84	4.25	0.41	4	haft	h a f t	h a f t	h a f t	3	German/wav/062/GE062_77.wav
+DEU009_191_6	DEU009_191	DEU009	DEU	male		EVA	1.88	2.16	0.28	4	eides	a i d etu s	aɪ d ə s	a ɪ d ə s	2	German/wav/009/GE009_191.wav
+CZE035_106_6	CZE035_106	CZE035	CZE	female	21.0	TRA	2.54	2.98	0.44	7	dalšími	d a l sh ii m i	d a l ʃ iː m i	d a l ʃ iː m i	58	Czech/wav/035/CZ035_106.wav
+DEU024_192_7	DEU024_192	DEU024	DEU	male		TRA	2.48	2.86	0.38	6	solchen	z o l x etu n	z oː l ç ə n	z oː l ç ə n	25	German/wav/024/GE024_192.wav
+DEU004_45_8	DEU004_45	DEU004	DEU	male		DEV	2.18	3.0	0.82	13	ordnungskräfte	o r t n u ng s k r f t etu	ɔ ʀ d n ʊ ŋ s k r ɛ f t ə	ɔ ʀ d n ʊ ŋ s k r ɛ f t ə	3	German/wav/004/GE004_45.wav
+CZE038_83_23	CZE038_83	CZE038	CZE	male	21.0	TRA	10.3	10.75	0.45	6	brandy	b r e n d i	b r a n d i	b r a n d i	3	Czech/wav/038/CZ038_83.wav
+DEU020_107_11	DEU020_107	DEU020	DEU	male		EVA	3.4	3.8	0.4	7	gegeben	g etu g el b etu n	ɡ ə ɡ eː b ə n	ɡ ə ɡ eː b ə n	6	German/wav/020/GE020_107.wav
+DEU013_79_16	DEU013_79	DEU013	DEU	male		TRA	5.61	6.18	0.57	10	bedeutenden	b etu d eU t etu n d etu n	b ə d ɔɪ t ə n d ə n	b ə d ɔ ɪ t ə n d ə n	2	German/wav/013/GE013_79.wav
+CZE039_103_10	CZE039_103	CZE039	CZE	male	20.0	TRA	4.26	4.82	0.56	7	nákupem	n aa k u p e m	n aː k u p ɛ m	n aː k u p ɛ m	52	Czech/wav/039/CZ039_103.wav
+CZE019_20_7	CZE019_20	CZE019	CZE	male	33.0	TRA	2.16	2.41	0.25	4	šest	sh e s t	ʃ ɛ s t	ʃ ɛ s t	174	Czech/wav/019/CZ019_20.wav
+CZE036_129_10	CZE036_129	CZE036	CZE	male	20.0	TRA	4.43	4.98	0.55	9	dlouholeté	d l ow h o l e t ee	d l ou̯ ɦ o l ɛ t ɛː	d l o u ̯ ɦ o l ɛ t ɛː	52	Czech/wav/036/CZ036_129.wav
+DEU070_27_11	DEU070_27	DEU070	DEU	male		TRA	5.05	5.8	0.75	10	vereinbarung	f atu aI n b al r u ng	f ɛ ʀ aɪ n b a r ʊ ŋ	f ɛ ʀ a ɪ n b a r ʊ ŋ	5	German/wav/070/GE070_27.wav
+DEU010_81_11	DEU010_81	DEU010	DEU	female		DEV	4.11	4.4	0.29	5	warum	v a r u m	v aː r ʊ m	v aː r ʊ m	2	German/wav/010/GE010_81.wav
+CZE065_18_3	CZE065_18	CZE065	CZE	male	20.0	TRA	2.04	2.6	0.56	7	skupiny	s k u p i n i	s k u p i n i	s k u p i n i	19	Czech/wav/065/CZ065_18.wav
+CZE047_15_2	CZE047_15	CZE047	CZE	male	21.0	TRA	1.37	2.14	0.77	7	koalice	k o a l i c e	k o a l i ts ɛ	k o a l i ts ɛ	19	Czech/wav/047/CZ047_15.wav
+DEU033_43_17	DEU033_43	DEU033	DEU	male		TRA	7.65	8.29	0.64	9	überprüfen	b etu r p r f etu n	yː b ɛ p r yː f ə n	yː b ɛ p r yː f ə n	4	German/wav/033/GE033_43.wav
+DEU051_86_9	DEU051_86	DEU051	DEU	male		EVA	3.52	4.03	0.51	11	instrumente	i n s t r ul m e n t etu	ɪ n s t ʀ uː m ɛ n t ə	ɪ n s t ʀ uː m ɛ n t ə	2	German/wav/051/GE051_86.wav
+CZE041_135_22	CZE041_135	CZE041	CZE	female	18.0	TRA	10.97	11.26	0.29	5	jinak	j i n a k	j i n a k	j i n a k	84	Czech/wav/041/CZ041_135.wav
+CZE006_12_5	CZE006_12	CZE006	CZE	female	26.0	TRA	1.23	1.73	0.5	8	oddělení	o d dj e l e nj ii	o d ɟ ɛ l ɛ ɲ iː	o d ɟ ɛ l ɛ ɲ iː	30	Czech/wav/006/CZ006_12.wav
+CZE027_129_13	CZE027_129	CZE027	CZE	male	22.0	TRA	7.71	8.2	0.49	7	udržení	u d r zh e nj ii	u d r̩ ʒ ɛ ɲ iː	u d r̩ ʒ ɛ ɲ iː	54	Czech/wav/027/CZ027_129.wav
+CZE040_64_3	CZE040_64	CZE040	CZE	female	21.0	TRA	1.33	1.79	0.46	6	českém	ch e s k ee m	t̠ʃ ɛ s k ɛː m	t̠ʃ ɛ s k ɛː m	12	Czech/wav/040/CZ040_64.wav
+CZE059_75_6	CZE059_75	CZE059	CZE	female	46.0	TRA	3.41	3.9	0.49	6	evropy	e v r o p i	ɛ v r o p i	ɛ v r o p i	22	Czech/wav/059/CZ059_75.wav
+DEU003_175_10	DEU003_175	DEU003	DEU	male		DEV	3.93	4.64	0.71	11	französischen	f r a n ts z i S etu n	f r a n ts øː z ɪ ʃ ə n	f r a n ts øː z ɪ ʃ ə n	4	German/wav/003/GE003_175.wav
+CZE093_6_19	CZE093_6	CZE093	CZE	male	20.0	DEV	7.73	8.24	0.51	5	cestou	c e s t ow	ts ɛ s t ou̯	ts ɛ s t o u ̯	2	Czech/wav/093/CZ093_6.wav
+DEU001_55_16	DEU001_55	DEU001	DEU	male		DEV	5.94	6.42	0.48	6	helfen	h e l f etu n	h ɛ l f ə n	h ɛ l f ə n	7	German/wav/001/GE001_55.wav
+CZE022_140_19	CZE022_140	CZE022	CZE	male	47.0	TRA	9.04	9.95	0.91	11	způsobilost	s p uu s o b i l o s t	s p uː s o b i l o s t	s p uː s o b i l o s t	56	Czech/wav/022/CZ022_140.wav
+CZE075_18_30	CZE075_18	CZE075	CZE	male	22.0	TRA	17.1	17.52	0.42	7	veřejné	v e rzh e j n ee	v ɛ r̝ ɛ ɪ n ɛː	v ɛ r̝ ɛ ɪ n ɛː	16	Czech/wav/075/CZ075_18.wav
+DEU053_64_11	DEU053_64	DEU053	DEU	male		TRA	3.92	4.69	0.77	13	glaubwürdigkeit	g l a u p v atu d i C k a i t	ɡ l aʊ b v ʏ ʀ d ɪ ç k aɪ t	ɡ l a ʊ b v ʏ ʀ d ɪ ç k a ɪ t	5	German/wav/053/GE053_64.wav
+DEU010_166_9	DEU010_166	DEU010	DEU	female		DEV	1.96	2.33	0.37	5	später	S p t atu	ʃ p ɛː t ɛ	ʃ p ɛː t ɛ	8	German/wav/010/GE010_166.wav
+CZE021_136_30	CZE021_136	CZE021	CZE	female	19.0	TRA	11.29	11.64	0.35	5	někdo	nj e g d o	ɲ ɛ k d o	ɲ ɛ k d o	83	Czech/wav/021/CZ021_136.wav
+CZE009_108_26	CZE009_108	CZE009	CZE	male	22.0	TRA	11.19	11.96	0.77	12	odpovídající	o d p o v ii d a j ii c ii	o t p o v iː d a j iː ts iː	o t p o v iː d a j iː ts iː	119	Czech/wav/009/CZ009_108.wav
+CZE080_60_1	CZE080_60	CZE080	CZE	male	18.0	TRA	0.55	0.94	0.39	6	všechny	f sh e x n i	f ʃ ɛ x n i	f ʃ ɛ x n i	136	Czech/wav/080/CZ080_60.wav
+CZE007_137_23	CZE007_137	CZE007	CZE	male	33.0	TRA	6.94	7.66	0.72	9	nezbytných	n e z b i t n ii x	n ɛ z b i t n iː x	n ɛ z b i t n iː x	53	Czech/wav/007/CZ007_137.wav
+CZE008_101_10	CZE008_101	CZE008	CZE	male	27.0	TRA	3.41	3.76	0.35	4	trhu	t r h u	t r̩ ɦ u	t r̩ ɦ u	146	Czech/wav/008/CZ008_101.wav
+DEU001_73_16	DEU001_73	DEU001	DEU	male		DEV	7.39	7.76	0.37	5	stets	S t el ts	ʃ t eː t s	ʃ t eː t s	3	German/wav/001/GE001_73.wav
+DEU012_35_2	DEU012_35	DEU012	DEU	male		TRA	0.21	0.67	0.46	5	pflicht	p f l i C t	pf l ɪ ç t	pf l ɪ ç t	3	German/wav/012/GE012_35.wav
+DEU013_191_16	DEU013_191	DEU013	DEU	male		TRA	4.44	5.17	0.73	10	verringerung	f e r r i ng etu r u ng	f ɛ ʀ r ɪ ŋ ə r ʊ ŋ	f ɛ ʀ r ɪ ŋ ə r ʊ ŋ	5	German/wav/013/GE013_191.wav
+CZE069_83_23	CZE069_83	CZE069	CZE	female	20.0	TRA	8.15	8.92	0.77	6	bhp	b ee h aa p ee	b ɛː ɦ aː p ɛː	b ɛː ɦ aː p ɛː	5	Czech/wav/069/CZ069_83.wav
+CZE043_111_5	CZE043_111	CZE043	CZE	male	22.0	TRA	1.31	1.65	0.34	6	všechno	f sh e x n o	f ʃ ɛ x n o	f ʃ ɛ x n o	128	Czech/wav/043/CZ043_111.wav
+DEU031_57_20	DEU031_57	DEU031	DEU	male		TRA	7.86	8.19	0.33	6	möglich	m g l i C	m øː k l ɪ ç	m øː k l ɪ ç	48	German/wav/031/GE031_57.wav
+DEU074_32_9	DEU074_32	DEU074	DEU	male		TRA	2.63	3.17	0.54	7	anfällen	a n f l l etu n	a n f ɛ l ə n	a n f ɛ l ə n	2	German/wav/074/GE074_32.wav
+CZE081_83_27	CZE081_83	CZE081	CZE	male	48.0	TRA	13.72	14.14	0.42	6	odmítl	o d m ii t l	o d m iː t l̩	o d m iː t l̩	6	Czech/wav/081/CZ081_83.wav
+DEU043_171_2	DEU043_171	DEU043	DEU	male		TRA	0.96	1.47	0.51	6	sonntag	z o n t al k	z ɔ n t aː k	z ɔ n t aː k	41	German/wav/043/GE043_171.wav
+DEU014_159_23	DEU014_159	DEU014	DEU	male		DEV	8.09	8.57	0.48	9	handlungen	h a n d l u ng etu n	h a n d l ʊ ŋ ə n	h a n d l ʊ ŋ ə n	2	German/wav/014/GE014_159.wav
+CZE017_101_23	CZE017_101	CZE017	CZE	female	46.0	EVA	7.81	8.39	0.58	9	stanovena	s t a n o v e n a	s t a n o v ɛ n a	s t a n o v ɛ n a	54	Czech/wav/017/CZ017_101.wav
+CZE076_93_6	CZE076_93	CZE076	CZE	male	25.0	TRA	1.84	2.07	0.23	4	roce	r o c e	r o ts ɛ	r o ts ɛ	145	Czech/wav/076/CZ076_93.wav
+DEU015_102_6	DEU015_102	DEU015	DEU	male		TRA	1.37	1.72	0.35	6	bisher	b i s h el r	b ɪ s h eː ʀ	b ɪ s h eː ʀ	76	German/wav/015/GE015_102.wav
+DEU049_9_3	DEU049_9	DEU049	DEU	female		TRA	1.34	1.65	0.31	4	könne	k n n etu	k œ n ə	k œ n ə	97	German/wav/049/GE049_9.wav
+CZE037_23_17	CZE037_23	CZE037	CZE	male	25.0	TRA	6.48	6.97	0.49	8	chemickém	x e m i c k ee m	x ɛ m i ts k ɛː m	x ɛ m i ts k ɛː m	2	Czech/wav/037/CZ037_23.wav
+DEU012_166_8	DEU012_166	DEU012	DEU	male		TRA	2.82	3.49	0.67	6	geschätzt	g etu S ts t	ɡ ə ʃ ɛ ts t	ɡ ə ʃ ɛ ts t	2	German/wav/012/GE012_166.wav
+CZE098_22_1	CZE098_22	CZE098	CZE	female	16.0	EVA	0.86	1.37	0.51	7	projekt	p r o j e k t	p r o j ɛ k t	p r o j ɛ k t	5	Czech/wav/098/CZ098_22.wav
+CZE025_57_7	CZE025_57	CZE025	CZE	male	74.0	TRA	3.0	3.23	0.23	4	však	f sh a k	f ʃ a k	f ʃ a k	412	Czech/wav/025/CZ025_57.wav
+DEU002_56_6	DEU002_56	DEU002	DEU	male		DEV	2.14	2.67	0.53	7	gewesen	g etu v el z etu n	ɡ ə v eː z ə n	ɡ ə v eː z ə n	16	German/wav/002/GE002_56.wav
+DEU050_142_23	DEU050_142	DEU050	DEU	male		TRA	6.38	7.0	0.62	9	koalition	k ol a l il ts il ol n	k oː a l iː ts ɪ oː n	k oː a l iː ts ɪ oː n	34	German/wav/050/GE050_142.wav
+DEU052_46_15	DEU052_46	DEU052	DEU	male		DEV	4.79	5.1	0.31	5	kommen	k o m etu n	k ɔ m ə n	k ɔ m ə n	50	German/wav/052/GE052_46.wav
+CZE003_59_13	CZE003_59	CZE003	CZE	female	26.0	TRA	3.66	3.93	0.27	4	máme	m aa m e	m aː m ɛ	m aː m ɛ	42	Czech/wav/003/CZ003_59.wav
+DEU024_130_14	DEU024_130	DEU024	DEU	male		TRA	6.23	6.93	0.7	8	einrichtung	a i n r i C t u ng	aɪ n r ɪ ç t ʊ ŋ	a ɪ n r ɪ ç t ʊ ŋ	5	German/wav/024/GE024_130.wav
+CZE022_63_5	CZE022_63	CZE022	CZE	male	47.0	TRA	2.51	2.91	0.4	5	tepla	t e p l a	t ɛ p l a	t ɛ p l a	52	Czech/wav/022/CZ022_63.wav
+CZE022_113_8	CZE022_113	CZE022	CZE	male	47.0	TRA	3.18	3.53	0.35	4	vůči	v uu ch i	v uː t̠ʃ i	v uː t̠ʃ i	186	Czech/wav/022/CZ022_113.wav
+CZE080_83_18	CZE080_83	CZE080	CZE	male	18.0	TRA	9.76	10.17	0.41	7	dostane	d o s t a n e	d o s t a n ɛ	d o s t a n ɛ	15	Czech/wav/080/CZ080_83.wav
+CZE066_103_24	CZE066_103	CZE066	CZE	female	20.0	TRA	11.52	12.18	0.66	6	provoz	p r o v o s	p r o v o s	p r o v o s	25	Czech/wav/066/CZ066_103.wav
+DEU030_181_17	DEU030_181	DEU030	DEU	male		TRA	6.06	6.56	0.5	7	sprechen	S p r e C etu n	ʃ p r ɛ ç ə n	ʃ p r ɛ ç ə n	16	German/wav/030/GE030_181.wav
+DEU053_39_16	DEU053_39	DEU053	DEU	male		TRA	4.05	4.27	0.22	4	ende	e n d etu	ɛ n d ə	ɛ n d ə	79	German/wav/053/GE053_39.wav
+CZE031_124_19	CZE031_124	CZE031	CZE	male	21.0	TRA	7.84	8.2	0.36	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/031/CZ031_124.wav
+DEU055_41_14	DEU055_41	DEU055	DEU	male		TRA	4.46	5.09	0.63	9	politisches	p ol l il t i S etu s	p oː l iː t ɪ ʃ ə s	p oː l iː t ɪ ʃ ə s	13	German/wav/055/GE055_41.wav
+CZE008_15_16	CZE008_15	CZE008	CZE	male	27.0	TRA	4.94	5.38	0.44	4	soudu	s ow d u	s ou̯ d u	s o u ̯ d u	34	Czech/wav/008/CZ008_15.wav
+CZE019_110_24	CZE019_110	CZE019	CZE	male	33.0	TRA	12.41	12.82	0.41	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/019/CZ019_110.wav
+DEU003_20_1	DEU003_20	DEU003	DEU	male		DEV	0.75	1.13	0.38	4	dort	d o atu t	d ɔ ʀ t	d ɔ ʀ t	21	German/wav/003/GE003_20.wav
+DEU026_19_10	DEU026_19	DEU026	DEU	female		EVA	2.83	3.25	0.42	8	verluste	f e r l u s t etu	f ɛ ʀ l ʊ s t ə	f ɛ ʀ l ʊ s t ə	2	German/wav/026/GE026_19.wav
+CZE043_45_6	CZE043_45	CZE043	CZE	male	22.0	TRA	2.76	3.32	0.56	10	přípravných	p rsh ii p r a v n ii x	p r̝ iː p r a v n iː x	p r̝ iː p r a v n iː x	4	Czech/wav/043/CZ043_45.wav
+CZE017_32_4	CZE017_32	CZE017	CZE	female	46.0	EVA	1.62	2.04	0.42	6	vydání	v i d aa nj ii	v i d aː ɲ iː	v i d aː ɲ iː	13	Czech/wav/017/CZ017_32.wav
+DEU004_31_8	DEU004_31	DEU004	DEU	male		DEV	2.87	3.39	0.52	8	angehende	a n g el etu n d etu	a n ɡ eː ə n d ə	a n ɡ eː ə n d ə	3	German/wav/004/GE004_31.wav
+DEU034_112_8	DEU034_112	DEU034	DEU	male		TRA	3.17	3.6	0.43	4	jeder	j el d etu r	j eː d ɛ	j eː d ɛ	42	German/wav/034/GE034_112.wav
+CZE039_65_12	CZE039_65	CZE039	CZE	male	20.0	TRA	4.6	5.27	0.67	8	americký	a m e r i c k ii	a m ɛ r i ts k iː	a m ɛ r i ts k iː	9	Czech/wav/039/CZ039_65.wav
+DEU027_7_8	DEU027_7	DEU027	DEU	male		TRA	3.85	4.23	0.38	6	weniger	v el n i g etu r	v eː n ɪ ɡ ɛ	v eː n ɪ ɡ ɛ	39	German/wav/027/GE027_7.wav
+CZE096_64_7	CZE096_64	CZE096	CZE	male	18.0	EVA	2.37	2.77	0.4	6	poblíž	p o b l ii sh	p o b l iː ʃ	p o b l iː ʃ	3	Czech/wav/096/CZ096_64.wav
+DEU009_27_19	DEU009_27	DEU009	DEU	male		EVA	10.91	11.57	0.66	9	liberalen	l il b el r al l etu n	l iː b eː r aː l ə n	l iː b eː r aː l ə n	5	German/wav/009/GE009_27.wav
+CZE088_43_16	CZE088_43	CZE088	CZE	female	69.0	EVA	8.35	8.92	0.57	7	povinen	p o v i n e n	p o v i n ɛ n	p o v i n ɛ n	2	Czech/wav/088/CZ088_43.wav
+CZE030_109_28	CZE030_109	CZE030	CZE	male	21.0	TRA	11.71	12.24	0.53	8	zbytečně	z b i t e ch nj e	z b i t ɛ t̠ʃ ɲ ɛ	z b i t ɛ t̠ʃ ɲ ɛ	57	Czech/wav/030/CZ030_109.wav
+CZE094_102_27	CZE094_102	CZE094	CZE	male	47.0	EVA	13.26	13.77	0.51	7	desetin	d e s e tj i n	d ɛ s ɛ c i n	d ɛ s ɛ c i n	12	Czech/wav/094/CZ094_102.wav
+CZE051_107_27	CZE051_107	CZE051	CZE	male	25.0	TRA	9.95	10.62	0.67	8	sympozií	s i m p o z i j ii	s i m p o z i iː	s i m p o z i iː	52	Czech/wav/051/CZ051_107.wav
+DEU016_187_10	DEU016_187	DEU016	DEU	male		EVA	3.03	3.56	0.53	8	minderheit	m i n d etu r h a i t	m ɪ n d ɛ h aɪ t	m ɪ n d ɛ h a ɪ t	8	German/wav/016/GE016_187.wav
+CZE010_110_14	CZE010_110	CZE010	CZE	male	51.0	TRA	7.45	7.99	0.54	6	vyloučí	v i l ow ch ii	v i l ou̯ t̠ʃ iː	v i l o u ̯ t̠ʃ iː	52	Czech/wav/010/CZ010_110.wav
+CZE087_19_21	CZE087_19	CZE087	CZE	female	44.0	DEV	8.23	8.82	0.59	9	kilometrů	k i l o m e t r uu	k i l o m ɛ t r uː	k i l o m ɛ t r uː	2	Czech/wav/087/CZ087_19.wav
+CZE007_136_11	CZE007_136	CZE007	CZE	male	33.0	TRA	3.65	4.29	0.64	8	telefonu	t e l e f o n u	t ɛ l ɛ f o n u	t ɛ l ɛ f o n u	52	Czech/wav/007/CZ007_136.wav
+DEU050_187_2	DEU050_187	DEU050	DEU	male		TRA	0.62	1.0	0.38	8	verzögern	f e r ts g atu n	f ɛ ʀ ts øː ɡ ɛ n	f ɛ ʀ ts øː ɡ ɛ n	2	German/wav/050/GE050_187.wav
+CZE095_54_9	CZE095_54	CZE095	CZE	male	18.0	DEV	3.59	3.97	0.38	5	úplně	uu p l nj e	uː p l̩ ɲ ɛ	uː p l̩ ɲ ɛ	2	Czech/wav/095/CZ095_54.wav
+DEU013_15_6	DEU013_15	DEU013	DEU	male		TRA	1.56	1.95	0.39	6	kleidung	k l a i d u ng	k l aɪ d ʊ ŋ	k l a ɪ d ʊ ŋ	3	German/wav/013/GE013_15.wav
+DEU041_97_8	DEU041_97	DEU041	DEU	male		TRA	4.38	4.89	0.51	6	möglich	m g l i C	m øː k l ɪ ç	m øː k l ɪ ç	48	German/wav/041/GE041_97.wav
+CZE083_61_11	CZE083_61	CZE083	CZE	male	19.0	DEV	4.08	4.34	0.26	5	jehož	j e h o sh	j ɛ ɦ o ʃ	j ɛ ɦ o ʃ	7	Czech/wav/083/CZ083_61.wav
+DEU038_27_4	DEU038_27	DEU038	DEU	male		TRA	0.78	0.98	0.2	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/038/GE038_27.wav
+CZE020_85_18	CZE020_85	CZE020	CZE	female	25.0	TRA	7.94	8.3	0.36	6	úklidu	uu k l i d u	uː k l i d u	uː k l i d u	3	Czech/wav/020/CZ020_85.wav
+DEU024_8_16	DEU024_8	DEU024	DEU	male		TRA	5.82	6.59	0.77	10	ermutigend	e r m ul t i g etu n t	ɛ ʀ m uː t ɪ ɡ ə n t	ɛ ʀ m uː t ɪ ɡ ə n t	2	German/wav/024/GE024_8.wav
+CZE076_89_5	CZE076_89	CZE076	CZE	male	25.0	TRA	2.06	2.51	0.45	6	čtenář	ch t e n aa rsh	t̠ʃ t ɛ n aː r̝	t̠ʃ t ɛ n aː r̝	12	Czech/wav/076/CZ076_89.wav
+DEU013_136_28	DEU013_136	DEU013	DEU	male		TRA	7.11	7.75	0.64	10	unbeweglich	u n b etu v el k l i C	ʊ n b ə v eː k l ɪ ç	ʊ n b ə v eː k l ɪ ç	2	German/wav/013/GE013_136.wav
+DEU010_173_8	DEU010_173	DEU010	DEU	female		DEV	2.2	2.93	0.73	13	demonstranten	d el m o n s t r a n t etu n	d eː m ɔ n s t ʀ a n t ə n	d eː m ɔ n s t ʀ a n t ə n	4	German/wav/010/GE010_173.wav
+DEU015_33_19	DEU015_33	DEU015	DEU	male		TRA	6.48	6.72	0.24	4	trotz	t r o ts	t ʀ ɔ ts	t ʀ ɔ ts	30	German/wav/015/GE015_33.wav
+CZE021_119_22	CZE021_119	CZE021	CZE	female	19.0	TRA	9.7	10.22	0.52	8	rozvinout	r o z v i n ow t	r o z v i n ou̯ t	r o z v i n o u ̯ t	52	Czech/wav/021/CZ021_119.wav
+CZE071_103_2	CZE071_103	CZE071	CZE	female	20.0	TRA	0.76	1.09	0.33	6	neměl	n e m nj e l	n ɛ m ɲ ɛ l	n ɛ m ɲ ɛ l	69	Czech/wav/071/CZ071_103.wav
+DEU074_19_11	DEU074_19	DEU074	DEU	male		TRA	3.98	4.51	0.53	5	nutzung	n u ts u ng	n ʊ ts ʊ ŋ	n ʊ ts ʊ ŋ	5	German/wav/074/GE074_19.wav
+DEU043_199_4	DEU043_199	DEU043	DEU	male		TRA	1.06	1.4	0.34	5	deutsche	d eU t S etu	d ɔɪ t ʃ ə	d ɔ ɪ t ʃ ə	63	German/wav/043/GE043_199.wav
+CZE044_20_4	CZE044_20	CZE044	CZE	male	20.0	TRA	1.12	1.62	0.5	6	vyrábí	v i r aa b ii	v i r aː b iː	v i r aː b iː	12	Czech/wav/044/CZ044_20.wav
+CZE070_24_15	CZE070_24	CZE070	CZE	female	23.0	TRA	6.43	7.03	0.6	8	padesáti	p a d e s aa tj i	p a d ɛ s aː c i	p a d ɛ s aː c i	28	Czech/wav/070/CZ070_24.wav
+DEU054_14_2	DEU054_14	DEU054	DEU	male		TRA	0.25	0.46	0.21	4	einem	aI n etu m	aɪ n ə m	a ɪ n ə m	336	German/wav/054/GE054_14.wav
+DEU007_96_9	DEU007_96	DEU007	DEU	male		TRA	3.07	3.36	0.29	4	blick	b l i k	b l ɪ k	b l ɪ k	10	German/wav/007/GE007_96.wav
+DEU041_101_8	DEU041_101	DEU041	DEU	male		TRA	3.44	3.79	0.35	5	himmel	h i m etu l	h ɪ m ə l	h ɪ m ə l	5	German/wav/041/GE041_101.wav
+DEU022_85_5	DEU022_85	DEU022	DEU	male		TRA	2.4	2.7	0.3	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/022/GE022_85.wav
+DEU022_13_7	DEU022_13	DEU022	DEU	male		TRA	2.17	3.19	1.02	14	rechtsradikalen	r e C ts r a d il k al l etu n	r ɛ ç t s r a d iː k aː l ə n	r ɛ ç t s r a d iː k aː l ə n	10	German/wav/022/GE022_13.wav
+CZE020_138_18	CZE020_138	CZE020	CZE	female	25.0	TRA	6.92	7.25	0.33	5	rychlý	r i x l ii	r i x l iː	r i x l iː	104	Czech/wav/020/CZ020_138.wav
+DEU021_54_8	DEU021_54	DEU021	DEU	male		EVA	2.83	3.07	0.24	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	71	German/wav/021/GE021_54.wav
+CZE038_65_30	CZE038_65	CZE038	CZE	male	21.0	TRA	16.87	17.51	0.64	8	umístili	u m ii s tj i l i	u m iː s c i l i	u m iː s c i l i	2	Czech/wav/038/CZ038_65.wav
+DEU021_77_19	DEU021_77	DEU021	DEU	male		EVA	6.14	6.49	0.35	6	berlin	b e r l il n	b ɛ ʀ l iː n	b ɛ ʀ l iː n	6	German/wav/021/GE021_77.wav
+DEU030_4_3	DEU030_4	DEU030	DEU	male		TRA	2.12	2.2	0.08	4	läßt	l t	l ɛ s t	l ɛ s t	26	German/wav/030/GE030_4.wav
+CZE097_64_27	CZE097_64	CZE097	CZE	female	16.0	DEV	11.08	11.28	0.2	4	byla	b i l a	b i l a	b i l a	26	Czech/wav/097/CZ097_64.wav
+CZE089_52_16	CZE089_52	CZE089	CZE	female	18.0	DEV	8.61	9.41	0.8	10	sekretářky	s e k r e t aa rsh k i	s ɛ k r ɛ t aː r̝ k i	s ɛ k r ɛ t aː r̝ k i	2	Czech/wav/089/CZ089_52.wav
+CZE005_15_3	CZE005_15	CZE005	CZE	male	28.0	TRA	1.06	1.64	0.58	6	sdělit	z dj e l i t	z ɟ ɛ l i t	z ɟ ɛ l i t	2	Czech/wav/005/CZ005_15.wav
+CZE058_62_2	CZE058_62	CZE058	CZE	male	21.0	TRA	0.77	1.28	0.51	7	minulém	m i n u l ee m	m i n u l ɛː m	m i n u l ɛː m	5	Czech/wav/058/CZ058_62.wav
+DEU012_28_10	DEU012_28	DEU012	DEU	male		TRA	4.21	4.97	0.76	12	industriellen	i n d u s t r il e l etu n	ɪ n d ʊ s t ʀ ɪ ɛ l ə n	ɪ n d ʊ s t ʀ ɪ ɛ l ə n	4	German/wav/012/GE012_28.wav
+DEU054_84_5	DEU054_84	DEU054	DEU	male		TRA	1.62	2.18	0.56	9	hilfsgüter	h i l f s g t atu	h ɪ l f s ɡ yː t ɛ	h ɪ l f s ɡ yː t ɛ	2	German/wav/054/GE054_84.wav
+DEU050_178_16	DEU050_178	DEU050	DEU	male		TRA	5.32	5.83	0.51	4	aidid	aI d i t	aɪ d iː t	a ɪ d iː t	5	German/wav/050/GE050_178.wav
+CZE026_125_30	CZE026_125	CZE026	CZE	male	25.0	EVA	12.44	13.08	0.64	6	roletou	r o l e t ow	r o l ɛ t ou̯	r o l ɛ t o u ̯	52	Czech/wav/026/CZ026_125.wav
+CZE079_82_16	CZE079_82	CZE079	CZE	female	20.0	TRA	7.28	7.85	0.57	7	závěru	z aa v j e r u	z aː v j ɛ r u	z aː v j ɛ r u	12	Czech/wav/079/CZ079_82.wav
+CZE098_58_21	CZE098_58	CZE098	CZE	female	16.0	EVA	10.32	11.1	0.78	7	pancéřů	p a n c ee rzh uu	p a n ts ɛː r̝ uː	p a n ts ɛː r̝ uː	2	Czech/wav/098/CZ098_58.wav
+DEU007_69_19	DEU007_69	DEU007	DEU	male		TRA	8.68	9.1	0.42	5	unfall	u n f a l	ʊ n f a l	ʊ n f a l	10	German/wav/007/GE007_69.wav
+CZE004_51_24	CZE004_51	CZE004	CZE	female	58.0	TRA	10.97	11.6	0.63	8	nynějších	n i nj e j sh ii x	n i ɲ ɛ j ʃ iː x	n i ɲ ɛ j ʃ iː x	5	Czech/wav/004/CZ004_51.wav
+CZE044_137_21	CZE044_137	CZE044	CZE	male	20.0	TRA	7.64	8.2	0.56	5	kroků	k r o k uu	k r o k uː	k r o k uː	55	Czech/wav/044/CZ044_137.wav
+CZE033_131_13	CZE033_131	CZE033	CZE	male	18.0	DEV	3.54	4.2	0.66	10	opatovické	o p a t o v i c k ee	o p a t o v i ts k ɛː	o p a t o v i ts k ɛː	50	Czech/wav/033/CZ033_131.wav
+CZE006_133_18	CZE006_133	CZE006	CZE	female	26.0	TRA	5.61	5.89	0.28	4	lidi	l i dj i	l i ɟ i	l i ɟ i	122	Czech/wav/006/CZ006_133.wav
+DEU010_77_15	DEU010_77	DEU010	DEU	female		DEV	4.6	5.1	0.5	9	zumindest	ts u m i n d etu s t	ts uː m ɪ n d ə s t	ts uː m ɪ n d ə s t	4	German/wav/010/GE010_77.wav
+DEU073_5_4	DEU073_5	DEU073	DEU	male		EVA	1.53	1.98	0.45	7	relativ	r el l a t il f	r eː l a t iː f	r eː l a t iː f	4	German/wav/073/GE073_5.wav
+DEU072_54_13	DEU072_54	DEU072	DEU	male		TRA	5.32	6.0	0.68	8	politiker	p o l i t i k atu	p oː l iː t iː k ɛ	p oː l iː t iː k ɛ	48	German/wav/072/GE072_54.wav
+CZE033_20_7	CZE033_20	CZE033	CZE	male	18.0	DEV	2.73	3.2	0.47	7	ukončit	u k o n ch i t	u k o n t̠ʃ i t	u k o n t̠ʃ i t	5	Czech/wav/033/CZ033_20.wav
+DEU016_105_3	DEU016_105	DEU016	DEU	male		EVA	1.18	1.68	0.5	9	lambsdorff	l a m p s d o r f	l a m p s d ɔ ʀ f	l a m p s d ɔ ʀ f	12	German/wav/016/GE016_105.wav
+CZE014_14_2	CZE014_14	CZE014	CZE	female	21.0	TRA	0.98	1.17	0.19	4	bylo	b i l o	b i l o	b i l o	148	Czech/wav/014/CZ014_14.wav
+DEU001_21_6	DEU001_21	DEU001	DEU	male		DEV	1.79	2.12	0.33	10	einzelmeinung	k n a p	aɪ n ts ɛ l m aɪ n ʊ ŋ	a ɪ n ts ɛ l m a ɪ n ʊ ŋ	2	German/wav/001/GE001_21.wav
+DEU007_177_2	DEU007_177	DEU007	DEU	male		TRA	1.2	1.9	0.7	9	bestanden	b etu S t a n d etu n	b ə ʃ t a n d ə n	b ə ʃ t a n d ə n	4	German/wav/007/GE007_177.wav
+DEU013_60_21	DEU013_60	DEU013	DEU	male		TRA	8.57	9.21	0.64	8	griechischen	g r il C i S etu n	ɡ r iː ç ɪ ʃ ə n	ɡ r iː ç ɪ ʃ ə n	6	German/wav/013/GE013_60.wav
+CZE090_90_10	CZE090_90	CZE090	CZE	female	21.0	EVA	6.3	7.1	0.8	7	členové	ch l e n o v ee	t̠ʃ l ɛ n o v ɛː	t̠ʃ l ɛ n o v ɛː	4	Czech/wav/090/CZ090_90.wav
+CZE012_133_24	CZE012_133	CZE012	CZE	male	17.0	TRA	8.12	8.49	0.37	5	které	k t e r ee	k t ɛ r ɛː	k t ɛ r ɛː	728	Czech/wav/012/CZ012_133.wav
+DEU003_99_11	DEU003_99	DEU003	DEU	male		DEV	5.32	5.63	0.31	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	141	German/wav/003/GE003_99.wav
+CZE029_9_27	CZE029_9	CZE029	CZE	female	19.0	TRA	7.59	7.87	0.28	5	který	k t e r ii	k t ɛ r iː	k t ɛ r iː	485	Czech/wav/029/CZ029_9.wav
+CZE058_70_30	CZE058_70	CZE058	CZE	male	21.0	TRA	13.7	14.02	0.32	4	duchu	d u x u	d u x u	d u x u	5	Czech/wav/058/CZ058_70.wav
+CZE101_51_3	CZE101_51	CZE101	CZE	female	18.0	DEV	1.64	2.12	0.48	8	vědecké	v j e d e c k ee	v j ɛ d ɛ ts k ɛː	v j ɛ d ɛ ts k ɛː	2	Czech/wav/101/CZ101_51.wav
+DEU002_182_10	DEU002_182	DEU002	DEU	male		DEV	3.54	4.2	0.66	7	gewesen	g etu v el z etu n	ɡ ə v eː z ə n	ɡ ə v eː z ə n	16	German/wav/002/GE002_182.wav
+DEU018_12_1	DEU018_12	DEU018	DEU	female		EVA	0.42	0.86	0.44	7	deshalb	d e s h a l p	d ɛ s h a l p	d ɛ s h a l p	8	German/wav/018/GE018_12.wav
+CZE092_62_10	CZE092_62	CZE092	CZE	female	19.0	EVA	5.94	6.41	0.47	8	vzniknout	v z nj i k n ow t	v z ɲ i k n ou̯ t	v z ɲ i k n o u ̯ t	3	Czech/wav/092/CZ092_62.wav
+DEU013_43_20	DEU013_43	DEU013	DEU	male		TRA	5.96	6.31	0.35	6	ordnung	o r d n u ng	ɔ ʀ d n ʊ ŋ	ɔ ʀ d n ʊ ŋ	15	German/wav/013/GE013_43.wav
+CZE073_101_6	CZE073_101	CZE073	CZE	female	21.0	TRA	2.97	3.56	0.59	6	koukala	k ow k a l a	k ou̯ k a l a	k o u ̯ k a l a	2	Czech/wav/073/CZ073_101.wav
+DEU025_10_2	DEU025_10	DEU025	DEU	male		TRA	0.57	1.28	0.71	11	hintergründe	h i n t etu r g r n d etu	h ɪ n t ɛ ɡ r ʏ n d ə	h ɪ n t ɛ ɡ r ʏ n d ə	3	German/wav/025/GE025_10.wav
+CZE018_130_18	CZE018_130	CZE018	CZE	female	26.0	TRA	10.57	11.05	0.48	5	firem	f i r e m	f i r ɛ m	f i r ɛ m	176	Czech/wav/018/CZ018_130.wav
+CZE089_61_7	CZE089_61	CZE089	CZE	female	18.0	DEV	2.59	2.89	0.3	5	konec	k o n e c	k o n ɛ ts	k o n ɛ ts	2	Czech/wav/089/CZ089_61.wav
+DEU017_141_9	DEU017_141	DEU017	DEU	male		TRA	2.56	3.43	0.87	13	innerparteilichen	i n etu r p a r t a i l i C etu n	ɪ n ɛ p a ʀ t aɪ l ɪ ç ə n	ɪ n ɛ p a ʀ t a ɪ l ɪ ç ə n	3	German/wav/017/GE017_141.wav
+CZE102_62_11	CZE102_62	CZE102	CZE	male	22.0	EVA	5.0	5.33	0.33	7	gelyella	d zh l j e l a	ɡ ɛ l i ɛ l a	ɡ ɛ l i ɛ l a	5	Czech/wav/102/CZ102_62.wav
+CZE089_65_8	CZE089_65	CZE089	CZE	female	18.0	DEV	3.02	3.38	0.36	5	emise	e m i s e	ɛ m i s ɛ	ɛ m i s ɛ	3	Czech/wav/089/CZ089_65.wav
+DEU014_68_16	DEU014_68	DEU014	DEU	male		DEV	6.61	6.85	0.24	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/014/GE014_68.wav
+CZE005_111_9	CZE005_111	CZE005	CZE	male	28.0	TRA	2.86	3.81	0.95	11	uspořádáním	u s p o rzh aa d aa nj ii m	u s p o r̝ aː d aː ɲ iː m	u s p o r̝ aː d aː ɲ iː m	52	Czech/wav/005/CZ005_111.wav
+DEU002_39_9	DEU002_39	DEU002	DEU	male		DEV	2.97	3.46	0.49	7	dienstag	d il n s t al k	d iː n s t aː k	d iː n s t aː k	8	German/wav/002/GE002_39.wav
+CZE101_87_17	CZE101_87	CZE101	CZE	female	18.0	DEV	7.73	7.98	0.25	4	nový	n o v ii	n o v iː	n o v iː	6	Czech/wav/101/CZ101_87.wav
+CZE006_43_23	CZE006_43	CZE006	CZE	female	26.0	TRA	9.7	10.41	0.71	9	sedmdesát	s e d m d e s aa t	s ɛ d m d ɛ s aː t	s ɛ d m d ɛ s aː t	65	Czech/wav/006/CZ006_43.wav
+CZE035_33_20	CZE035_33	CZE035	CZE	female	21.0	TRA	8.18	8.78	0.6	9	celkového	c e l k o v ee h o	ts ɛ l k o v ɛː ɦ o	ts ɛ l k o v ɛː ɦ o	7	Czech/wav/035/CZ035_33.wav
+CZE018_136_20	CZE018_136	CZE018	CZE	female	26.0	TRA	8.15	8.56	0.41	5	tento	t e n t o	t ɛ n t o	t ɛ n t o	122	Czech/wav/018/CZ018_136.wav
+DEU066_55_8	DEU066_55	DEU066	DEU	male		TRA	3.42	3.88	0.46	8	militärs	m i l i t r s	m iː l iː t ɛː ʀ s	m iː l iː t ɛː ʀ s	8	German/wav/066/GE066_55.wav
+CZE091_45_23	CZE091_45	CZE091	CZE	female	20.0	DEV	15.55	15.85	0.3	4	všech	f sh e x	f ʃ ɛ x	f ʃ ɛ x	6	Czech/wav/091/CZ091_45.wav
+DEU030_102_7	DEU030_102	DEU030	DEU	male		TRA	2.03	2.78	0.75	9	gesellschaft	g etu z e l S a f t	ɡ ə z ɛ l ʃ a f t	ɡ ə z ɛ l ʃ a f t	23	German/wav/030/GE030_102.wav
+DEU027_33_3	DEU027_33	DEU027	DEU	male		TRA	1.41	1.87	0.46	9	frankfurt	f r a ng k f u atu t	f r a ŋ k f ʊ ɐ t	f r a ŋ k f ʊ ɐ t	14	German/wav/027/GE027_33.wav
+CZE070_74_11	CZE070_74	CZE070	CZE	female	23.0	TRA	4.33	4.78	0.45	7	stávají	s t aa v a j ii	s t aː v a j iː	s t aː v a j iː	2	Czech/wav/070/CZ070_74.wav
+DEU029_39_11	DEU029_39	DEU029	DEU	male		EVA	5.77	6.0	0.23	4	einem	aI n etu m	aɪ n ə m	a ɪ n ə m	39	German/wav/029/GE029_39.wav
+CZE061_26_8	CZE061_26	CZE061	CZE	female	21.0	TRA	4.35	4.95	0.6	5	setin	s e tj i n	s ɛ c i n	s ɛ c i n	18	Czech/wav/061/CZ061_26.wav
+DEU003_69_10	DEU003_69	DEU003	DEU	male		DEV	4.83	5.09	0.26	4	diese	d il z etu	d iː z ə	d iː z ə	23	German/wav/003/GE003_69.wav
+DEU052_51_22	DEU052_51	DEU052	DEU	male		DEV	9.57	9.83	0.26	5	sollen	z o l etu n	z ɔ l ə n	z ɔ l ə n	81	German/wav/052/GE052_51.wav
+DEU076_27_4	DEU076_27	DEU076	DEU	male		TRA	1.06	1.32	0.26	4	jahre	j al r etu	j aː r ə	j aː r ə	145	German/wav/076/GE076_27.wav
+DEU024_147_2	DEU024_147	DEU024	DEU	male		TRA	0.59	0.94	0.35	5	weisen	v a i z etu n	v aɪ z ə n	v a ɪ z ə n	4	German/wav/024/GE024_147.wav
+CZE062_26_18	CZE062_26	CZE062	CZE	male	20.0	TRA	6.87	7.25	0.38	6	vrátit	v r aa tj i t	v r aː c i t	v r aː c i t	60	Czech/wav/062/CZ062_26.wav
+CZE019_52_6	CZE019_52	CZE019	CZE	male	33.0	TRA	2.24	2.59	0.35	4	roky	r o k i	r o k i	r o k i	29	Czech/wav/019/CZ019_52.wav
+DEU037_90_2	DEU037_90	DEU037	DEU	male		TRA	1.03	1.38	0.35	5	werte	v el r t etu	v ɛ ʀ t ə	v ɛ ʀ t ə	3	German/wav/037/GE037_90.wav
+DEU072_80_1	DEU072_80	DEU072	DEU	male		TRA	0.45	0.7	0.25	4	nicht	n i C t	n ɪ ç t	n ɪ ç t	1251	German/wav/072/GE072_80.wav
+CZE010_133_30	CZE010_133	CZE010	CZE	male	51.0	TRA	11.02	11.56	0.54	8	čekající	ch e k a j ii c ii	t̠ʃ ɛ k a j iː ts iː	t̠ʃ ɛ k a j iː ts iː	52	Czech/wav/010/CZ010_133.wav
+DEU016_6_6	DEU016_6	DEU016	DEU	male		EVA	1.9	2.79	0.89	18	ministerpräsidenten	m i n i s t atu p r z il d e n t etu n	m iː n ɪ s t ɛ p r ɛː z iː d ɛ n t ə n	m iː n ɪ s t ɛ p r ɛː z iː d ɛ n t ə n	14	German/wav/016/GE016_6.wav
+CZE072_11_36	CZE072_11	CZE072	CZE	female	21.0	TRA	16.38	16.71	0.33	5	svými	s v ii m i	s v iː m i	s v iː m i	11	Czech/wav/072/CZ072_11.wav
+CZE006_99_8	CZE006_99	CZE006	CZE	female	26.0	TRA	4.95	5.69	0.74	12	personálního	p e r s o n aa l nj ii h o	p ɛ r s o n aː l ɲ iː ɦ o	p ɛ r s o n aː l ɲ iː ɦ o	2	Czech/wav/006/CZ006_99.wav
+DEU020_27_10	DEU020_27	DEU020	DEU	male		EVA	3.31	3.74	0.43	6	werden	v el r d etu n	v ɛ ʀ d ə n	v ɛ ʀ d ə n	71	German/wav/020/GE020_27.wav
+CZE044_86_23	CZE044_86	CZE044	CZE	male	20.0	TRA	9.74	10.24	0.5	5	práce	p r aa c e	p r aː ts ɛ	p r aː ts ɛ	144	Czech/wav/044/CZ044_86.wav
+DEU002_144_1	DEU002_144	DEU002	DEU	male		DEV	0.14	0.71	0.57	8	natürlich	n al t r l i C	n aː t yː ʀ l ɪ ç	n aː t yː ʀ l ɪ ç	5	German/wav/002/GE002_144.wav
+DEU045_33_26	DEU045_33	DEU045	DEU	male		TRA	11.35	11.82	0.47	5	bleibe	b l aI b etu	b l aɪ b ə	b l a ɪ b ə	9	German/wav/045/GE045_33.wav
+DEU004_59_15	DEU004_59	DEU004	DEU	male		DEV	6.09	6.52	0.43	5	kamen	k al m etu n	k aː m ə n	k aː m ə n	3	German/wav/004/GE004_59.wav
+DEU031_11_3	DEU031_11	DEU031	DEU	male		TRA	2.14	2.64	0.5	8	städtischen	S t t i S etu n	ʃ t ɛ t ɪ ʃ ə n	ʃ t ɛ t ɪ ʃ ə n	3	German/wav/031/GE031_11.wav
+CZE014_51_5	CZE014_51	CZE014	CZE	female	21.0	TRA	1.62	1.99	0.37	6	zvýšit	z v ii sh i t	z v iː ʃ i t	z v iː ʃ i t	18	Czech/wav/014/CZ014_51.wav
+DEU005_133_10	DEU005_133	DEU005	DEU	male		TRA	3.63	3.92	0.29	4	seine	z aI n etu	z aɪ n ə	z a ɪ n ə	185	German/wav/005/GE005_133.wav
+DEU005_100_2	DEU005_100	DEU005	DEU	male		TRA	0.83	1.36	0.53	8	verzögern	f e r ts g atu n	f ɛ ʀ ts øː ɡ ɛ n	f ɛ ʀ ts øː ɡ ɛ n	2	German/wav/005/GE005_100.wav
+DEU051_113_4	DEU051_113	DEU051	DEU	male		EVA	1.14	1.5	0.36	5	wohnung	v ol n u ng	v oː n ʊ ŋ	v oː n ʊ ŋ	16	German/wav/051/GE051_113.wav
+CZE004_21_17	CZE004_21	CZE004	CZE	female	58.0	TRA	10.39	10.99	0.6	5	čtyři	ch t i rzh i	t̠ʃ t i r̝ i	t̠ʃ t i r̝ i	165	Czech/wav/004/CZ004_21.wav
+CZE042_60_16	CZE042_60	CZE042	CZE	female	22.0	TRA	7.77	8.48	0.71	9	dvacátého	d v a c aa t ee h o	d v a ts aː t ɛː ɦ o	d v a ts aː t ɛː ɦ o	44	Czech/wav/042/CZ042_60.wav
+CZE076_64_16	CZE076_64	CZE076	CZE	male	25.0	TRA	8.27	8.87	0.6	11	mezinárodní	m e z i n aa r o d nj ii	m ɛ z i n aː r o d ɲ iː	m ɛ z i n aː r o d ɲ iː	46	Czech/wav/076/CZ076_64.wav
+CZE065_91_8	CZE065_91	CZE065	CZE	male	20.0	TRA	4.01	4.37	0.36	4	roce	r o c e	r o ts ɛ	r o ts ɛ	145	Czech/wav/065/CZ065_91.wav
+DEU012_77_3	DEU012_77	DEU012	DEU	male		TRA	0.73	1.01	0.28	4	hebt	h el p t	h eː p t	h eː p t	2	German/wav/012/GE012_77.wav
+DEU050_124_14	DEU050_124	DEU050	DEU	male		TRA	4.26	4.78	0.52	10	südlibanon	s d l i b a n o n	z ʏ d l iː b a n oː n	z ʏ d l iː b a n oː n	5	German/wav/050/GE050_124.wav
+CZE085_18_13	CZE085_18	CZE085	CZE	male	22.0	DEV	5.48	6.06	0.58	9	největší	n e j v j e t sh ii	n ɛ ɪ v j ɛ t ʃ iː	n ɛ ɪ v j ɛ t ʃ iː	6	Czech/wav/085/CZ085_18.wav
+CZE037_120_3	CZE037_120	CZE037	CZE	male	25.0	TRA	1.02	1.65	0.63	6	názoru	n aa z o r u	n aː z o r u	n aː z o r u	75	Czech/wav/037/CZ037_120.wav
+CZE015_74_1	CZE015_74	CZE015	CZE	male	17.0	TRA	0.23	1.04	0.81	12	doporučujeme	d o p o r u ch u j e m e	d o p o r u t̠ʃ u j ɛ m ɛ	d o p o r u t̠ʃ u j ɛ m ɛ	3	Czech/wav/015/CZ015_74.wav
+DEU018_33_12	DEU018_33	DEU018	DEU	female		EVA	3.69	4.06	0.37	6	bleiben	b l a i b etu n	b l aɪ b ə n	b l a ɪ b ə n	3	German/wav/018/GE018_33.wav
+CZE001_108_8	CZE001_108	CZE001	CZE	female	51.0	TRA	4.49	5.01	0.52	5	české	ch e s k ee	t̠ʃ ɛ s k ɛː	t̠ʃ ɛ s k ɛː	310	Czech/wav/001/CZ001_108.wav
+CZE068_5_14	CZE068_5	CZE068	CZE	female	21.0	DEV	6.34	6.58	0.24	4	více	v ii c e	v iː ts ɛ	v iː ts ɛ	146	Czech/wav/068/CZ068_5.wav
+DEU062_28_6	DEU062_28	DEU062	DEU	male		TRA	2.94	3.52	0.58	4	holt	h ol l t	h ɔ l t	h ɔ l t	2	German/wav/062/GE062_28.wav
+DEU004_195_6	DEU004_195	DEU004	DEU	male		DEV	2.87	2.98	0.11	4	schätzt	S ts t	ʃ ɛ ts t	ʃ ɛ ts t	3	German/wav/004/GE004_195.wav
+CZE073_16_22	CZE073_16	CZE073	CZE	female	21.0	TRA	7.21	7.82	0.61	10	třináctého	t rsh i n aa c t ee h o	t r̝ i n aː ts t ɛː ɦ o	t r̝ i n aː ts t ɛː ɦ o	7	Czech/wav/073/CZ073_16.wav
+CZE093_35_24	CZE093_35	CZE093	CZE	male	20.0	DEV	12.96	13.25	0.29	4	roce	r o c e	r o ts ɛ	r o ts ɛ	23	Czech/wav/093/CZ093_35.wav
+CZE086_32_13	CZE086_32	CZE086	CZE	male	19.0	EVA	3.56	3.83	0.27	6	platit	p l a tj i t	p l a c i t	p l a c i t	4	Czech/wav/086/CZ086_32.wav
+DEU077_84_15	DEU077_84	DEU077	DEU	male		TRA	8.81	9.23	0.42	5	haben	h al b etu n	h aː b ə n	h aː b ə n	290	German/wav/077/GE077_84.wav
+DEU057_21_18	DEU057_21	DEU057	DEU	male		TRA	6.33	6.98	0.65	12	geschäftsleuten	g etu S f ts l eU t etu n	ɡ ə ʃ ɛ f t s l ɔɪ t ə n	ɡ ə ʃ ɛ f t s l ɔ ɪ t ə n	3	German/wav/057/GE057_21.wav
+DEU069_65_11	DEU069_65	DEU069	DEU	male		TRA	7.32	8.0	0.68	7	vorschlag	f ol r S l al k	f oː ʀ ʃ l aː k	f oː ʀ ʃ l aː k	16	German/wav/069/GE069_65.wav
+CZE010_136_14	CZE010_136	CZE010	CZE	male	51.0	TRA	6.27	6.9	0.63	9	existuje	e g z i s t u j e	ɛ k s i s t u j ɛ	ɛ k s i s t u j ɛ	74	Czech/wav/010/CZ010_136.wav
+DEU052_136_19	DEU052_136	DEU052	DEU	male		DEV	8.43	8.93	0.5	7	prozent	p r ol ts e n t	p r oː ts ɛ n t	p r oː ts ɛ n t	116	German/wav/052/GE052_136.wav
+DEU006_1_7	DEU006_1	DEU006	DEU	male		TRA	2.09	3.01	0.92	15	zivilbevölkerung	ts il v il l b etu f l k atu r u ng	ts iː v ɪ l b eː f œ l k ə r ʊ ŋ	ts iː v ɪ l b eː f œ l k ə r ʊ ŋ	2	German/wav/006/GE006_1.wav
+DEU046_33_14	DEU046_33	DEU046	DEU	female		TRA	5.58	6.2	0.62	7	aufteilung	a u f t a i l u ng	aʊ f t aɪ l ʊ ŋ	a ʊ f t a ɪ l ʊ ŋ	5	German/wav/046/GE046_33.wav
+DEU059_100_5	DEU059_100	DEU059	DEU	male		TRA	0.94	1.56	0.62	12	kommunistischen	k o m ul n i s t i S etu n	k ɔ m uː n ɪ s t ɪ ʃ ə n	k ɔ m uː n ɪ s t ɪ ʃ ə n	2	German/wav/059/GE059_100.wav
+CZE043_139_24	CZE043_139	CZE043	CZE	male	22.0	TRA	9.25	9.68	0.43	4	lidé	l i d ee	l i d ɛː	l i d ɛː	155	Czech/wav/043/CZ043_139.wav
+DEU017_116_3	DEU017_116	DEU017	DEU	male		TRA	0.98	1.67	0.69	10	polizisten	p ol l il ts i s t etu n	p oː l iː ts ɪ s t ə n	p oː l iː ts ɪ s t ə n	18	German/wav/017/GE017_116.wav
+CZE009_132_26	CZE009_132	CZE009	CZE	male	22.0	TRA	8.69	9.27	0.58	5	aféry	a f ee r i	a f ɛː r i	a f ɛː r i	52	Czech/wav/009/CZ009_132.wav
+CZE048_108_4	CZE048_108	CZE048	CZE	male	21.0	TRA	1.22	1.55	0.33	5	jasnou	j a s n ow	j a s n ou̯	j a s n o u ̯	52	Czech/wav/048/CZ048_108.wav
+CZE072_46_24	CZE072_46	CZE072	CZE	female	21.0	TRA	12.06	12.93	0.87	10	parlamentu	p a r l a m e n t u	p a r l a m ɛ n t u	p a r l a m ɛ n t u	15	Czech/wav/072/CZ072_46.wav
+DEU048_40_2	DEU048_40	DEU048	DEU	male		TRA	1.44	1.83	0.39	4	blüm	b l m	b l yː m	b l yː m	6	German/wav/048/GE048_40.wav
+CZE075_22_1	CZE075_22	CZE075	CZE	male	22.0	TRA	0.76	1.21	0.45	5	důvod	d uu v o t	d uː v o t	d uː v o t	67	Czech/wav/075/CZ075_22.wav
+CZE066_89_10	CZE066_89	CZE066	CZE	female	20.0	TRA	5.71	6.23	0.52	7	objekty	o b j e k t i	o b j ɛ k t i	o b j ɛ k t i	12	Czech/wav/066/CZ066_89.wav
+DEU065_91_6	DEU065_91	DEU065	DEU	male		TRA	2.36	2.91	0.55	9	beschleunigt	b etu S l eU n i C t	b ə ʃ l ɔɪ n ɪ ç t	b ə ʃ l ɔ ɪ n ɪ ç t	3	German/wav/065/GE065_91.wav
+CZE030_46_1	CZE030_46	CZE030	CZE	male	21.0	TRA	0.53	1.23	0.7	9	optimální	o p t i m aa l nj ii	o p t i m aː l ɲ iː	o p t i m aː l ɲ iː	56	Czech/wav/030/CZ030_46.wav
+CZE053_25_24	CZE053_25	CZE053	CZE	male	20.0	TRA	11.44	12.27	0.83	11	jedenáctého	j e d e n aa c t ee h o	j ɛ d ɛ n aː ts t ɛː ɦ o	j ɛ d ɛ n aː ts t ɛː ɦ o	7	Czech/wav/053/CZ053_25.wav
+DEU036_87_10	DEU036_87	DEU036	DEU	male		TRA	3.81	4.1	0.29	4	ende	e n d etu	ɛ n d ə	ɛ n d ə	79	German/wav/036/GE036_87.wav
+DEU022_86_9	DEU022_86	DEU022	DEU	male		TRA	4.12	4.56	0.44	6	engholm	e ng h o l m	ɛ ŋ h ɔ l m	ɛ ŋ h ɔ l m	26	German/wav/022/GE022_86.wav
+DEU057_99_20	DEU057_99	DEU057	DEU	male		TRA	4.9	5.34	0.44	6	deutschen	d eU t S etu n	d ɔɪ t ʃ ə n	d ɔ ɪ t ʃ ə n	105	German/wav/057/GE057_99.wav
+CZE049_57_8	CZE049_57	CZE049	CZE	male	22.0	TRA	4.45	4.78	0.33	5	který	k t e r ii	k t ɛ r iː	k t ɛ r iː	485	Czech/wav/049/CZ049_57.wav
+CZE034_123_4	CZE034_123	CZE034	CZE	female	21.0	TRA	2.58	3.13	0.55	6	povahy	p o v a h i	p o v a ɦ i	p o v a ɦ i	55	Czech/wav/034/CZ034_123.wav
+DEU051_135_10	DEU051_135	DEU051	DEU	male		EVA	3.2	3.54	0.34	7	getrennt	g etu t r e n t	ɡ ə t ʀ ɛ n t	ɡ ə t ʀ ɛ n t	10	German/wav/051/GE051_135.wav
+CZE002_140_18	CZE002_140	CZE002	CZE	female	20.0	EVA	8.43	9.07	0.64	10	předepsanou	p rsh e d e p s a n ow	p r̝ ɛ d ɛ p s a n ou̯	p r̝ ɛ d ɛ p s a n o u ̯	53	Czech/wav/002/CZ002_140.wav
+CZE021_29_8	CZE021_29	CZE021	CZE	female	19.0	TRA	2.71	3.21	0.5	7	karlovy	k a r l o v i	k a r l o v i	k a r l o v i	3	Czech/wav/021/CZ021_29.wav
+CZE071_102_11	CZE071_102	CZE071	CZE	female	20.0	TRA	3.95	4.28	0.33	6	všechny	f sh e x n i	f ʃ ɛ x n i	f ʃ ɛ x n i	136	Czech/wav/071/CZ071_102.wav
+DEU076_10_12	DEU076_10	DEU076	DEU	male		TRA	3.07	4.01	0.94	14	kernkraftwerke	k e r n k r a f t v e r k etu	k ɛ ʀ ŋ k r a f t v ɛ ʀ k ə	k ɛ ʀ ŋ k r a f t v ɛ ʀ k ə	3	German/wav/076/GE076_10.wav
+CZE054_87_11	CZE054_87	CZE054	CZE	male	23.0	EVA	5.42	5.92	0.5	5	rokem	r o k e m	r o k ɛ m	r o k ɛ m	14	Czech/wav/054/CZ054_87.wav
+CZE088_9_4	CZE088_9	CZE088	CZE	female	69.0	EVA	1.94	2.39	0.45	6	masných	m a s n ii x	m a s n iː x	m a s n iː x	2	Czech/wav/088/CZ088_9.wav
+DEU050_7_6	DEU050_7	DEU050	DEU	male		TRA	1.39	2.15	0.76	11	todesstrafe	t ol d etu s S t r al f etu	t oː d ɛ s ʃ t ʀ aː f ə	t oː d ɛ s ʃ t ʀ aː f ə	2	German/wav/050/GE050_7.wav
+CZE035_130_11	CZE035_130	CZE035	CZE	female	21.0	TRA	6.49	6.95	0.46	5	tisíc	tj i s ii c	c i s iː ts	c i s iː ts	378	Czech/wav/035/CZ035_130.wav
+CZE017_118_9	CZE017_118	CZE017	CZE	female	46.0	EVA	3.84	4.15	0.31	4	dějů	dj e j uu	ɟ ɛ j uː	ɟ ɛ j uː	52	Czech/wav/017/CZ017_118.wav
+CZE053_72_3	CZE053_72	CZE053	CZE	male	20.0	TRA	1.3	1.85	0.55	4	ln	e l e n	ɛ l ɛ n	ɛ l ɛ n	28	Czech/wav/053/CZ053_72.wav
+CZE011_59_7	CZE011_59	CZE011	CZE	female	47.0	TRA	4.22	5.19	0.97	10	konkurence	k o ng k u r e n c e	k o ŋ k u r ɛ n ts ɛ	k o ŋ k u r ɛ n ts ɛ	19	Czech/wav/011/CZ011_59.wav
+CZE045_39_11	CZE045_39	CZE045	CZE	male	23.0	TRA	2.93	3.53	0.6	6	dražší	d r a sh ii	d r a ʃ ʃ iː	d r a ʃ ʃ iː	13	Czech/wav/045/CZ045_39.wav
+CZE059_50_10	CZE059_50	CZE059	CZE	female	46.0	TRA	4.52	5.19	0.67	5	kabát	k a b aa t	k a b aː t	k a b aː t	3	Czech/wav/059/CZ059_50.wav
+CZE033_48_27	CZE033_48	CZE033	CZE	male	18.0	DEV	9.98	10.67	0.69	12	živnostenské	zh i v n o s t e n s k ee	ʒ i v n o s t ɛ n s k ɛː	ʒ i v n o s t ɛ n s k ɛː	53	Czech/wav/033/CZ033_48.wav
+CZE011_107_22	CZE011_107	CZE011	CZE	female	47.0	TRA	9.12	9.93	0.81	8	katalogu	k a t a l o g u	k a t a l o ɡ u	k a t a l o ɡ u	57	Czech/wav/011/CZ011_107.wav
+CZE076_19_11	CZE076_19	CZE076	CZE	male	25.0	TRA	5.32	5.61	0.29	6	vidíme	v i dj ii m e	v i ɟ iː m ɛ	v i ɟ iː m ɛ	5	Czech/wav/076/CZ076_19.wav
+DEU070_27_5	DEU070_27	DEU070	DEU	male		TRA	2.49	3.27	0.78	11	jugoslawien	j ul g ol s l al v il etu n	j uː ɡ ɔ s l a v ɪ ə n	j uː ɡ ɔ s l a v ɪ ə n	17	German/wav/070/GE070_27.wav
+CZE002_136_11	CZE002_136	CZE002	CZE	female	20.0	EVA	3.43	4.15	0.72	8	telefonu	t e l e f o n u	t ɛ l ɛ f o n u	t ɛ l ɛ f o n u	52	Czech/wav/002/CZ002_136.wav
+CZE027_115_19	CZE027_115	CZE027	CZE	male	22.0	TRA	6.85	7.24	0.39	4	nichž	nj i x sh	ɲ i x ʃ	ɲ i x ʃ	140	Czech/wav/027/CZ027_115.wav
+CZE018_108_34	CZE018_108	CZE018	CZE	female	26.0	TRA	15.44	15.67	0.23	4	tomu	t o m u	t o m u	t o m u	174	Czech/wav/018/CZ018_108.wav
+DEU040_5_5	DEU040_5	DEU040	DEU	male		TRA	1.32	1.83	0.51	7	großteil	g r ol t aI l	ɡ r ɔ s t aɪ l	ɡ r ɔ s t a ɪ l	4	German/wav/040/GE040_5.wav
+CZE013_68_4	CZE013_68	CZE013	CZE	male	21.0	TRA	2.35	2.89	0.54	4	věc	v j e c	v j ɛ ts	v j ɛ ts	25	Czech/wav/013/CZ013_68.wav
+DEU010_139_2	DEU010_139	DEU010	DEU	female		DEV	0.61	0.93	0.32	8	enthalte	e n t h a l t etu	ɛ n t h a l t ə	ɛ n t h a l t ə	2	German/wav/010/GE010_139.wav
+DEU033_79_10	DEU033_79	DEU033	DEU	male		TRA	5.49	5.88	0.39	9	wenigsten	v el n i C s t etu n	v eː n ɪ ç s t ə n	v eː n ɪ ç s t ə n	3	German/wav/033/GE033_79.wav
+CZE032_69_16	CZE032_69	CZE032	CZE	female	24.0	TRA	6.36	6.7	0.34	7	vlastně	v l a s t nj e	v l a s t ɲ ɛ	v l a s t ɲ ɛ	38	Czech/wav/032/CZ032_69.wav
+CZE025_55_13	CZE025_55	CZE025	CZE	male	74.0	TRA	5.66	6.23	0.57	5	řídit	rzh ii dj i t	r̝ iː ɟ i t	r̝ iː ɟ i t	58	Czech/wav/025/CZ025_55.wav
+DEU017_170_2	DEU017_170	DEU017	DEU	male		TRA	0.87	1.16	0.29	4	wird	v i atu t	v ɪ ʀ t	v ɪ ʀ t	392	German/wav/017/GE017_170.wav
+CZE058_45_5	CZE058_45	CZE058	CZE	male	21.0	TRA	3.78	4.6	0.82	7	zápasech	z aa p a s e x	z aː p a s ɛ x	z aː p a s ɛ x	2	Czech/wav/058/CZ058_45.wav
+CZE060_103_11	CZE060_103	CZE060	CZE	male	21.0	TRA	5.76	6.36	0.6	6	správy	s p r aa v i	s p r aː v i	s p r aː v i	13	Czech/wav/060/CZ060_103.wav
+CZE074_44_23	CZE074_44	CZE074	CZE	male	23.0	TRA	11.3	11.75	0.45	6	nehoda	n e h o d a	n ɛ ɦ o d a	n ɛ ɦ o d a	7	Czech/wav/074/CZ074_44.wav
+CZE058_37_7	CZE058_37	CZE058	CZE	male	21.0	TRA	4.11	4.58	0.47	7	protože	p r o t o zh e	p r o t o ʒ ɛ	p r o t o ʒ ɛ	296	Czech/wav/058/CZ058_37.wav
+DEU012_114_10	DEU012_114	DEU012	DEU	male		TRA	2.99	3.38	0.39	7	überhaupt	b etu r h a u p t	yː b ɛ h aʊ p t	yː b ɛ h a ʊ p t	23	German/wav/012/GE012_114.wav
+DEU075_89_2	DEU075_89	DEU075	DEU	male		DEV	0.69	1.09	0.4	6	ansicht	a n z i C t	a n z ɪ ç t	a n z ɪ ç t	25	German/wav/075/GE075_89.wav
+CZE057_58_6	CZE057_58	CZE057	CZE	female	48.0	TRA	2.75	3.09	0.34	4	svých	s v ii x	s v iː x	s v iː x	56	Czech/wav/057/CZ057_58.wav
+CZE025_13_7	CZE025_13	CZE025	CZE	male	74.0	TRA	3.03	3.58	0.55	7	obchodům	o p x o d uu m	o p x o d uː m	o p x o d uː m	2	Czech/wav/025/CZ025_13.wav
+DEU021_111_12	DEU021_111	DEU021	DEU	male		EVA	4.28	4.56	0.28	5	runde	r u n d etu	r ʊ n d ə	r ʊ n d ə	3	German/wav/021/GE021_111.wav
+DEU019_23_2	DEU019_23	DEU019	DEU	male		TRA	0.59	0.95	0.36	4	schiffe	S i f etu	ʃ ɪ f ə	ʃ ɪ f ə	8	German/wav/019/GE019_23.wav
+CZE092_91_3	CZE092_91	CZE092	CZE	female	19.0	EVA	2.12	2.45	0.33	5	ještě	j e sh tj e	j ɛ ʃ c ɛ	j ɛ ʃ c ɛ	19	Czech/wav/092/CZ092_91.wav
+CZE086_13_6	CZE086_13	CZE086	CZE	male	19.0	EVA	2.41	2.74	0.33	5	právo	p r aa v o	p r aː v o	p r aː v o	4	Czech/wav/086/CZ086_13.wav
+CZE013_69_9	CZE013_69	CZE013	CZE	male	21.0	TRA	5.72	6.23	0.51	5	chybách	x i b aa x	x i b aː x	x i b aː x	7	Czech/wav/013/CZ013_69.wav
+CZE024_138_2	CZE024_138	CZE024	CZE	female	20.0	TRA	0.37	0.81	0.44	7	přírody	p rsh ii r o d i	p r̝ iː r o d i	p r̝ iː r o d i	54	Czech/wav/024/CZ024_138.wav
+CZE014_70_12	CZE014_70	CZE014	CZE	female	21.0	TRA	4.75	5.16	0.41	6	parity	p a r i t i	p a r i t i	p a r i t i	3	Czech/wav/014/CZ014_70.wav
+DEU071_51_8	DEU071_51	DEU071	DEU	male		TRA	2.73	3.26	0.53	6	feuerwehr	f eU etu r v el r	f ɔɪ ɛ v eː ʀ	f ɔ ɪ ɛ v eː ʀ	11	German/wav/071/GE071_51.wav
+DEU028_81_7	DEU028_81	DEU028	DEU	male		TRA	2.63	3.41	0.78	11	automatismus	a u t ol m a t i s m u s	aʊ t oː m a t ɪ s m ʊ s	a ʊ t oː m a t ɪ s m ʊ s	2	German/wav/028/GE028_81.wav
+CZE095_2_9	CZE095_2	CZE095	CZE	male	18.0	DEV	3.0	3.53	0.53	10	prostředky	p r o s t rsh e t k i	p r o s t r̝ ɛ t k i	p r o s t r̝ ɛ t k i	4	Czech/wav/095/CZ095_2.wav
+DEU009_89_5	DEU009_89	DEU009	DEU	male		EVA	3.04	3.38	0.34	5	gegen	g el g etu n	ɡ eː ɡ ə n	ɡ eː ɡ ə n	221	German/wav/009/GE009_89.wav
+DEU002_2_8	DEU002_2	DEU002	DEU	male		DEV	5.49	5.72	0.23	4	etwa	e t v a	ɛ t v aː	ɛ t v aː	10	German/wav/002/GE002_2.wav
+DEU031_33_4	DEU031_33	DEU031	DEU	male		TRA	1.27	1.95	0.68	11	dienststellen	d il n s t S t e l etu n	d iː n s t ʃ t ɛ l ə n	d iː n s t ʃ t ɛ l ə n	2	German/wav/031/GE031_33.wav
+CZE015_17_11	CZE015_17	CZE015	CZE	male	17.0	TRA	5.35	6.05	0.7	10	vyhláškami	v i h l aa sh k a m i	v i ɦ l aː ʃ k a m i	v i ɦ l aː ʃ k a m i	2	Czech/wav/015/CZ015_17.wav
+DEU011_86_12	DEU011_86	DEU011	DEU	female		TRA	3.8	4.06	0.26	6	während	v r etu n t	v ɛː r ə n t	v ɛː r ə n t	51	German/wav/011/GE011_86.wav
+CZE044_113_7	CZE044_113	CZE044	CZE	male	20.0	TRA	3.27	3.73	0.46	6	postoj	p o s t o j	p o s t o j	p o s t o j	59	Czech/wav/044/CZ044_113.wav
+CZE033_97_26	CZE033_97	CZE033	CZE	male	18.0	DEV	10.0	10.49	0.49	8	miroslav	m i r o s l a f	m i r o s l a v	m i r o s l a v	15	Czech/wav/033/CZ033_97.wav
+CZE052_8_7	CZE052_8	CZE052	CZE	male	22.0	TRA	3.73	4.15	0.42	5	růstu	r uu s t u	r uː s t u	r uː s t u	22	Czech/wav/052/CZ052_8.wav
+CZE040_129_3	CZE040_129	CZE040	CZE	female	21.0	TRA	2.2	3.19	0.99	14	znovunavrácení	z n o v u n a v r aa c e nj ii	z n o v u n a v r aː ts ɛ ɲ iː	z n o v u n a v r aː ts ɛ ɲ iː	52	Czech/wav/040/CZ040_129.wav
+DEU004_50_9	DEU004_50	DEU004	DEU	male		DEV	2.87	3.72	0.85	12	mitzuarbeiten	m i t ts ul a r b a i t etu n	m ɪ t ts uː a ʀ b aɪ t ə n	m ɪ t ts uː a ʀ b a ɪ t ə n	2	German/wav/004/GE004_50.wav
+DEU077_90_12	DEU077_90	DEU077	DEU	male		TRA	6.05	6.44	0.39	5	jedoch	j el d o x	j eː d ɔ x	j eː d ɔ x	138	German/wav/077/GE077_90.wav
+CZE009_106_18	CZE009_106	CZE009	CZE	male	22.0	TRA	8.15	8.57	0.42	5	firmy	f i r m i	f i r m i	f i r m i	256	Czech/wav/009/CZ009_106.wav
+DEU053_3_19	DEU053_3	DEU053	DEU	male		TRA	5.94	6.36	0.42	4	teurer	t eU r etu r	t ɔɪ r ɛ	t ɔ ɪ r ɛ	2	German/wav/053/GE053_3.wav
+DEU074_58_16	DEU074_58	DEU074	DEU	male		TRA	6.62	6.99	0.37	4	hand	h a n t	h a n t	h a n t	19	German/wav/074/GE074_58.wav
+DEU032_70_3	DEU032_70	DEU032	DEU	male		TRA	1.53	2.05	0.52	5	jedoch	j el d o x	j eː d ɔ x	j eː d ɔ x	138	German/wav/032/GE032_70.wav
+CZE064_84_14	CZE064_84	CZE064	CZE	male	22.0	TRA	6.91	7.31	0.4	4	také	t a k ee	t a k ɛː	t a k ɛː	362	Czech/wav/064/CZ064_84.wav
+DEU007_101_4	DEU007_101	DEU007	DEU	male		TRA	1.85	2.66	0.81	10	juristischen	j ul r i s t i S etu n	j uː r ɪ s t ɪ ʃ ə n	j uː r ɪ s t ɪ ʃ ə n	7	German/wav/007/GE007_101.wav
+CZE051_139_20	CZE051_139	CZE051	CZE	male	25.0	TRA	6.85	7.09	0.24	4	nichž	nj i x sh	ɲ i x ʃ	ɲ i x ʃ	140	Czech/wav/051/CZ051_139.wav
+CZE068_15_13	CZE068_15	CZE068	CZE	female	21.0	DEV	6.63	7.17	0.54	8	policie	p o l i c i j e	p o l i ts i j ɛ	p o l i ts i j ɛ	18	Czech/wav/068/CZ068_15.wav
+DEU030_66_9	DEU030_66	DEU030	DEU	male		TRA	3.74	4.09	0.35	5	willen	v i l etu n	v ɪ l ə n	v ɪ l ə n	13	German/wav/030/GE030_66.wav
+CZE029_93_9	CZE029_93	CZE029	CZE	female	19.0	TRA	3.15	3.57	0.42	8	manažera	m a n a zh e r a	m a n a ʒ ɛ r a	m a n a ʒ ɛ r a	17	Czech/wav/029/CZ029_93.wav
+CZE005_25_44	CZE005_25	CZE005	CZE	male	28.0	TRA	17.99	18.76	0.77	9	povinností	p o v i n o s tj ii	p o v i n o s c iː	p o v i n o s c iː	5	Czech/wav/005/CZ005_25.wav
+DEU051_119_17	DEU051_119	DEU051	DEU	male		EVA	5.43	5.68	0.25	4	dazu	d a ts ul	d aː ts uː	d aː ts uː	80	German/wav/051/GE051_119.wav
+CZE027_137_21	CZE027_137	CZE027	CZE	male	22.0	TRA	8.66	9.22	0.56	5	kroků	k r o k uu	k r o k uː	k r o k uː	55	Czech/wav/027/CZ027_137.wav
+DEU003_17_4	DEU003_17	DEU003	DEU	male		DEV	1.4	2.04	0.64	8	gewalttat	g etu v a l t t al t	ɡ ə v a l t aː t	ɡ ə v a l t aː t	2	German/wav/003/GE003_17.wav
+DEU068_74_15	DEU068_74	DEU068	DEU	male		TRA	7.2	7.76	0.56	10	nationalen	n a ts il ol n al l etu n	n a ts ɪ oː n aː l ə n	n a ts ɪ oː n aː l ə n	5	German/wav/068/GE068_74.wav
+DEU036_93_5	DEU036_93	DEU036	DEU	male		TRA	2.66	3.21	0.55	4	dazu	d a ts ul	d aː ts uː	d aː ts uː	80	German/wav/036/GE036_93.wav
+CZE075_103_17	CZE075_103	CZE075	CZE	male	22.0	TRA	9.49	10.16	0.67	8	předsedou	p rsh e d s e d ow	p r̝ ɛ t s ɛ d ou̯	p r̝ ɛ t s ɛ d o u ̯	5	Czech/wav/075/CZ075_103.wav
+DEU058_58_7	DEU058_58	DEU058	DEU	male		TRA	2.87	3.57	0.7	8	gegenüber	g el g etu n b etu r	ɡ eː ɡ ə n yː b ɛ	ɡ eː ɡ ə n yː b ɛ	57	German/wav/058/GE058_58.wav
+CZE030_57_5	CZE030_57	CZE030	CZE	male	21.0	TRA	2.36	2.91	0.55	7	náklady	n aa k l a d i	n aː k l a d i	n aː k l a d i	115	Czech/wav/030/CZ030_57.wav
+CZE025_26_17	CZE025_26	CZE025	CZE	male	74.0	TRA	8.03	8.7	0.67	8	výrobním	v ii r o b nj ii m	v iː r o b ɲ iː m	v iː r o b ɲ iː m	5	Czech/wav/025/CZ025_26.wav
+CZE033_124_29	CZE033_124	CZE033	CZE	male	18.0	DEV	9.51	10.05	0.54	9	například	n a p rsh ii k l a t	n a p r̝ iː k l a t	n a p r̝ iː k l a t	294	Czech/wav/033/CZ033_124.wav
+DEU034_16_11	DEU034_16	DEU034	DEU	male		TRA	4.06	4.54	0.48	5	obwohl	o p v ol l	ɔ p v oː l	ɔ p v oː l	11	German/wav/034/GE034_16.wav
+CZE042_116_5	CZE042_116	CZE042	CZE	female	22.0	TRA	1.54	2.14	0.6	10	podnikatel	p o d nj i k a t e l	p o d ɲ i k a t ɛ l	p o d ɲ i k a t ɛ l	72	Czech/wav/042/CZ042_116.wav
+CZE021_101_9	CZE021_101	CZE021	CZE	female	19.0	TRA	2.68	3.06	0.38	5	našem	n a sh e m	n a ʃ ɛ m	n a ʃ ɛ m	72	Czech/wav/021/CZ021_101.wav
+CZE005_133_30	CZE005_133	CZE005	CZE	male	28.0	TRA	9.96	10.61	0.65	8	čekající	ch e k a j ii c ii	t̠ʃ ɛ k a j iː ts iː	t̠ʃ ɛ k a j iː ts iː	52	Czech/wav/005/CZ005_133.wav
+CZE043_52_8	CZE043_52	CZE043	CZE	male	22.0	TRA	3.16	3.51	0.35	4	poté	p o t ee	p o t ɛː	p o t ɛː	28	Czech/wav/043/CZ043_52.wav
+CZE048_130_6	CZE048_130	CZE048	CZE	male	21.0	TRA	2.71	3.46	0.75	12	hospodářství	h o s p o d aa rsh s t v ii	ɦ o s p o d aː r̝ s t v iː	ɦ o s p o d aː r̝ s t v iː	74	Czech/wav/048/CZ048_130.wav
+CZE019_99_14	CZE019_99	CZE019	CZE	male	33.0	TRA	6.77	7.3	0.53	7	snížila	s nj ii zh i l a	s ɲ iː ʒ i l a	s ɲ iː ʒ i l a	6	Czech/wav/019/CZ019_99.wav
+CZE016_125_17	CZE016_125	CZE016	CZE	male	48.0	TRA	6.87	7.36	0.49	7	vchodové	f x o d o v ee	f x o d o v ɛː	f x o d o v ɛː	53	Czech/wav/016/CZ016_125.wav
+CZE095_48_3	CZE095_48	CZE095	CZE	male	18.0	DEV	1.34	1.61	0.27	5	došlo	d o sh l o	d o ʃ l o	d o ʃ l o	3	Czech/wav/095/CZ095_48.wav
+CZE036_55_30	CZE036_55	CZE036	CZE	male	20.0	TRA	11.51	11.79	0.28	4	tomu	t o m u	t o m u	t o m u	174	Czech/wav/036/CZ036_55.wav
+DEU064_14_15	DEU064_14	DEU064	DEU	male		TRA	7.1	7.37	0.27	4	unter	u n t atu	ʊ n t ɛ	ʊ n t ɛ	130	German/wav/064/GE064_14.wav
+CZE089_78_3	CZE089_78	CZE089	CZE	female	18.0	DEV	2.04	2.37	0.33	5	emise	e m i s e	ɛ m i s ɛ	ɛ m i s ɛ	3	Czech/wav/089/CZ089_78.wav
+CZE010_123_26	CZE010_123	CZE010	CZE	male	51.0	TRA	12.2	12.77	0.57	6	vedení	v e d e nj ii	v ɛ d ɛ ɲ iː	v ɛ d ɛ ɲ iː	147	Czech/wav/010/CZ010_123.wav
+CZE032_130_21	CZE032_130	CZE032	CZE	female	24.0	TRA	11.38	11.94	0.56	8	vybraných	v i b r a n ii x	v i b r a n iː x	v i b r a n iː x	60	Czech/wav/032/CZ032_130.wav
+CZE030_138_2	CZE030_138	CZE030	CZE	male	21.0	TRA	0.74	1.44	0.7	7	přírody	p rsh ii r o d i	p r̝ iː r o d i	p r̝ iː r o d i	54	Czech/wav/030/CZ030_138.wav
+DEU028_4_13	DEU028_4	DEU028	DEU	male		TRA	4.66	5.6	0.94	8	diktatur	d i k t a t ul r	d ɪ k t a t uː ʀ	d ɪ k t a t uː ʀ	3	German/wav/028/GE028_4.wav
+CZE024_138_9	CZE024_138	CZE024	CZE	female	20.0	TRA	3.23	3.86	0.63	7	myšlení	m i sh l e nj ii	m i ʃ l ɛ ɲ iː	m i ʃ l ɛ ɲ iː	59	Czech/wav/024/CZ024_138.wav
+DEU065_94_5	DEU065_94	DEU065	DEU	male		TRA	1.49	1.95	0.46	6	erfolg	e r f o l k	ɛ ʀ f ɔ l k	ɛ ʀ f ɔ l k	35	German/wav/065/GE065_94.wav
+CZE010_64_2	CZE010_64	CZE010	CZE	male	51.0	TRA	1.98	2.29	0.31	5	totiž	t o tj i sh	t o c i ʃ	t o c i ʃ	235	Czech/wav/010/CZ010_64.wav
+DEU028_110_2	DEU028_110	DEU028	DEU	male		TRA	0.54	0.82	0.28	5	sonst	z o n s t	z ɔ n s t	z ɔ n s t	15	German/wav/028/GE028_110.wav
+CZE072_17_10	CZE072_17	CZE072	CZE	female	21.0	TRA	5.85	6.44	0.59	8	právního	p r aa v nj ii h o	p r aː v ɲ iː ɦ o	p r aː v ɲ iː ɦ o	11	Czech/wav/072/CZ072_17.wav
+CZE033_90_9	CZE033_90	CZE033	CZE	male	18.0	DEV	4.03	4.56	0.53	6	služeb	s l u zh e p	s l u ʒ ɛ p	s l u ʒ ɛ p	35	Czech/wav/033/CZ033_90.wav
+DEU033_33_7	DEU033_33	DEU033	DEU	male		TRA	1.98	2.41	0.43	8	deutschland	d eU t S l a n t	d ɔɪ t ʃ l a n t	d ɔ ɪ t ʃ l a n t	111	German/wav/033/GE033_33.wav
+DEU020_139_3	DEU020_139	DEU020	DEU	male		EVA	0.58	0.79	0.21	4	solle	z o l etu	z ɔ l ə	z ɔ l ə	7	German/wav/020/GE020_139.wav
+CZE002_109_6	CZE002_109	CZE002	CZE	female	20.0	EVA	2.62	3.26	0.64	7	studii	s t u d i j i	s t u d i j i	s t u d i j i	52	Czech/wav/002/CZ002_109.wav
+DEU053_76_16	DEU053_76	DEU053	DEU	male		TRA	4.37	4.64	0.27	4	macht	m a x t	m a x t	m a x t	37	German/wav/053/GE053_76.wav
+DEU063_57_5	DEU063_57	DEU063	DEU	male		TRA	2.83	3.5	0.67	9	gemeinschaft	g etu m aI n S a f t	ɡ ə m aɪ n ʃ a f t	ɡ ə m a ɪ n ʃ a f t	14	German/wav/063/GE063_57.wav
+DEU001_43_8	DEU001_43	DEU001	DEU	male		DEV	2.86	3.35	0.49	8	deutschland	f r aI t al k	d ɔɪ t ʃ l a n t	d ɔ ɪ t ʃ l a n t	11	German/wav/001/GE001_43.wav
+DEU062_47_12	DEU062_47	DEU062	DEU	male		TRA	3.93	4.42	0.49	6	annahme	a n n al m etu	a n n aː m ə	a n n aː m ə	7	German/wav/062/GE062_47.wav
+CZE075_9_13	CZE075_9	CZE075	CZE	male	22.0	TRA	7.94	8.51	0.57	5	pořad	p o rzh a t	p o r̝ a t	p o r̝ a t	3	Czech/wav/075/CZ075_9.wav
+DEU017_75_11	DEU017_75	DEU017	DEU	male		TRA	3.11	3.38	0.27	5	lassen	l a s etu n	l a s ə n	l a s ə n	58	German/wav/017/GE017_75.wav
+CZE035_72_4	CZE035_72	CZE035	CZE	female	21.0	TRA	1.29	2.24	0.95	12	zaměstnanci	z a m nj e s t n a n c i	z a m ɲ ɛ s t n a n ts i	z a m ɲ ɛ s t n a n ts i	21	Czech/wav/035/CZ035_72.wav
+CZE007_70_10	CZE007_70	CZE007	CZE	male	33.0	TRA	4.71	5.37	0.66	8	prosince	p r o s i n c e	p r o s i n ts ɛ	p r o s i n ts ɛ	11	Czech/wav/007/CZ007_70.wav
+CZE017_129_5	CZE017_129	CZE017	CZE	female	46.0	EVA	2.2	2.74	0.54	8	světový	s v j e t o v ii	s v j ɛ t o v iː	s v j ɛ t o v iː	53	Czech/wav/017/CZ017_129.wav
+CZE087_63_10	CZE087_63	CZE087	CZE	female	44.0	DEV	4.41	4.86	0.45	7	miliard	m i l i j a r t	m i l i a r t	m i l i a r t	8	Czech/wav/087/CZ087_63.wav
+CZE054_71_5	CZE054_71	CZE054	CZE	male	23.0	EVA	1.44	1.73	0.29	5	jedna	j e d n a	j ɛ d n a	j ɛ d n a	170	Czech/wav/054/CZ054_71.wav
+CZE044_104_28	CZE044_104	CZE044	CZE	male	20.0	TRA	11.26	11.7	0.44	6	ohledu	o h l e d u	o ɦ l ɛ d u	o ɦ l ɛ d u	60	Czech/wav/044/CZ044_104.wav
+DEU002_93_6	DEU002_93	DEU002	DEU	male		DEV	1.92	2.39	0.47	4	sicher	z i C etu r	z ɪ ç ɛ	z ɪ ç ɛ	2	German/wav/002/GE002_93.wav
+CZE054_31_3	CZE054_31	CZE054	CZE	male	23.0	EVA	1.82	2.69	0.87	10	očekáváním	o ch e k aa v aa nj ii m	o t̠ʃ ɛ k aː v aː ɲ iː m	o t̠ʃ ɛ k aː v aː ɲ iː m	2	Czech/wav/054/CZ054_31.wav
+CZE020_82_6	CZE020_82	CZE020	CZE	female	25.0	TRA	2.38	2.73	0.35	5	první	p r v nj ii	p r̩ v ɲ iː	p r̩ v ɲ iː	147	Czech/wav/020/CZ020_82.wav
+CZE017_105_4	CZE017_105	CZE017	CZE	female	46.0	EVA	1.37	1.82	0.45	5	kteří	k t e rzh ii	k t ɛ r̝ iː	k t ɛ r̝ iː	186	Czech/wav/017/CZ017_105.wav
+DEU006_148_7	DEU006_148	DEU006	DEU	male		TRA	3.01	3.43	0.42	6	menschen	m e n S etu n	m ɛ n ʃ ə n	m ɛ n ʃ ə n	81	German/wav/006/GE006_148.wav
+CZE001_138_20	CZE001_138	CZE001	CZE	female	51.0	TRA	10.66	11.49	0.83	7	jednání	j e d n aa nj ii	j ɛ d n aː ɲ iː	j ɛ d n aː ɲ iː	204	Czech/wav/001/CZ001_138.wav
+DEU058_8_9	DEU058_8	DEU058	DEU	male		TRA	3.65	4.28	0.63	7	gemerkt	g etu m e atu k t	ɡ ə m ɛ ʀ k t	ɡ ə m ɛ ʀ k t	2	German/wav/058/GE058_8.wav
+DEU024_165_5	DEU024_165	DEU024	DEU	male		TRA	1.62	1.8	0.18	4	nimmt	n i m t	n ɪ m t	n ɪ m t	21	German/wav/024/GE024_165.wav
+CZE067_59_18	CZE067_59	CZE067	CZE	male	21.0	TRA	6.73	7.28	0.55	8	pracovní	p r a c o v nj ii	p r a ts o v ɲ iː	p r a ts o v ɲ iː	87	Czech/wav/067/CZ067_59.wav
+CZE012_7_18	CZE012_7	CZE012	CZE	male	17.0	TRA	6.18	6.41	0.23	5	navíc	n a v ii c	n a v iː ts	n a v iː ts	30	Czech/wav/012/CZ012_7.wav
+CZE015_121_24	CZE015_121	CZE015	CZE	male	17.0	TRA	10.68	11.19	0.51	6	jedním	j e d nj ii m	j ɛ d ɲ iː m	j ɛ d ɲ iː m	77	Czech/wav/015/CZ015_121.wav
+CZE028_119_26	CZE028_119	CZE028	CZE	female	24.0	TRA	10.75	11.11	0.36	4	bázi	b aa z i	b aː z i	b aː z i	52	Czech/wav/028/CZ028_119.wav
+CZE012_35_27	CZE012_35	CZE012	CZE	male	17.0	TRA	11.14	11.68	0.54	8	dvanáctý	d v a n aa c t ii	d v a n aː ts t iː	d v a n aː ts t iː	10	Czech/wav/012/CZ012_35.wav
+CZE031_124_3	CZE031_124	CZE031	CZE	male	21.0	TRA	1.72	2.32	0.6	8	přísluší	p rsh ii s l u sh ii	p r̝ iː s l u ʃ iː	p r̝ iː s l u ʃ iː	54	Czech/wav/031/CZ031_124.wav
+DEU050_75_3	DEU050_75	DEU050	DEU	male		TRA	0.84	1.18	0.34	9	präsident	p r s i d e n t	p r ɛː z iː d ɛ n t	p r ɛː z iː d ɛ n t	52	German/wav/050/GE050_75.wav
+CZE044_70_2	CZE044_70	CZE044	CZE	male	20.0	TRA	1.54	2.27	0.73	8	výsledky	v ii s l e t k i	v iː s l ɛ t k i	v iː s l ɛ t k i	30	Czech/wav/044/CZ044_70.wav
+CZE030_119_7	CZE030_119	CZE030	CZE	male	21.0	TRA	2.94	3.84	0.9	11	společnosti	s p o l e ch n o s tj i	s p o l ɛ t̠ʃ n o s c i	s p o l ɛ t̠ʃ n o s c i	157	Czech/wav/030/CZ030_119.wav
+DEU009_177_4	DEU009_177	DEU009	DEU	male		EVA	1.36	1.67	0.31	5	damit	d a m i t	d aː m ɪ t	d aː m ɪ t	135	German/wav/009/GE009_177.wav
+CZE039_46_10	CZE039_46	CZE039	CZE	male	20.0	TRA	4.36	4.88	0.52	5	první	p r v nj ii	p r̩ v ɲ iː	p r̩ v ɲ iː	147	Czech/wav/039/CZ039_46.wav
+CZE039_137_23	CZE039_137	CZE039	CZE	male	20.0	TRA	9.48	10.12	0.64	9	nezbytných	n e z b i t n ii x	n ɛ z b i t n iː x	n ɛ z b i t n iː x	53	Czech/wav/039/CZ039_137.wav
+CZE032_60_2	CZE032_60	CZE032	CZE	female	24.0	TRA	0.71	1.16	0.45	7	výběru	v ii b j e r u	v iː b j ɛ r u	v iː b j ɛ r u	13	Czech/wav/032/CZ032_60.wav
+CZE071_6_2	CZE071_6	CZE071	CZE	female	20.0	TRA	0.48	1.14	0.66	9	frajeřiny	f r a j e rzh i n i	f r a j ɛ r̝ i n i	f r a j ɛ r̝ i n i	2	Czech/wav/071/CZ071_6.wav
+CZE049_136_40	CZE049_136	CZE049	CZE	male	22.0	TRA	14.71	15.53	0.82	9	problémem	p r o b l ee m e m	p r o b l ɛː m ɛ m	p r o b l ɛː m ɛ m	62	Czech/wav/049/CZ049_136.wav
+DEU011_58_10	DEU011_58	DEU011	DEU	female		TRA	3.25	4.08	0.83	10	erkrankten	e r k r a ng k t etu n	ɛ ʀ k r a ŋ k t ə n	ɛ ʀ k r a ŋ k t ə n	2	German/wav/011/GE011_58.wav
+DEU025_10_9	DEU025_10	DEU025	DEU	male		TRA	3.63	4.61	0.98	13	spekulationen	S p el k ul l a ts il ol n etu n	ʃ p eː k uː l a ts ɪ oː n ə n	ʃ p eː k uː l a ts ɪ oː n ə n	5	German/wav/025/GE025_10.wav
+CZE068_98_7	CZE068_98	CZE068	CZE	female	21.0	DEV	2.7	3.01	0.31	4	host	h o s t	ɦ o s t	ɦ o s t	3	Czech/wav/068/CZ068_98.wav
+CZE050_39_5	CZE050_39	CZE050	CZE	female	21.0	TRA	1.75	2.13	0.38	6	státní	s t aa t nj ii	s t aː t ɲ iː	s t aː t ɲ iː	66	Czech/wav/050/CZ050_39.wav
+CZE002_135_35	CZE002_135	CZE002	CZE	female	20.0	EVA	18.27	18.63	0.36	6	lomeno	l o m e n o	l o m ɛ n o	l o m ɛ n o	129	Czech/wav/002/CZ002_135.wav
+CZE063_32_19	CZE063_32	CZE063	CZE	male	20.0	TRA	7.49	8.05	0.56	6	finové	f i n o v ee	f i n o v ɛː	f i n o v ɛː	4	Czech/wav/063/CZ063_32.wav
+CZE022_15_8	CZE022_15	CZE022	CZE	male	47.0	TRA	3.34	3.78	0.44	6	místní	m ii s t nj ii	m iː s t ɲ iː	m iː s t ɲ iː	10	Czech/wav/022/CZ022_15.wav
+CZE040_88_7	CZE040_88	CZE040	CZE	female	21.0	TRA	2.79	3.27	0.48	7	znamená	z n a m e n aa	z n a m ɛ n aː	z n a m ɛ n aː	99	Czech/wav/040/CZ040_88.wav
+CZE006_137_34	CZE006_137	CZE006	CZE	female	26.0	TRA	12.22	12.68	0.46	8	pracovní	p r a c o v nj ii	p r a ts o v ɲ iː	p r a ts o v ɲ iː	87	Czech/wav/006/CZ006_137.wav
+CZE060_34_3	CZE060_34	CZE060	CZE	male	21.0	TRA	1.62	2.12	0.5	8	veletrhů	v e l e t r h uu	v ɛ l ɛ t r̩ ɦ uː	v ɛ l ɛ t r̩ ɦ uː	2	Czech/wav/060/CZ060_34.wav
+DEU010_50_19	DEU010_50	DEU010	DEU	female		DEV	6.6	7.06	0.46	4	führt	f r t	f yː ʀ t	f yː ʀ t	2	German/wav/010/GE010_50.wav
+CZE075_9_1	CZE075_9	CZE075	CZE	male	22.0	TRA	0.71	1.73	1.02	4	ln	e l e n	ɛ l ɛ n	ɛ l ɛ n	28	Czech/wav/075/CZ075_9.wav
+CZE008_47_3	CZE008_47	CZE008	CZE	male	27.0	TRA	1.19	1.61	0.42	5	jednou	j e d n ow	j ɛ d n ou̯	j ɛ d n o u ̯	34	Czech/wav/008/CZ008_47.wav
+CZE066_76_14	CZE066_76	CZE066	CZE	female	20.0	TRA	7.11	7.41	0.3	4	kohl	k oo h l	k o ɦ l̩	k o ɦ l̩	3	Czech/wav/066/CZ066_76.wav
+CZE016_29_5	CZE016_29	CZE016	CZE	male	48.0	TRA	1.03	1.52	0.49	7	každého	k a zh d ee h o	k a ʒ d ɛː ɦ o	k a ʒ d ɛː ɦ o	20	Czech/wav/016/CZ016_29.wav
+DEU034_25_7	DEU034_25	DEU034	DEU	male		TRA	1.91	2.13	0.22	4	alte	a l t etu	a l t ə	a l t ə	54	German/wav/034/GE034_25.wav
+CZE025_104_14	CZE025_104	CZE025	CZE	male	74.0	TRA	5.08	5.47	0.39	6	obvodu	o b v o d u	o b v o d u	o b v o d u	59	Czech/wav/025/CZ025_104.wav
+DEU021_52_17	DEU021_52	DEU021	DEU	male		EVA	5.49	5.91	0.42	5	heimat	h a i m al t	h aɪ m aː t	h a ɪ m aː t	2	German/wav/021/GE021_52.wav
+CZE056_14_31	CZE056_14	CZE056	CZE	male	22.0	DEV	13.85	14.68	0.83	12	pořizovatele	p o rzh i z o v a t e l e	p o r̝ i z o v a t ɛ l ɛ	p o r̝ i z o v a t ɛ l ɛ	11	Czech/wav/056/CZ056_14.wav
+CZE021_44_6	CZE021_44	CZE021	CZE	female	19.0	TRA	2.55	3.36	0.81	10	vztahující	v s t a h u j ii c ii	f s t a ɦ u j iː ts iː	f s t a ɦ u j iː ts iː	3	Czech/wav/021/CZ021_44.wav
+DEU013_174_21	DEU013_174	DEU013	DEU	male		TRA	7.11	7.51	0.4	7	serbien	s e r b i etu n	z ɛ ʀ b iː ə n	z ɛ ʀ b iː ə n	16	German/wav/013/GE013_174.wav
+CZE036_25_21	CZE036_25	CZE036	CZE	male	20.0	TRA	6.03	6.21	0.18	4	měl	m nj e l	m ɲ ɛ l	m ɲ ɛ l	159	Czech/wav/036/CZ036_25.wav
+DEU003_117_11	DEU003_117	DEU003	DEU	male		DEV	5.02	5.61	0.59	12	wirtschaftlicher	v i r t S a f t l i C etu r	v ɪ ʀ t ʃ a f t l ɪ ç ɛ	v ɪ ʀ t ʃ a f t l ɪ ç ɛ	2	German/wav/003/GE003_117.wav
+DEU049_8_6	DEU049_8	DEU049	DEU	female		TRA	1.94	2.32	0.38	5	anruf	a n r ul f	a n r uː f	a n r uː f	4	German/wav/049/GE049_8.wav
+CZE057_53_3	CZE057_53	CZE057	CZE	female	48.0	TRA	1.12	1.66	0.54	10	devatenáct	d e v a t e n aa c t	d ɛ v a t ɛ n aː ts t	d ɛ v a t ɛ n aː ts t	433	Czech/wav/057/CZ057_53.wav
+DEU061_46_11	DEU061_46	DEU061	DEU	male		TRA	4.28	4.64	0.36	6	wurden	v u atu d etu n	v ʊ ɐ d ə n	v ʊ ɐ d ə n	137	German/wav/061/GE061_46.wav
+CZE019_87_19	CZE019_87	CZE019	CZE	male	33.0	TRA	8.54	9.12	0.58	9	propojení	p r o p o j e nj ii	p r o p o j ɛ ɲ iː	p r o p o j ɛ ɲ iː	3	Czech/wav/019/CZ019_87.wav
+DEU009_63_5	DEU009_63	DEU009	DEU	male		EVA	1.98	2.62	0.64	8	donnerstag	d o n atu s t al k	d ɔ n ɛ s t aː k	d ɔ n ɛ s t aː k	43	German/wav/009/GE009_63.wav
+CZE044_13_16	CZE044_13	CZE044	CZE	male	20.0	TRA	6.3	6.58	0.28	4	daně	d a nj e	d a ɲ ɛ	d a ɲ ɛ	45	Czech/wav/044/CZ044_13.wav
+DEU061_59_9	DEU061_59	DEU061	DEU	male		TRA	3.72	4.19	0.47	7	politik	p ol l il t il k	p oː l iː t iː k	p oː l iː t iː k	56	German/wav/061/GE061_59.wav
+DEU004_147_7	DEU004_147	DEU004	DEU	male		DEV	2.96	3.33	0.37	6	ländern	l n d atu n	l ɛ n d ɛ n	l ɛ n d ɛ n	5	German/wav/004/GE004_147.wav
+CZE062_86_1	CZE062_86	CZE062	CZE	male	20.0	TRA	0.67	1.35	0.68	6	pánové	p aa n o v ee	p aː n o v ɛː	p aː n o v ɛː	2	Czech/wav/062/CZ062_86.wav
+CZE090_67_20	CZE090_67	CZE090	CZE	female	21.0	EVA	11.32	12.04	0.72	6	smlouvy	s m l ow v i	s m l ou̯ v i	s m l o u ̯ v i	3	Czech/wav/090/CZ090_67.wav
+DEU048_77_2	DEU048_77	DEU048	DEU	male		TRA	0.3	0.98	0.68	6	kümmere	k m etu r etu	k ʏ m ə r ə	k ʏ m ə r ə	2	German/wav/048/GE048_77.wav
+CZE097_3_1	CZE097_3	CZE097	CZE	female	16.0	DEV	0.64	1.0	0.36	5	třeba	t rsh e b a	t r̝ ɛ b a	t r̝ ɛ b a	7	Czech/wav/097/CZ097_3.wav
+DEU028_21_9	DEU028_21	DEU028	DEU	male		TRA	3.46	3.81	0.35	6	menschen	m e n S etu n	m ɛ n ʃ ə n	m ɛ n ʃ ə n	81	German/wav/028/GE028_21.wav
+DEU007_61_9	DEU007_61	DEU007	DEU	male		TRA	4.36	5.19	0.83	9	umgeleitet	u m g etu l a i t etu t	ʊ m ɡ ə l aɪ t ə t	ʊ m ɡ ə l a ɪ t ə t	2	German/wav/007/GE007_61.wav
+CZE033_104_6	CZE033_104	CZE033	CZE	male	18.0	DEV	2.13	2.58	0.45	8	průměru	p r uu m nj e r u	p r uː m ɲ ɛ r u	p r uː m ɲ ɛ r u	63	Czech/wav/033/CZ033_104.wav
+DEU066_72_5	DEU066_72	DEU066	DEU	male		TRA	1.61	2.47	0.86	10	asylbewerber	a z uel l b etu v e r b etu r	a z ʏ l b eː v ɛ b ɛ	a z ʏ l b eː v ɛ b ɛ	15	German/wav/066/GE066_72.wav
+DEU017_68_17	DEU017_68	DEU017	DEU	male		TRA	7.03	7.46	0.43	5	führern	f r etu r n	f yː r ɛ n	f yː r ɛ n	2	German/wav/017/GE017_68.wav
+CZE088_81_2	CZE088_81	CZE088	CZE	female	69.0	EVA	1.46	1.79	0.33	4	této	t ee t o	t ɛː t o	t ɛː t o	10	Czech/wav/088/CZ088_81.wav
+CZE037_132_38	CZE037_132	CZE037	CZE	male	25.0	TRA	14.37	15.13	0.76	10	očekávaných	o ch e k aa v a n ii x	o t̠ʃ ɛ k aː v a n iː x	o t̠ʃ ɛ k aː v a n iː x	52	Czech/wav/037/CZ037_132.wav
+CZE074_79_12	CZE074_79	CZE074	CZE	male	23.0	TRA	6.2	6.51	0.31	4	jako	j a k o	j a k o	j a k o	485	Czech/wav/074/CZ074_79.wav
+CZE032_130_24	CZE032_130	CZE032	CZE	female	24.0	TRA	12.55	13.16	0.61	7	německu	nj e m e c k u	ɲ ɛ m ɛ ts k u	ɲ ɛ m ɛ ts k u	39	Czech/wav/032/CZ032_130.wav
