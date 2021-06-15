@@ -1,6 +1,6 @@
 ## Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study
 
-**In INTERSPEECH 2020**
+**In INTERSPEECH 2021**
 
 Badr M. Abdullah, Marius Mosbach, Iuliia Zaitova, Bernd Möbius, Dietrich Klakow
 
