@@ -21,7 +21,7 @@ python 3.8, pytorch 1.1, numpy, scipy, faiss, pickle, pandas, yaml
 
 
 ### Speech Data :speech_balloon: :left_speech_bubble:
-The data in our study is drawn from the Multilingual GlobalPhone speech database for  German :de: and  Czech :czech_republic:. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would have access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
+The data in our study is drawn from the Multilingual GlobalPhone speech database for  German :de: and  Czech :czech_republic:. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would like to access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
 
 
 ### Working with the code :snake:
