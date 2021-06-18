@@ -1,6 +1,8 @@
-## Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study
+## Acoustic Word Embeddings and Phonological Similarity
 
-This is the code base for the acoustic word embedding models, training experiments, and evaluation scripts for the experiments reported in our **INTERSPEECH 2021** paper [Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study](https://arxiv.org/pdf/2106.08686.pdf)
+This is the code base for the acoustic word embedding models, training experiments, and evaluation scripts for the experiments reported in our **INTERSPEECH 2021** paper 
+
+[Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study](https://arxiv.org/pdf/2106.08686.pdf)
 
 <!-- To cite the paper
 
