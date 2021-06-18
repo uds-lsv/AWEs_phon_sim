@@ -15,16 +15,16 @@ This is the code base for the acoustic word embedding models, training experimen
 }
 ``` -->
 
-### Dependencies
+### Dependencies :dna:
 
 python 3.8, pytorch 1.1, numpy, scipy, faiss, pickle, pandas, yaml
 
 
-### Speech Data :speech_balloon:
-The data in our study is drawn from the Multilingual GlobalPhone speech database for  German :de: and  Czech :cs:. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would have access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
+### Speech Data :speech_balloon: :left_speech_bubble:
+The data in our study is drawn from the Multilingual GlobalPhone speech database for  German :de: and  Czech :czech_republic:. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would have access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
 
 
-### Working with the code
+### Working with the code :snake:
 To run a training experiment, write down all hyperparameters and other info in the config file ```config_file_train_awe_bigru_seq2seq.yml```
 
 Then ...
