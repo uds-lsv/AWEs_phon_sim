@@ -1,8 +1,8 @@
-## Acoustic Word Embeddings and Phonological Similarity
+## Acoustic Word Embeddings and Phonological Similarity :tea:
 
 This is the code base for the acoustic word embedding models, training experiments, and evaluation scripts for the experiments reported in our **INTERSPEECH 2021** paper 
 
-[Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study](https://arxiv.org/pdf/2106.08686.pdf)
+:pencil: [Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study](https://arxiv.org/pdf/2106.08686.pdf)
 
 <!-- To cite the paper
 
@@ -20,8 +20,8 @@ This is the code base for the acoustic word embedding models, training experimen
 python 3.8, pytorch 1.1, numpy, scipy, faiss, pickle, pandas, yaml
 
 
-### Speech Data
-The data in our study is drawn from the Multilingual GlobalPhone speech database for  German and  Czech. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would have access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
+### Speech Data :speech_balloon:
+The data in our study is drawn from the Multilingual GlobalPhone speech database for  German :de: and  Czech :cs:. Because the data is distributed under a research license by Appen Butler Hill Pty Ltd., we cannot re-distribute the raw speech data. However, if you have already access to the GlobalPhone speech database and you would have access to our word-alignment annotations, train/test splits, and word-level IPA transcriptions, please contact the first author. 
 
 
 ### Working with the code
